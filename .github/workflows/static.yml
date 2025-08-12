@@ -33,33 +33,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-      
-      - name: Install dependencies
-        run: |
-          pip install -r mkdocs/requirements.txt
-      
-      - name: Update README and generate docs
-        run: |
-          python scripts/update_readme.py
-          python scripts/update_docs.py
-      
-      - name: Build site
-        run: |
-          cd mkdocs
-          mkdocs build --site-dir ../site
-      
       - name: Setup Pages
         uses: actions/configure-pages@v5
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload built site from mkdocs
-          path: './site'
+          # Upload pre-built site from mkdocs folder
+          path: './mkdocs/site'
       
       - name: Deploy to GitHub Pages
         id: deployment
