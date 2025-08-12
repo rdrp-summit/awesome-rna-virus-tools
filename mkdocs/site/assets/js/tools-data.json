@@ -1,0 +1,202 @@
+[
+  {
+    "name": "RdRp-scan",
+    "url": "https://github.com/JustineCharon/RdRp-scan/",
+    "description": "Fast profile-based detection of RNA-dependent RNA polymerase (RdRp) sequences for exploring the 'dusk matter' of the RNA virosphere",
+    "language": "Python",
+    "license": null,
+    "version": null,
+    "doi": null,
+    "topics": [
+      "rna-virus-identification",
+      "rdrp-detection",
+      "metagenomics"
+    ],
+    "package_managers": [
+      "bioconda"
+    ],
+    "platforms": [],
+    "installation_methods": [],
+    "date": "2021-11-15"
+  },
+  {
+    "name": "Serratus",
+    "url": "https://github.com/ababaian/serratus",
+    "description": "Ultra-high throughput discovery of RNA viruses from public sequencing data using cloud computing",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "version": "1.0",
+    "doi": "10.1038/s41586-021-04332-2",
+    "topics": [
+      "rna-virus-identification",
+      "cloud-computing",
+      "high-throughput",
+      "discovery"
+    ],
+    "package_managers": [
+      "bioconda"
+    ],
+    "platforms": [],
+    "installation_methods": [],
+    "date": "2022-02-02"
+  },
+  {
+    "name": "palmID",
+    "url": "https://github.com/rcedgar/palmscan",
+    "description": "Identifies and classifies RNA virus sequences based on the conserved RdRp palm domain",
+    "language": "C++",
+    "license": "GPL-3.0",
+    "version": "1.0",
+    "doi": "10.1093/ve/veab050",
+    "topics": [
+      "rna-virus-identification",
+      "rdrp-detection",
+      "classification",
+      "taxonomy"
+    ],
+    "package_managers": [
+      "github"
+    ],
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "installation_methods": [
+      "source",
+      "binary"
+    ],
+    "date": "2021-06-15"
+  },
+  {
+    "name": "DeepVirFinder",
+    "url": "https://github.com/jessieren/DeepVirFinder",
+    "description": "Deep learning method for identifying viral sequences from metagenomic data",
+    "language": "Python",
+    "license": "MIT",
+    "version": "1.0",
+    "doi": "10.1038/s41592-017-0084-5",
+    "topics": [
+      "virus-identification",
+      "machine-learning",
+      "deep-learning",
+      "metagenomics"
+    ],
+    "package_managers": [
+      "github"
+    ],
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "installation_methods": [
+      "source"
+    ],
+    "date": "2017-10-01"
+  },
+  {
+    "name": "VirSorter2",
+    "url": "https://github.com/jiarong/VirSorter2",
+    "description": "Multi-classifier approach to detect diverse DNA and RNA virus sequences",
+    "language": "Python",
+    "license": "GPL-2.0",
+    "version": "2.2.4",
+    "doi": "10.1186/s40168-020-00990-y",
+    "topics": [
+      "virus-identification",
+      "multi-classifier",
+      "rna-viruses",
+      "dna-viruses"
+    ],
+    "package_managers": [
+      "bioconda"
+    ],
+    "platforms": [],
+    "installation_methods": [],
+    "date": "2021-01-15"
+  },
+  {
+    "name": "metaviralSPAdes-RNA",
+    "url": "https://github.com/ablab/spades",
+    "description": "Modified metaSPAdes assembler optimized for RNA viral genome assembly from metagenomic data",
+    "language": "C++",
+    "license": "GPL-2.0",
+    "version": "3.15.5",
+    "doi": "10.1093/bioinformatics/btab102",
+    "topics": [
+      "genome-assembly",
+      "rna-viruses",
+      "metagenomics",
+      "specialized-assembly"
+    ],
+    "package_managers": [
+      "bioconda"
+    ],
+    "platforms": [],
+    "installation_methods": [],
+    "date": "2021-02-15"
+  },
+  {
+    "name": "coronaSPAdes",
+    "url": "https://github.com/ablab/spades",
+    "description": "Specialized assembler for coronavirus genomes and other RNA viral sequences",
+    "language": "C++",
+    "license": "GPL-2.0",
+    "version": "3.15.5",
+    "doi": "10.1093/bioinformatics/btab597",
+    "topics": [
+      "genome-assembly",
+      "coronavirus",
+      "rna-viruses",
+      "specialized-assembly"
+    ],
+    "package_managers": [
+      "bioconda"
+    ],
+    "platforms": [],
+    "installation_methods": [],
+    "date": "2021-08-20"
+  },
+  {
+    "name": "VIGOR",
+    "url": "https://github.com/JCVI-VIRIFX/VIGOR4",
+    "description": "Viral genome ORF reader for annotation of viral genomes, including RNA viruses",
+    "language": "Perl",
+    "license": "GPL-3.0",
+    "version": "4.1.20200702",
+    "doi": "10.1186/1471-2105-11-451",
+    "topics": [
+      "genome-annotation",
+      "orf-prediction",
+      "viral-genomes",
+      "rna-viruses"
+    ],
+    "package_managers": [
+      "bioconda"
+    ],
+    "platforms": [],
+    "installation_methods": [],
+    "date": "2010-09-01"
+  },
+  {
+    "name": "ViralMSA",
+    "url": "https://github.com/niemasd/ViralMSA",
+    "description": "Massively scalable reference-guided multiple sequence alignment of viral genomes, including RNA viruses",
+    "language": "Python",
+    "license": "GPL-3.0",
+    "version": "1.1.44",
+    "doi": "10.1093/bioinformatics/btaa743",
+    "topics": [
+      "phylogenetics",
+      "multiple-sequence-alignment",
+      "viral-genomes",
+      "rna-viruses"
+    ],
+    "package_managers": [
+      "bioconda"
+    ],
+    "platforms": [],
+    "installation_methods": [],
+    "date": "2020-08-15"
+  }
+]

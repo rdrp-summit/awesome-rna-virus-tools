@@ -1,0 +1,91 @@
+site_name: Awesome RNA Virus Tools
+site_url: https://rdrp-summit.github.io/awesome-rna-virus-tools/
+repo_url: https://github.com/rdrp-summit/awesome-rna-virus-tools
+repo_name: rdrp-summit/awesome-rna-virus-tools
+edit_uri: edit/main/mkdocs/docs/
+theme:
+  name: material
+  logo: assets/awesome-rna-virus-tools-hex.png
+  favicon: assets/awesome-rna-virus-tools-hex.png
+  palette:
+  - media: '(prefers-color-scheme: light)'
+    scheme: default
+    primary: indigo
+    accent: indigo
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - media: '(prefers-color-scheme: dark)'
+    scheme: slate
+    primary: indigo
+    accent: indigo
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+  - navigation.tracking
+  - navigation.tabs
+  - navigation.sections
+  - navigation.indexes
+  - navigation.top
+  - navigation.footer
+  - content.tabs.link
+  - content.code.copy
+  - content.code.annotate
+  - search.highlight
+  - search.share
+  - search.suggest
+  icon:
+    admonition:
+      tool: material/tools
+    edit: material/pencil
+    view: material/eye
+  font:
+    text: Roboto
+    code: Roboto Mono
+extra_css:
+- assets/css/tool-explorer.css
+extra_javascript:
+- assets/js/tool-explorer.js
+markdown_extensions:
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+- pymdownx.highlight:
+    anchor_linenums: true
+    line_spans: __span
+    pygments_lang_class: true
+- pymdownx.inlinehilite
+- pymdownx.snippets
+- pymdownx.tabbed:
+    alternate_style: true
+- tables
+- footnotes
+- attr_list
+- md_in_html
+plugins:
+- search:
+    separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+- mike:
+    version_selector: true
+    canonical_version: latest
+nav:
+- Home: index.md
+- Explorer: explorer/index.md
+- About: about/index.md
+- Contributing: contributing/guidelines.md
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/rdrp-summit/awesome-rna-virus-tools
+  - icon: fontawesome/solid/envelope
+    link: mailto:contact@rdrp-summit.org
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+  version:
+    provider: mike
+    default: latest
+copyright: '&copy; 2025 <a href="https://github.com/rdrp-summit">RdRp Summit Community</a>
+  - Licensed under <a href="https://github.com/rdrp-summit/awesome-rna-virus-tools/blob/main/LICENSE">MIT
+  License</a>'

@@ -1,0 +1,15 @@
+{
+  "name": "palmID",
+  "url": "https://github.com/rcedgar/palmscan",
+  "doi": "10.1093/ve/veab050",
+  "bibtex": "@article{edgar2021palmid,\n  title={Petabase-scale sequence alignment catalyses viral discovery},\n  author={Edgar, Robert C},\n  journal={Virus Evolution},\n  volume={7},\n  number={2},\n  pages={veab050},\n  year={2021},\n  publisher={Oxford University Press}\n}",
+  "description": "Identifies and classifies RNA virus sequences based on the conserved RdRp palm domain",
+  "date": "2021-06-15",
+  "version": "1.0",
+  "license": "GPL-3.0",
+  "language": "C++",
+  "topics": ["rna-virus-identification", "rdrp-detection", "classification", "taxonomy"],
+  "package_managers": ["github"],
+  "platforms": ["linux", "macos", "windows"],
+  "installation_methods": ["source", "binary"]
+}

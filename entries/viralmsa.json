@@ -1,0 +1,13 @@
+{
+  "name": "ViralMSA",
+  "url": "https://github.com/niemasd/ViralMSA",
+  "doi": "10.1093/bioinformatics/btaa743",
+  "bibtex": "@article{moshiri2020viralmsa,\n  title={ViralMSA: massively scalable reference-guided multiple sequence alignment of viral genomes},\n  author={Moshiri, Niema},\n  journal={Bioinformatics},\n  volume={37},\n  number={5},\n  pages={714--716},\n  year={2021},\n  publisher={Oxford University Press}\n}",
+  "description": "Massively scalable reference-guided multiple sequence alignment of viral genomes, including RNA viruses",
+  "date": "2020-08-15",
+  "version": "1.1.44",
+  "license": "GPL-3.0",
+  "language": "Python",
+  "topics": ["phylogenetics", "multiple-sequence-alignment", "viral-genomes", "rna-viruses"],
+  "package_managers": ["bioconda"]
+}

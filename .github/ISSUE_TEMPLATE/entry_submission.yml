@@ -1,0 +1,8 @@
+name: New entry Submission
+description: Submit a new entry to be added to awesome-rna-virus-tools
+title: "[new entry]: "
+labels: ["new-entry"]
+body:
+  - type: markdown
+    attributes:
+      value: "To add a tool, open a Pull request where you add a json file to the entries folder. The json file must be of the format in entries/schema.json"

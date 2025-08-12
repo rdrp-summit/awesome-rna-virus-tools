@@ -1,0 +1,13 @@
+{
+  "name": "Serratus",
+  "url": "https://github.com/ababaian/serratus",
+  "doi": "10.1038/s41586-021-04332-2",
+  "bibtex": "@article{edgar2022serratus,\n  title={Serratus: Ultra-high throughput discovery of RNA viruses from public sequencing data},\n  author={Edgar, Robert C and Taylor, Jeff and Lin, Victor and Altman, Tomer and Barbera, Pierre and Meleshko, Dmitry and Lohr, Dan and Novakovsky, Gherman and Buchfink, Benjamin and Al-Shayeb, Basem and others},\n  journal={Nature},\n  volume={602},\n  number={7895},\n  pages={142--147},\n  year={2022},\n  publisher={Nature Publishing Group}\n}",
+  "description": "Ultra-high throughput discovery of RNA viruses from public sequencing data using cloud computing",
+  "date": "2022-02-02",
+  "version": "1.0",
+  "license": "GPL-3.0",
+  "language": "Python",
+  "topics": ["rna-virus-identification", "cloud-computing", "high-throughput", "discovery"],
+  "package_managers": ["bioconda"]
+}

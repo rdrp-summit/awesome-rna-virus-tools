@@ -1,0 +1,15 @@
+{
+  "name": "DeepVirFinder",
+  "url": "https://github.com/jessieren/DeepVirFinder",
+  "doi": "10.1038/s41592-017-0084-5",
+  "bibtex": "@article{ren2017deepvirfinder,\n  title={Identifying viruses from metagenomic data using deep learning},\n  author={Ren, Jie and Ahlgren, Nathan A and Lu, Yang Young and Fuhrman, Jed A and Sun, Fengzhu},\n  journal={Nature Methods},\n  volume={14},\n  number={10},\n  pages={985--998},\n  year={2017},\n  publisher={Nature Publishing Group}\n}",
+  "description": "Deep learning method for identifying viral sequences from metagenomic data",
+  "date": "2017-10-01",
+  "version": "1.0",
+  "license": "MIT",
+  "language": "Python",
+  "topics": ["virus-identification", "machine-learning", "deep-learning", "metagenomics"],
+  "package_managers": ["github"],
+  "platforms": ["linux", "macos"],
+  "installation_methods": ["source"]
+}
