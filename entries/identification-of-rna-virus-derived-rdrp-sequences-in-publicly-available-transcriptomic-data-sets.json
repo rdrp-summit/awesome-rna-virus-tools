@@ -1,0 +1,28 @@
+{
+  "name": "Identification of RNA Virus-Derived RdRp Sequences in Publicly Available Transcriptomic Data Sets",
+  "url": "https://doi.org/10.1093/molbev/msad060",
+  "doi": "10.1093/molbev/msad060",
+  "bibtex": null,
+  "description": "Identification of RNA Virus–Derived RdRp Sequences in Publicly Available Transcriptomic Data Sets",
+  "date": "2023-04-04",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics": [
+    "discovery",
+    "resource",
+    "pHMM",
+    "Orthomyxoviridae",
+    "RdRp",
+    "splicing"
+  ],
+  "pmid": "37014783",
+  "type": "paper",
+  "interface": "CLI"
+}

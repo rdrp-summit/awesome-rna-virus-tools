@@ -1,0 +1,21 @@
+{
+  "name": "Transcriptome mining extends the host range of the Flaviviridae to non-bilaterians",
+  "url": "https://doi.org/10.1093/ve/veac124",
+  "doi": "10.1093/ve/veac124",
+  "bibtex": null,
+  "description": "Transcriptome mining extends the host range of the <i>Flaviviridae</i> to non-bilaterians",
+  "date": "2022-12-26",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": "36694816",
+  "type": "paper",
+  "interface": "CLI"
+}

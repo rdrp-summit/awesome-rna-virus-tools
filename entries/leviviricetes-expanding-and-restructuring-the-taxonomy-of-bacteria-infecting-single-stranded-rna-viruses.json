@@ -1,0 +1,21 @@
+{
+  "name": "Leviviricetes: expanding and restructuring the taxonomy of bacteria-infecting single-stranded RNA viruses",
+  "url": "https://doi.org/10.1099/mgen.0.000686",
+  "doi": "10.1099/mgen.0.000686",
+  "bibtex": null,
+  "description": "Leviviricetes: expanding and restructuring the taxonomy of bacteria-infecting single-stranded RNA viruses",
+  "date": "2021-11-30",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

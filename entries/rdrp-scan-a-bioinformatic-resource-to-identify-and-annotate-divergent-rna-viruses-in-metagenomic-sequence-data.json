@@ -1,0 +1,23 @@
+{
+  "name": "RdRp-scan: A Bioinformatic Resource to Identify and Annotate Divergent RNA Viruses in Metagenomic Sequence Data",
+  "url": "https://doi.org/10.1093/ve/veac082",
+  "doi": "10.1093/ve/veac082",
+  "bibtex": null,
+  "description": "RdRp-scan: A bioinformatic resource to identify and annotate divergent RNA viruses in metagenomic sequence data",
+  "date": "2022-09-01",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics": [
+    "tool"
+  ],
+  "pmid": "36533143",
+  "type": "paper",
+  "interface": "CLI"
+}

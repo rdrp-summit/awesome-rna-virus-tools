@@ -1,0 +1,21 @@
+{
+  "name": "High-Resolution Metatranscriptomics Reveals the Ecological Dynamics of Mosquito-Associated RNA Viruses in Western Australia",
+  "url": "https://doi.org/10.1128/jvi.00680-17",
+  "doi": "10.1128/JVI.00680-17",
+  "bibtex": null,
+  "description": "High-Resolution Metatranscriptomics Reveals the Ecological Dynamics of Mosquito-Associated RNA Viruses in Western Australia",
+  "date": "2017-09-01",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

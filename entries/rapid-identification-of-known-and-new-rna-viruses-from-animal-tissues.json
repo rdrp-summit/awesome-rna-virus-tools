@@ -1,0 +1,21 @@
+{
+  "name": "Rapid identification of known and new RNA viruses from animal tissues",
+  "url": "https://doi.org/10.1371/journal.ppat.1000163",
+  "doi": "10.1371/journal.ppat.1000163",
+  "bibtex": null,
+  "description": "Rapid Identification of Known and New RNA Viruses from Animal Tissues",
+  "date": "2008-09-26",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

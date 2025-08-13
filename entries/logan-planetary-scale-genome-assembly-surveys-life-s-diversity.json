@@ -1,0 +1,21 @@
+{
+  "name": "Logan: Planetary-Scale Genome Assembly Surveys Lifeâ€™s Diversity",
+  "url": "https://doi.org/10.1101/2024.07.30.605881",
+  "doi": "10.1101/2024.07.30.605881",
+  "bibtex": null,
+  "description": "Logan: Planetary-Scale Genome Assembly Surveys Life’s Diversity",
+  "date": null,
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

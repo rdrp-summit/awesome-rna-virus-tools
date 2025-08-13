@@ -1,0 +1,21 @@
+{
+  "name": "Abundant and Diverse RNA Viruses in Insects Revealed by RNA-Seq Analysis: Ecological and Evolutionary Implications",
+  "url": "https://doi.org/10.1128/msystems.00039-20",
+  "doi": "10.1128/mSystems.00039-20",
+  "bibtex": null,
+  "description": "Abundant and Diverse RNA Viruses in Insects Revealed by RNA-Seq Analysis: Ecological and Evolutionary Implications",
+  "date": "2020-08-25",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

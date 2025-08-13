@@ -1,0 +1,21 @@
+{
+  "name": "Diversity, evolution, and emergence of fish viruses",
+  "url": "https://journals.asm.org/doi/full/10.1128/jvi.00118-24",
+  "doi": null,
+  "bibtex": null,
+  "description": "Diversity, evolution, and emergence of fish viruses",
+  "date": null,
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

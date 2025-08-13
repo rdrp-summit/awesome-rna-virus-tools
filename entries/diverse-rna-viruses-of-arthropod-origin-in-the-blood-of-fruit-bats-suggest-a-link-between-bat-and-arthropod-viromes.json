@@ -1,0 +1,21 @@
+{
+  "name": "Diverse RNA viruses of arthropod origin in the blood of fruit bats suggest a link between bat and arthropod viromes",
+  "url": "https://goldberglab.wisc.edu/pdf/P178.pdf",
+  "doi": null,
+  "bibtex": null,
+  "description": "Diverse RNA viruses of arthropod origin in the blood of fruit bats suggest a link between bat and arthropod viromes",
+  "date": null,
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

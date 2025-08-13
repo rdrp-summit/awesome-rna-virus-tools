@@ -1,0 +1,21 @@
+{
+  "name": "Appearance of mycovirus-like double-stranded RNAs in the white root rot fungus, Rosellinia necatrix, in an apple orchard",
+  "url": "https://doi.org/10.1111/j.1574-6941.2012.01454.x",
+  "doi": "10.1111/j.1574-6941.2012.01454.x",
+  "bibtex": null,
+  "description": "Appearance of mycovirus-like double-stranded RNAs in the white root rot fungus,<i>Rosellinia necatrix</i>, in an apple orchard",
+  "date": "2013-01-01",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

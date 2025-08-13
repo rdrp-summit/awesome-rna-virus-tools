@@ -1,13 +1,24 @@
 {
   "name": "metaviralSPAdes-RNA",
+  "type": "tool",
   "url": "https://github.com/ablab/spades",
   "doi": "10.1093/bioinformatics/btab102",
-  "bibtex": "@article{meleshko2021metaviralspades,\n  title={metaviralSPAdes: assembly of viruses from metagenomic data},\n  author={Meleshko, Dmitry and Korobeynikov, Anton and Lapidus, Alla},\n  journal={Bioinformatics},\n  volume={37},\n  number={14},\n  pages={2029--2031},\n  year={2021},\n  publisher={Oxford University Press}\n}",
+  "bibtex": "@article{meleshko2021metaviralspades,  title={metaviralSPAdes: assembly of viruses from metagenomic data},  author={Meleshko, Dmitry and Korobeynikov, Anton and Lapidus, Alla},  journal={Bioinformatics},  volume={37},  number={14},  pages={2029--2031},  year={2021},  publisher={Oxford University Press}}",
   "description": "Modified metaSPAdes assembler optimized for RNA viral genome assembly from metagenomic data",
   "date": "2021-02-15",
   "version": "3.15.5",
-  "license": "GPL-2.0",
+  "license": null,
   "language": "C++",
-  "topics": ["genome-assembly", "rna-viruses", "metagenomics", "specialized-assembly"],
-  "package_managers": ["bioconda"]
+  "topics": [
+    "assembly"
+  ],
+  "package_managers": [
+    "bioconda"
+  ],
+  "interface": "CLI",
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null
 }

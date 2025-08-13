@@ -1,0 +1,21 @@
+{
+  "name": "Genomic and phylogenetic features of the Picobirnaviridae suggest microbial rather than animal hosts",
+  "url": "https://academic.oup.com/ve/article/10/1/veae033/7655994?login=false",
+  "doi": null,
+  "bibtex": null,
+  "description": "Genomic and phylogenetic features of the Picobirnaviridae suggest microbial rather than animal hosts",
+  "date": null,
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

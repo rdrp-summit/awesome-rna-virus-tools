@@ -1,0 +1,21 @@
+{
+  "name": "A World of Viruses Nested within Parasites: Unraveling Viral Diversity within Parasitic Flatworms (Platyhelminthes)",
+  "url": "https://doi.org/10.1128/spectrum.00138-22",
+  "doi": "10.1128/spectrum.00138-22",
+  "bibtex": null,
+  "description": "A World of Viruses Nested within Parasites: Unraveling Viral Diversity within Parasitic Flatworms (Platyhelminthes)",
+  "date": "2022-06-29",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

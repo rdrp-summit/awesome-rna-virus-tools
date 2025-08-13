@@ -1,0 +1,21 @@
+{
+  "name": "Viral metagenomics reveals persistent as well as dietary acquired viruses in Antarctic fur seals",
+  "url": "https://doi.org/10.1038/s41598-022-23114-y",
+  "doi": "10.1038/s41598-022-23114-y",
+  "bibtex": null,
+  "description": "Viral metagenomics reveals persistent as well as dietary acquired viruses in Antarctic fur seals",
+  "date": "2022-10-28",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Tracing RNA viruses associated with Nudibranchia gastropods",
+  "url": "https://doi.org/10.7717/peerj.13410",
+  "doi": "10.7717/peerj.13410",
+  "bibtex": null,
+  "description": "Tracing RNA viruses associated with Nudibranchia gastropods",
+  "date": "2022-05-13",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Highly diverse ribonucleic acid viruses in the viromes of eukaryotic host species in Yunnan province, China",
+  "url": "https://doi.org/10.3389/fmicb.2022.1019444",
+  "doi": "10.3389/fmicb.2022.1019444",
+  "bibtex": null,
+  "description": "Highly diverse ribonucleic acid viruses in the viromes of eukaryotic host species in Yunnan province, China",
+  "date": "2022-10-13",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

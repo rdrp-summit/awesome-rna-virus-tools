@@ -1,0 +1,21 @@
+{
+  "name": "Origins and Evolution of the Global RNA Virome",
+  "url": "https://doi.org/10.1128/mbio.02329-18",
+  "doi": "10.1128/mBio.02329-18",
+  "bibtex": null,
+  "description": "Origins and Evolution of the Global RNA Virome",
+  "date": "2018-12-21",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

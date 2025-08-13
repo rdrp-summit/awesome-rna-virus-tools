@@ -47,20 +47,61 @@
       "type": ["array", "null"],
       "items": {
         "type": "string",
-        "enum": ["pip", "conda", "bioconda", "npm", "cran", "cpan", "gem", "cargo", "go", "homebrew", "apt", "yum", "docker", "singularity", "github", "source"]
+        "enum": [
+          "pip",
+          "conda",
+          "bioconda",
+          "npm",
+          "cran",
+          "cpan",
+          "gem",
+          "cargo",
+          "go",
+          "homebrew",
+          "apt",
+          "yum",
+          "docker",
+          "singularity",
+          "github",
+          "source",
+          "null"
+        ]
       },
       "description": "Package managers through which the tool can be installed"
     },
     "package_manager": {
       "type": ["string", "null"],
-      "enum": ["pip", "conda", "bioconda", "npm", "cran", "cpan", "gem", "cargo", "go", "homebrew", "apt", "yum", "docker", "singularity", "github", "source"],
+      "enum": [
+        "pip",
+        "conda",
+        "bioconda",
+        "npm",
+        "cran",
+        "cpan",
+        "gem",
+        "cargo",
+        "go",
+        "homebrew",
+        "apt",
+        "yum",
+        "docker",
+        "singularity",
+        "github",
+        "source"
+      ],
       "description": "DEPRECATED: Use package_managers array instead. Single package manager for backward compatibility"
     },
     "installation_methods": {
       "type": ["array", "null"],
       "items": {
         "type": "string",
-        "enum": ["source", "binary", "container", "web-service", "cloud-platform"]
+        "enum": [
+          "source",
+          "binary",
+          "container",
+          "web-service",
+          "cloud-platform"
+        ]
       },
       "description": "Available installation methods"
     },
@@ -68,7 +109,13 @@
       "type": ["array", "null"],
       "items": {
         "type": "string",
-        "enum": ["linux", "macos", "windows", "web", "cloud"]
+        "enum": [
+          "linux",
+          "macos",
+          "windows",
+          "web",
+          "cloud"
+        ]
       },
       "description": "Supported platforms"
     },
@@ -93,6 +140,16 @@
       },
       "description": "List of topics/categories this tool belongs to",
       "minItems": 1
+    },
+    "type": {
+      "type": "string",
+      "enum": ["tool", "database", "paper"],
+      "description": "Category of the entry"
+    },
+    "interface": {
+      "type": "string",
+      "enum": ["CLI", "TUI", "gui", "nextflow", "snakemake"],
+      "description": "Primary interface type"
     }
   }
 }

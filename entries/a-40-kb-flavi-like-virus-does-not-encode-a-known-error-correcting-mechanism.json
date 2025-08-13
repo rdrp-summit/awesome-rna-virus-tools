@@ -1,0 +1,21 @@
+{
+  "name": "A ~40-kb flavi-like virus does not encode a known error-correcting mechanism",
+  "url": "https://example.org",
+  "doi": null,
+  "bibtex": null,
+  "description": "A ~40-kb flavi-like virus does not encode a known error-correcting mechanism.",
+  "date": "2024-07-17",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": "39018195",
+  "type": "paper",
+  "interface": "CLI"
+}
