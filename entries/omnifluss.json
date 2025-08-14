@@ -1,0 +1,15 @@
+{
+  "name": "Omnifluss",
+  "url": "https://github.com/rki-mf1/omnifluss",
+  "doi": "",
+  "bibtex": "",
+  "description": "Computational workflow for virus genome reconstruction at population-scale",
+  "date": "2025-08-14",
+  "version": "0.1.0",
+  "license": "MIT",
+  "language": "Nextlow",
+  "topics": ["genome reconstruction", "influenza", "rna-viruses", "workflow", "genomic surveillance", "NGS"],
+  "package_managers": ["conda", "singularity", "docker"],
+  "input_formats": ["FASTQ"],
+  "platforms": ["linux"]
+}
