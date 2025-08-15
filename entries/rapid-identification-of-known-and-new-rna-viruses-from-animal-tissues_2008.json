@@ -1,0 +1,20 @@
+{
+  "name": "rapid-identification-of-known-and-new-rna-viruses-from-animal-tissues_2008",
+  "type": "paper",
+  "url": "https://doi.org/10.1371/journal.ppat.1000163",
+  "doi": "10.1371/journal.ppat.1000163",
+  "bibtex": "@article{Victoria_2008, title={Rapid Identification of Known and New RNA Viruses from Animal Tissues}, volume={4}, ISSN={1553-7374}, url={http://dx.doi.org/10.1371/journal.ppat.1000163}, DOI={10.1371/journal.ppat.1000163}, number={9}, journal={PLoS Pathogens}, publisher={Public Library of Science (PLoS)}, author={Victoria, Joseph G. and Kapoor, Amit and Dupuis, Kent and Schnurr, David P. and Delwart, Eric L.}, editor={Lipkin, W. Ian}, year={2008}, month=sep, pages={e1000163} }",
+  "description": "Rapid Identification of Known and New RNA Viruses from Animal Tissues",
+  "date": "2008-09-26",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Animalia"
+  ],
+  "package_managers": null,
+  "title": "Rapid identification of known and new RNA viruses from animal tissues",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,20 @@
+{
+  "name": "analysis-of-the-rna-virome-of-basal-hexapods_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.7717/peerj.8336",
+  "doi": "10.7717/peerj.8336",
+  "bibtex": "@article{Ott_Rutar_2020, title={Analysis of the RNA virome of basal hexapods}, volume={8}, ISSN={2167-8359}, url={http://dx.doi.org/10.7717/peerj.8336}, DOI={10.7717/peerj.8336}, journal={PeerJ}, publisher={PeerJ}, author={Ott Rutar, Sabina and Kordis, Dusan}, year={2020}, month=jan, pages={e8336} }",
+  "description": "The diversity and evolution of RNA viruses has been well studied in arthropods and especially in insects. However, the diversity of RNA viruses in the basal hexapods has not been analysed yet. To better understand their diversity, evolutionary histories and genome organizations, we searched for RNA viruses in transcriptome and genome databases of basal hexapods. We discovered  40 novel RNA viruses, some of which are also present as endogenous viral elements derived from RNA viruses. Here, we demonstrated that basal hexapods host 14 RNA viral clades that have been recently identified in invertebrates. The following RNA viral clades are associated with basal hexapods: Reo, Partiti-Picobirna, Toti-Chryso, Mono-Chu, Bunya-Arena, Orthomyxo, Qinvirus, Picorna-Calici, Hepe-Virga, Narna-Levi, Tombus-Noda, Luteo-Sobemo, Permutotetra and Flavi. We have found representatives of the nine RNA viral clades that are present as endogenous genomic copies in the genomes of Machilis (Monocondylia) and Catajapyx (Diplura). Our study provided a first insight into the diversity of RNA viruses in basal hexapods and demonstrated that the basal hexapods possess quite high diversity of RNA viral clades",
+  "date": "2020-01-09",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "hexapods"
+  ],
+  "package_managers": null,
+  "title": "Analysis of the RNA virome of basal hexapods",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

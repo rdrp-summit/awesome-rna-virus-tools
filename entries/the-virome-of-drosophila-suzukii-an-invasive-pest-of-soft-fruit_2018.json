@@ -1,0 +1,21 @@
+{
+  "name": "the-virome-of-drosophila-suzukii-an-invasive-pest-of-soft-fruit_2018",
+  "type": "paper",
+  "url": "https://doi.org/10.1093/ve/vey009",
+  "doi": "10.1093/ve/vey009",
+  "bibtex": "@article{Medd_2018, title={The virome of Drosophila suzukii, an invasive pest of soft fruit}, volume={4}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/vey009}, DOI={10.1093/ve/vey009}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Medd, Nathan C and Fellous, Simon and Waldron, Fergal M and Xuéreb, Anne and Nakai, Madoka and Cross, Jerry V and Obbard, Darren J}, year={2018}, month=jan }",
+  "description": "The virome of Drosophila suzukii, an invasive pest of soft fruit",
+  "date": "2018-01-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "insect",
+    "Drosophila"
+  ],
+  "package_managers": null,
+  "title": "The virome of Drosophila suzukii, an invasive pest of soft fruit",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

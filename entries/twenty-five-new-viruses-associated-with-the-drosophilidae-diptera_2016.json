@@ -1,0 +1,20 @@
+{
+  "name": "twenty-five-new-viruses-associated-with-the-drosophilidae-diptera_2016",
+  "type": "paper",
+  "url": "https://doi.org/10.4137/EBO.S39454",
+  "doi": "10.4137/EBO.S39454",
+  "bibtex": "@article{Webster_2016, title={Twenty-Five New Viruses Associated with the Drosophilidae (Diptera)}, volume={12s2}, ISSN={1176-9343}, url={http://dx.doi.org/10.4137/EBO.S39454}, DOI={10.4137/ebo.s39454}, journal={Evolutionary Bioinformatics}, publisher={SAGE Publications}, author={Webster, Claire L. and Longdon, Ben and Lewis, Samuel H. and Obbard, Darren J.}, year={2016}, month=jan }",
+  "description": " Drosophila melanogaster is an important laboratory model for studies of antiviral immunity in invertebrates, and Drosophila species provide a valuable system to study virus host range and host switching. Here, we use metagenomic RNA sequencing of about 1600 adult flies to discover 25 new RNA viruses associated with six different drosophilid hosts in the wild. We also provide a comprehensive listing of viruses previously reported from the Drosophilidae. The new viruses include Iflaviruses, Rhabdoviruses, Nodaviruses, and Reoviruses, and members of unclassified lineages distantly related to Negeviruses, Sobemoviruses, Poleroviruses, Flaviviridae, and Tombusviridae. Among these are close relatives of Drosophila X virus and Flock House virus, which we find in association with wild Drosophila immigrans. These two viruses are widely used in experimental studies but have not been previously reported to naturally infect Drosophila. Although we detect no new DNA viruses, in D. immigrans and Drosophila obscura, we identify sequences very closely related to Armadillidium vulgare iridescent virus (Invertebrate iridescent virus 31), bringing the total number of DNA viruses found in the Drosophilidae to three. </jats:p>",
+  "date": "2016-01-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "insect"
+  ],
+  "package_managers": null,
+  "title": "Twenty-Five New Viruses Associated with the Drosophilidae (Diptera)",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

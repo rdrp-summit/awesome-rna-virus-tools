@@ -1,0 +1,21 @@
+{
+  "name": "evidence-for-an-ancient-aquatic-origin-of-the-rna-viral-order-articulavirales_2023",
+  "type": "paper",
+  "url": "https://www.pnas.org/doi/abs/10.1073/pnas.2310529120",
+  "doi": "10.1073/pnas.2310529120",
+  "bibtex": "@article{Petrone_2023, title={Evidence for an ancient aquatic origin of the RNA viral orderArticulavirales}, volume={120}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2310529120}, DOI={10.1073/pnas.2310529120}, number={45}, journal={Proceedings of the National Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences}, author={Petrone, Mary E. and Parry, Rhys and Mifsud, Jonathon C. O. and Van Brussel, Kate and Voorhees, Ian E. H. and Richards, Zoe T. and Holmes, Edward C.}, year={2023}, month=oct }",
+  "description": "The emergence of previously unknown disease-causing viruses in mammals is in part the result of a long-term evolutionary process. Reconstructing the deep phylogenetic histories of viruses helps identify major evolutionary transitions and contextualizes the emergence of viruses in new hosts. We used a combination of total RNA sequencing and transcriptome data mining to extend the diversity and evolutionary history of the RNA virus orderArticulavirales, which includes the influenza viruses. We identified instances ofArticulaviralesin the invertebrate phylum Cnidaria (including corals), constituting a novel and divergent family that we provisionally named the “Cnidenomoviridae.” We further extended the evolutionary history of the influenza virus lineage by identifying four divergent, fish-associated influenza-like viruses, thereby supporting the hypothesis that fish were among the first hosts of influenza viruses. In addition, we substantially expanded the phylogenetic diversity of quaranjaviruses and proposed that this genus be reclassified as a family—the “Quaranjaviridae.” Within this putative family, we identified a novel arachnid-infecting genus, provisionally named “Cheliceravirus.” Notably, we observed a close phylogenetic relationship between the Crustacea- and Chelicerata-infecting “Quaranjaviridae” that is inconsistent with virus–host codivergence. Together, these data suggest that theArticulaviraleshas evolved over at least 600 million years, first emerging in aquatic animals. Importantly, the evolution of theArticulaviraleswas likely shaped by multiple aquatic–terrestrial transitions and substantial host jumps, some of which are still observable today",
+  "date": "2023-11-07",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "phylogeny",
+    "aquatic"
+  ],
+  "package_managers": null,
+  "title": "Evidence for an ancient aquatic origin of the RNA viral order Articulavirales",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

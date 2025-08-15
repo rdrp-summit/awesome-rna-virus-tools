@@ -1,0 +1,20 @@
+{
+  "name": "metagenomic-analysis-of-coastal-rna-virus-communities_2006",
+  "type": "paper",
+  "url": "https://doi.org/10.1126/science.1127404",
+  "doi": "10.1126/science.1127404",
+  "bibtex": "@article{Culley_2006, title={Metagenomic Analysis of Coastal RNA Virus Communities}, volume={312}, ISSN={1095-9203}, url={http://dx.doi.org/10.1126/science.1127404}, DOI={10.1126/science.1127404}, number={5781}, journal={Science}, publisher={American Association for the Advancement of Science (AAAS)}, author={Culley, Alexander I. and Lang, Andrew S. and Suttle, Curtis A.}, year={2006}, month=jun, pages={1795–1798} }",
+  "description": "RNA viruses infect marine organisms from bacteria to whales, but RNA virus communities in the sea remain essentially unknown. Reverse-transcribed whole-genome shotgun sequencing was used to characterize the diversity of uncultivated marine RNA virus assemblages. A diverse assemblage of RNA viruses, including a broad group of marine picorna-like viruses, and distant relatives of viruses infecting arthropods and higher plants were found. Communities were dominated by distinct genotypes with small genome sizes, and we completely assembled the genomes of several hitherto undiscovered viruses. Our results show that the oceans are a reservoir of previously unknown RNA viruses",
+  "date": "2006-06-23",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "marine"
+  ],
+  "package_managers": null,
+  "title": "Metagenomic analysis of coastal RNA virus communities",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

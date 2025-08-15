@@ -1,0 +1,20 @@
+{
+  "name": "rna-viromes-from-terrestrial-sites-across-china-expand-environmental-viral-diver_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.1038/s41564-022-01180-2",
+  "doi": "10.1038/s41564-022-01180-2",
+  "bibtex": "@article{Chen_2022, title={RNA viromes from terrestrial sites across China expand environmental viral diversity}, volume={7}, ISSN={2058-5276}, url={http://dx.doi.org/10.1038/s41564-022-01180-2}, DOI={10.1038/s41564-022-01180-2}, number={8}, journal={Nature Microbiology}, publisher={Springer Science and Business Media LLC}, author={Chen, Yan-Mei and Sadiq, Sabrina and Tian, Jun-Hua and Chen, Xiao and Lin, Xian-Dan and Shen, Jin-Jin and Chen, Hao and Hao, Zong-Yu and Wille, Michelle and Zhou, Zhuo-Cheng and Wu, Jun and Li, Feng and Wang, Hong-Wei and Yang, Wei-Di and Xu, Qi-Yi and Wang, Wen and Gao, Wen-Hua and Holmes, Edward C. and Zhang, Yong-Zhen}, year={2022}, month=jul, pages={1312–1323} }",
+  "description": "RNA viromes from terrestrial sites across China expand environmental viral diversity",
+  "date": "2022-07-28",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "soil"
+  ],
+  "package_managers": null,
+  "title": "RNA viromes from terrestrial sites across China expand environmental viral diversity",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,20 @@
+{
+  "name": "a-diverse-viral-community-from-predatory-wasps-in-their-native-and-invaded-range_2021",
+  "type": "paper",
+  "url": "https://doi.org/10.3390/v13081431",
+  "doi": "10.3390/v13081431",
+  "bibtex": "@article{Remnant_2021, title={A Diverse Viral Community from Predatory Wasps in Their Native and Invaded Range, with a New Virus Infectious to Honey Bees}, volume={13}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v13081431}, DOI={10.3390/v13081431}, number={8}, journal={Viruses}, publisher={MDPI AG}, author={Remnant, Emily and Baty, James and Bulgarella, Mariana and Dobelmann, Jana and Quinn, Oliver and Gruber, Monica and Lester, Philip}, year={2021}, month=jul, pages={1431} }",
+  "description": "Wasps of the genus Vespula are social insects that have become major pests and predators in their introduced range. Viruses present in these wasps have been studied in the context of spillover from honey bees, yet we lack an understanding of the endogenous virome of wasps as potential reservoirs of novel emerging infectious diseases. We describe the characterization of 68 novel and nine previously identified virus sequences found in transcriptomes of Vespula vulgaris in colonies sampled from their native range (Belgium) and an invasive range (New Zealand). Many viruses present in the samples were from the Picorna-like virus family (38%). We identified one Luteo-like virus, Vespula vulgaris Luteo-like virus 1, present in the three life stages examined in all colonies from both locations, suggesting this virus is a highly prevalent and persistent infection in wasp colonies. Additionally, we identified a novel Iflavirus with similarity to a recently identified Moku virus, a known wasp and honey bee pathogen. Experimental infection of honey bees with this novel Vespula vulgaris Moku-like virus resulted in an active infection. The high viral diversity present in these invasive wasps is a likely indication that their polyphagous diet is a rich source of viral infections",
+  "date": "2021-07-23",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "insect"
+  ],
+  "package_managers": null,
+  "title": "A Diverse Viral Community from Predatory Wasps in Their Native and Invaded Range, with a New Virus Infectious to Honey Bees",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

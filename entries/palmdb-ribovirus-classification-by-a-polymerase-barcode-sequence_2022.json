@@ -1,0 +1,23 @@
+{
+  "name": "palmdb-ribovirus-classification-by-a-polymerase-barcode-sequence_2022",
+  "type": "database",
+  "url": "https://github.com/ababaian/palmdb",
+  "doi": "10.7717/peerj.14055",
+  "bibtex": "@article{Babaian_2022, title={Ribovirus classification by a polymerase barcode sequence}, volume={10}, ISSN={2167-8359}, url={http://dx.doi.org/10.7717/peerj.14055}, DOI={10.7717/peerj.14055}, journal={PeerJ}, publisher={PeerJ}, author={Babaian, Artem and Edgar, Robert}, year={2022}, month=oct, pages={e14055} }",
+  "description": "A database containing over 145,000 viral polymerase palmprint (barcode) sequences, classified by clustering into species-like operational taxonomic units (sOTUs).",
+  "date": "2022-10-13",
+  "version": "2023-04-26 (current release date)",
+  "license": "CC0-1.0",
+  "language": null,
+  "topics": [
+    "Serratus"
+  ],
+  "package_managers": null,
+  "title": "palmdb: Ribovirus classification by a polymerase barcode sequence",
+  "input_formats": [
+    "FASTA",
+    "TSV"
+  ],
+  "output_formats": null,
+  "interface": null
+}

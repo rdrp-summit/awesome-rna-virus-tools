@@ -1,0 +1,20 @@
+{
+  "name": "metagenomics-reshapes-the-concepts-of-rna-virus-evolution-by-revealing-extensive_2018",
+  "type": "paper",
+  "url": "https://doi.org/10.1016/j.virusres.2017.10.020",
+  "doi": "10.1016/j.virusres.2017.10.020",
+  "bibtex": "@article{Dolja_2018, title={Metagenomics reshapes the concepts of RNA virus evolution by revealing extensive horizontal virus transfer}, volume={244}, ISSN={0168-1702}, url={http://dx.doi.org/10.1016/j.virusres.2017.10.020}, DOI={10.1016/j.virusres.2017.10.020}, journal={Virus Research}, publisher={Elsevier BV}, author={Dolja, Valerian V. and Koonin, Eugene V.}, year={2018}, month=jan, pages={36–52} }",
+  "description": "Metagenomics reshapes the concepts of RNA virus evolution by revealing extensive horizontal virus transfer",
+  "date": "2018-01-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "evolution"
+  ],
+  "package_managers": null,
+  "title": "Metagenomics reshapes the concepts of RNA virus evolution by revealing extensive horizontal virus transfer",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

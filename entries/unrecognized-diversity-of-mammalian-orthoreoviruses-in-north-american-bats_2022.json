@@ -1,0 +1,21 @@
+{
+  "name": "unrecognized-diversity-of-mammalian-orthoreoviruses-in-north-american-bats_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.1016/j.virol.2022.03.012",
+  "doi": "10.1016/j.virol.2022.03.012",
+  "bibtex": "@article{Feng_2022, title={Unrecognized diversity of mammalian orthoreoviruses in North American bats}, volume={571}, ISSN={0042-6822}, url={http://dx.doi.org/10.1016/j.virol.2022.03.012}, DOI={10.1016/j.virol.2022.03.012}, journal={Virology}, publisher={Elsevier BV}, author={Feng, Kurtis H. and Brown, Justin D. and Turner, Gregory G. and Holmes, Edward C. and Allison, Andrew B.}, year={2022}, month=jun, pages={1–11} }",
+  "description": "Unrecognized diversity of mammalian orthoreoviruses in North American bats",
+  "date": "2022-06-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Mammalia",
+    "bats"
+  ],
+  "package_managers": null,
+  "title": "Unrecognized diversity of mammalian orthoreoviruses in North American bats",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "a-parasite-odyssey-an-rna-virus-concealed-in-toxoplasma-gondii_2024",
+  "type": "paper",
+  "url": "https://doi.org/10.1093/ve/veae040",
+  "doi": "10.1093/ve/veae040",
+  "bibtex": "@article{Gupta_2024, title={A parasite odyssey: An RNA virus concealed in Toxoplasma gondii}, volume={10}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veae040}, DOI={10.1093/ve/veae040}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Gupta, Purav and Hiller, Aiden and Chowdhury, Jawad and Lim, Declan and Lim, Dillon Yee and Saeij, Jeroen P J and Babaian, Artem and Rodriguez, Felipe and Pereira, Luke and Morales-Tapia, Alejandro}, year={2024}, month=jan }",
+  "description": "   We are entering a ‘Platinum Age of Virus Discovery’, an era marked by exponential growth in the discovery of virus biodiversity, and driven by advances in metagenomics and computational analysis. In the ecosystem of a human (or any animal) there are more species of viruses than simply those directly infecting the animal cells. Viruses can infect all organisms constituting the microbiome, including bacteria, fungi, and unicellular parasites. Thus the complexity of possible interactions between host, microbe, and viruses is unfathomable. To understand this interaction network we must employ computationally assisted virology as a means of analyzing and interpreting the millions of available samples to make inferences about the ways in which viruses may intersect human health. From a computational viral screen of human neuronal datasets, we identified a novel narnavirus Apocryptovirus odysseus (Ao) which likely infects the neurotropic parasite Toxoplasma gondii. Previously, several parasitic protozoan viruses (PPVs) have been mechanistically established as triggers of host innate responses, and here we present in silico evidence that Ao is a plausible pro-inflammatory factor in human and mouse cells infected by T. gondii. T. gondii infects billions of people worldwide, yet the prognosis of toxoplasmosis disease is highly variable, and PPVs like Ao could function as a hitherto undescribed hypervirulence factor. In a broader screen of over 7.6 million samples, we explored phylogenetically proximal viruses to Ao and discovered nineteen Apocryptovirus species, all found in libraries annotated as vertebrate transcriptome or metatranscriptomes. While samples containing this genus of narnaviruses are derived from sheep, goat, bat, rabbit, chicken, and pigeon samples, the presence of virus is strongly predictive of parasitic Apicomplexa nucleic acid co-occurrence, supporting the fact that Apocryptovirus is a genus of parasite-infecting viruses. This is a computational proof-of-concept study in which we rapidly analyze millions of datasets from which we distilled a mechanistically, ecologically, and phylogenetically refined hypothesis. We predict that this highly diverged Ao RNA virus is biologically a T. gondii infection, and that Ao, and other viruses like it, will modulate this disease which afflicts billions worldwide",
+  "date": "2024-05-29",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "parasite",
+    "protozoa"
+  ],
+  "package_managers": null,
+  "title": "A parasite odyssey: An RNA virus concealed in Toxoplasma gondii",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

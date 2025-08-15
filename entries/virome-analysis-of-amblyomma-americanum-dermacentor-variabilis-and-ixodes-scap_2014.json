@@ -1,0 +1,20 @@
+{
+  "name": "virome-analysis-of-amblyomma-americanum-dermacentor-variabilis-and-ixodes-scap_2014",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/JVI.01858-14",
+  "doi": "10.1128/JVI.01858-14",
+  "bibtex": "@article{Tokarz_2014, title={Virome Analysis of Amblyomma americanum, Dermacentor variabilis, and Ixodes scapularis Ticks Reveals Novel Highly Divergent Vertebrate and Invertebrate Viruses}, volume={88}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.01858-14}, DOI={10.1128/jvi.01858-14}, number={19}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Tokarz, Rafal and Williams, Simon Hedley and Sameroff, Stephen and Sanchez Leon, Maria and Jain, Komal and Lipkin, W. Ian}, editor={Perlman, S.}, year={2014}, month=oct, pages={11480–11492} }",
+  "description": "A wide range of bacterial pathogens have been identified in ticks, yet the diversity of viruses in ticks is largely unexplored. In the United States,Amblyomma americanum,Dermacentor variabilis, andIxodes scapularisare among the principal tick species associated with pathogen transmission. We used high-throughput sequencing to characterize the viromes of these tick species and identified the presence of Powassan virus and eight novel viruses. These included the most divergent nairovirus described to date, two new clades of tick-borne phleboviruses, a mononegavirus, and viruses with similarity to plant and insect viruses. Our analysis revealed that ticks are reservoirs for a wide range of viruses and suggests that discovery and characterization of tick-borne viruses will have implications for viral taxonomy and may provide insight into tick-transmitted diseases.Ticks are implicated as vectors of a wide array of human and animal pathogens. To better understand the extent of tick-borne diseases, it is crucial to uncover the full range of microbial agents associated with ticks. Our current knowledge of the diversity of tick-associated viruses is limited, in part due to the lack of investigation of tick viromes. In this study, we examined the viromes of three tick species from the United States. We found that ticks are hosts to highly divergent viruses across several taxa, including ones previously associated with human disease. Our data underscore the diversity of tick-associated viruses and provide the foundation for further studies into viral etiology of tick-borne diseases",
+  "date": "2014-10-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "arthropods"
+  ],
+  "package_managers": null,
+  "title": "Virome analysis of Amblyomma americanum, Dermacentor variabilis, and Ixodes scapularis ticks reveals novel highly divergent vertebrate and invertebrate viruses",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

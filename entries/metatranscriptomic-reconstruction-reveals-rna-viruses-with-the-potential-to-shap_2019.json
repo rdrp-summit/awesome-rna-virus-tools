@@ -1,0 +1,20 @@
+{
+  "name": "metatranscriptomic-reconstruction-reveals-rna-viruses-with-the-potential-to-shap_2019",
+  "type": "paper",
+  "url": "https://doi.org/10.1073/pnas.1908291116",
+  "doi": "10.1073/pnas.1908291116",
+  "bibtex": "@article{Starr_2019, title={Metatranscriptomic reconstruction reveals RNA viruses with the potential to shape carbon cycling in soil}, volume={116}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.1908291116}, DOI={10.1073/pnas.1908291116}, number={51}, journal={Proceedings of the National Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences}, author={Starr, Evan P. and Nuccio, Erin E. and Pett-Ridge, Jennifer and Banfield, Jillian F. and Firestone, Mary K.}, year={2019}, month=nov, pages={25900–25908} }",
+  "description": "The diversity and ecology of RNA viruses is severely understudied in complex environments. Here we investigate the diversity and community patterns of soil RNA viruses by analyzing assembled metatranscriptomes. We tracked RNA viral and host communities for 22 d in 2 soil environments central to carbon cycling, the rhizosphere and detritosphere. This work is an important step toward understanding the factors that drive RNA viral communities. The main hosts in our system may be Fungi and Proteobacteria; this is in contrast to the ocean, where diatoms and other single cellular eukaryotes are primary hosts for RNA viruses. These results greatly expand the known diversity of viruses and contribute to understanding microbial interactions in soil with major implications for carbon cycling",
+  "date": "2019-12-17",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "soil"
+  ],
+  "package_managers": null,
+  "title": "Metatranscriptomic reconstruction reveals RNA viruses with the potential to shape carbon cycling in soil",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

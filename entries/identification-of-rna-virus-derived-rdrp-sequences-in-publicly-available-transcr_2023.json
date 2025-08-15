@@ -1,0 +1,23 @@
+{
+  "name": "identification-of-rna-virus-derived-rdrp-sequences-in-publicly-available-transcr_2023",
+  "type": "paper",
+  "url": "https://doi.org/10.1093/molbev/msad060",
+  "doi": "10.1093/molbev/msad060",
+  "bibtex": "@article{Olendraite_2023, title={Identification of RNA Virus–Derived RdRp Sequences in Publicly Available Transcriptomic Data Sets}, volume={40}, ISSN={1537-1719}, url={http://dx.doi.org/10.1093/molbev/msad060}, DOI={10.1093/molbev/msad060}, number={4}, journal={Molecular Biology and Evolution}, publisher={Oxford University Press (OUP)}, author={Olendraite, Ingrida and Brown, Katherine and Firth, Andrew E}, editor={Leitner, Thomas}, year={2023}, month=apr }",
+  "description": "RNA viruses are abundant and highly diverse and infect all or most eukaryotic organisms. However, only a tiny fraction of the number and diversity of RNA virus species have been catalogued. To cost-effectively expand the diversity of known RNA virus sequences, we mined publicly available transcriptomic data sets. We developed 77 family-level Hidden Markov Model profiles for the viral RNA-dependent RNA polymerase (RdRp)—the only universal “hallmark” gene of RNA viruses. By using these to search the National Center for Biotechnology Information Transcriptome Shotgun Assembly database, we identified 5,867 contigs encoding RNA virus RdRps or fragments thereof and analyzed their diversity, taxonomic classification, phylogeny, and host associations. Our study expands the known diversity of RNA viruses, and the 77 curated RdRp Profile Hidden Markov Models provide a useful resource for the virus discovery community",
+  "date": "2023-04-04",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "resource",
+    "pHMM",
+    "Orthomyxoviridae",
+    "splicing"
+  ],
+  "package_managers": null,
+  "title": "Identification of RNA Virus-Derived RdRp Sequences in Publicly Available Transcriptomic Data Sets",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

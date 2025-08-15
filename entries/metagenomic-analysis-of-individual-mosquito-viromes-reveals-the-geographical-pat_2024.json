@@ -1,0 +1,20 @@
+{
+  "name": "metagenomic-analysis-of-individual-mosquito-viromes-reveals-the-geographical-pat_2024",
+  "type": "paper",
+  "url": "https://www.nature.com/articles/s41559-024-02365-0",
+  "doi": "10.1038/s41559-024-02365-0",
+  "bibtex": "@article{Pan_2024, title={Metagenomic analysis of individual mosquito viromes reveals the geographical patterns and drivers of viral diversity}, volume={8}, ISSN={2397-334X}, url={http://dx.doi.org/10.1038/s41559-024-02365-0}, DOI={10.1038/s41559-024-02365-0}, number={5}, journal={Nature Ecology &amp; Evolution}, publisher={Springer Science and Business Media LLC}, author={Pan, Yuan-Fei and Zhao, Hailong and Gou, Qin-Yu and Shi, Pei-Bo and Tian, Jun-Hua and Feng, Yun and Li, Kun and Yang, Wei-Hong and Wu, De and Tang, Guangpeng and Zhang, Bing and Ren, Zirui and Peng, Shiqin and Luo, Geng-Yan and Le, Shi-Jia and Xin, Gen-Yang and Wang, Jing and Hou, Xin and Peng, Min-Wu and Kong, Jian-Bin and Chen, Xin-Xin and Yang, Chun-Hui and Mei, Shi-Qiang and Liao, Yu-Qi and Cheng, Jing-Xia and Wang, Juan and Chaolemen and Wu, Yu-Hui and Wang, Jian-Bo and An, Tongqing and Huang, Xinyi and Eden, John-Sebastian and Li, Jun and Guo, Deyin and Liang, Guodong and Jin, Xin and Holmes, Edward C. and Li, Bo and Wang, Daxi and Li, Junhua and Wu, Wei-Chen and Shi, Mang}, year={2024}, month=mar, pages={947–959} }",
+  "description": "Metagenomic analysis of individual mosquito viromes reveals the geographical patterns and drivers of viral diversity",
+  "date": "2024-03-22",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "mosquito"
+  ],
+  "package_managers": null,
+  "title": "Metagenomic analysis of individual mosquito viromes reveals the geographical patterns and drivers of viral diversity",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

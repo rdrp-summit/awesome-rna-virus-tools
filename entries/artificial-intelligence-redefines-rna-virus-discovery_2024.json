@@ -1,0 +1,30 @@
+{
+  "name": "artificial-intelligence-redefines-rna-virus-discovery_2024",
+  "type": "tool",
+  "url": "https://github.com/alibaba/LucaProt",
+  "doi": "10.1016/j.cell.2024.09.027",
+  "bibtex": "@article{Hou_2024, title={Using artificial intelligence to document the hidden RNA virosphere}, volume={187}, ISSN={0092-8674}, url={http://dx.doi.org/10.1016/j.cell.2024.09.027}, DOI={10.1016/j.cell.2024.09.027}, number={24}, journal={Cell}, publisher={Elsevier BV}, author={Hou, Xin and He, Yong and Fang, Pan and Mei, Shi-Qiang and Xu, Zan and Wu, Wei-Chen and Tian, Jun-Hua and Zhang, Shun and Zeng, Zhen-Yu and Gou, Qin-Yu and Xin, Gen-Yang and Le, Shi-Jia and Xia, Yin-Yue and Zhou, Yu-Lan and Hui, Feng-Ming and Pan, Yuan-Fei and Eden, John-Sebastian and Yang, Zhao-Hui and Han, Chong and Shu, Yue-Long and Guo, Deyin and Li, Jun and Holmes, Edward C. and Li, Zhao-Rong and Shi, Mang}, year={2024}, month=nov, pages={6929-6942.e16} }",
+  "description": "A deep learning-based tool that uses a self-supervised model for large-scale analysis of viral genomes, allowing for the discovery and characterization of new RNA viruses.",
+  "date": "2024-11-01",
+  "version": "Dynamic (latest feature 2025-05-01)",
+  "license": "Apache-2.0",
+  "language": "English",
+  "topics": [
+    "tool",
+    "database"
+  ],
+  "package_managers": null,
+  "title": "Artificial intelligence redefines RNA virus discovery",
+  "input_formats": [
+    "FASTQ",
+    "FASTA"
+  ],
+  "output_formats": [
+    "FASTA",
+    "JSON"
+  ],
+  "interface": [
+    "CLI",
+    "Web Interface"
+  ]
+}

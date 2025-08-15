@@ -1,0 +1,20 @@
+{
+  "name": "identification-of-diverse-arthropod-associated-viruses-in-native-australian-flea_2019",
+  "type": "paper",
+  "url": "https://doi.org/10.1016/j.virol.2019.07.010",
+  "doi": "10.1016/j.virol.2019.07.010",
+  "bibtex": "@article{Harvey_2019, title={Identification of diverse arthropod associated viruses in native Australian fleas}, volume={535}, ISSN={0042-6822}, url={http://dx.doi.org/10.1016/j.virol.2019.07.010}, DOI={10.1016/j.virol.2019.07.010}, journal={Virology}, publisher={Elsevier BV}, author={Harvey, Erin and Rose, Karrie and Eden, John-Sebastian and Lawrence, Andrea and Doggett, Stephen L. and Holmes, Edward C.}, year={2019}, month=sep, pages={189–199} }",
+  "description": "Identification of diverse arthropod associated viruses in native Australian fleas",
+  "date": "2019-09-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "arthropods"
+  ],
+  "package_managers": null,
+  "title": "Identification of diverse arthropod associated viruses in native Australian fleas",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "abundant-and-diverse-rna-viruses-in-insects-revealed-by-rna-seq-analysis-ecolog_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/mSystems.00039-20",
+  "doi": "10.1128/mSystems.00039-20",
+  "bibtex": "@article{Wu_2020, title={Abundant and Diverse RNA Viruses in Insects Revealed by RNA-Seq Analysis: Ecological and Evolutionary Implications}, volume={5}, ISSN={2379-5077}, url={http://dx.doi.org/10.1128/mSystems.00039-20}, DOI={10.1128/msystems.00039-20}, number={4}, journal={mSystems}, publisher={American Society for Microbiology}, author={Wu, Haoming and Pang, Rui and Cheng, Tong and Xue, Liang and Zeng, Haiyan and Lei, Tao and Chen, Moutong and Wu, Shi and Ding, Yu and Zhang, Jumei and Shi, Mang and Wu, Qingping}, editor={Cristea, Ileana M.}, year={2020}, month=aug }",
+  "description": "Insects comprise the largest proportion of animals on earth and are frequently implicated in the transmission of vector-borne diseases. However, considerable attention has been paid to the phytophagous and hematophagous insects, with results that provide insufficient and biased information about the viruses in insects. Here, we have delivered compelling evidence for the exceptional abundance and genetic diversity of RNA viruses in a wide range of insects. Novel viruses were found to cover major categories of RNA viruses, and many formed novel clusters divergent from the previously described taxa, dramatically broadening the range of known RNA viruses in insects. These newly characterized RNA viruses exhibited high levels of genomic plasticity in genome size, open reading frame (ORF) number, intergenic structure, and gene rearrangement and segmentation. This work provides comprehensive insight into the origin, spread, and evolution of RNA viruses. Of course, a large-scale virome project involving more organisms would provide more-detailed information about the virus infections in insects",
+  "date": "2020-08-25",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Ecology",
+    "insect"
+  ],
+  "package_managers": null,
+  "title": "Abundant and Diverse RNA Viruses in Insects Revealed by RNA-Seq Analysis: Ecological and Evolutionary Implications",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

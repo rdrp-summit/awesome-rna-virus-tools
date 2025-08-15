@@ -1,0 +1,20 @@
+{
+  "name": "composition-and-global-distribution-of-the-mosquito-virome-a-comprehensive-dat_2023",
+  "type": "paper",
+  "url": "https://doi.org/10.1016/j.onehlt.2023.100490",
+  "doi": "10.1016/j.onehlt.2023.100490",
+  "bibtex": "@article{Moonen_2023, title={Composition and global distribution of the mosquito virome - A comprehensive database of insect-specific viruses}, volume={16}, ISSN={2352-7714}, url={http://dx.doi.org/10.1016/j.onehlt.2023.100490}, DOI={10.1016/j.onehlt.2023.100490}, journal={One Health}, publisher={Elsevier BV}, author={Moonen, Jurgen P. and Schinkel, Michelle and van der Most, Tom and Miesen, Pascal and van Rij, Ronald P.}, year={2023}, month=jun, pages={100490} }",
+  "description": "Composition and global distribution of the mosquito virome - A comprehensive database of insect-specific viruses",
+  "date": "2023-06-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "insect"
+  ],
+  "package_managers": null,
+  "title": "Composition and global distribution of the mosquito virome - A comprehensive database of insect-specific viruses",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

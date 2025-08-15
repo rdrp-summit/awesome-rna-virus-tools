@@ -1,0 +1,20 @@
+{
+  "name": "diversity-evolution-and-emergence-of-fish-viruses_2024",
+  "type": "paper",
+  "url": "https://journals.asm.org/doi/full/10.1128/jvi.00118-24",
+  "doi": "10.1128/jvi.00118-24",
+  "bibtex": "@article{Costa_2024, title={Diversity, evolution, and emergence of fish viruses}, volume={98}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/jvi.00118-24}, DOI={10.1128/jvi.00118-24}, number={6}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Costa, Vincenzo A. and Holmes, Edward C.}, editor={Levy, David E.}, year={2024}, month=jun }",
+  "description": " <jats:title/>The production of aquatic animals has more than doubled over the last 50 years and is anticipated to continually increase. While fish are recognized as a valuable and sustainable source of nutrition, particularly in the context of human population growth and climate change, the rapid expansion of aquaculture coincides with the emergence of highly pathogenic viruses that often spread globally through aquacultural practices. Here, we provide an overview of the fish virome and its relevance for disease emergence, with a focus on the insights gained through metagenomic sequencing, noting potential areas for future study. In particular, we describe the diversity and evolution of fish viruses, for which the majority have no known disease associations, and demonstrate how viruses emerge in fish populations, most notably at an expanding domestic-wild interface. We also show how wild fish are a powerful and tractable model system to study virus ecology and evolution more broadly and can be used to identify the major factors that shape vertebrate viromes. Central to this is a process of virus-host co-divergence that proceeds over many millions of years, combined with ongoing cross-species virus transmission ",
+  "date": "2024-06-13",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "fish"
+  ],
+  "package_managers": null,
+  "title": "Diversity, evolution, and emergence of fish viruses",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

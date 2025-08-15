@@ -1,0 +1,20 @@
+{
+  "name": "hyperexpansion-of-rna-bacteriophage-diversity_2016",
+  "type": "paper",
+  "url": "https://doi.org/10.1371/journal.pbio.1002409",
+  "doi": "10.1371/journal.pbio.1002409",
+  "bibtex": "@article{Krishnamurthy_2016, title={Hyperexpansion of RNA Bacteriophage Diversity}, volume={14}, ISSN={1545-7885}, url={http://dx.doi.org/10.1371/journal.pbio.1002409}, DOI={10.1371/journal.pbio.1002409}, number={3}, journal={PLOS Biology}, publisher={Public Library of Science (PLoS)}, author={Krishnamurthy, Siddharth R. and Janowski, Andrew B. and Zhao, Guoyan and Barouch, Dan and Wang, David}, editor={Sugden, Bill}, year={2016}, month=mar, pages={e1002409} }",
+  "description": "Hyperexpansion of RNA Bacteriophage Diversity",
+  "date": "2016-03-24",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Phages"
+  ],
+  "package_managers": null,
+  "title": "Hyperexpansion of RNA Bacteriophage Diversity",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

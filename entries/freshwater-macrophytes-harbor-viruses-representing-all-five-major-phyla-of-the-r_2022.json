@@ -1,0 +1,20 @@
+{
+  "name": "freshwater-macrophytes-harbor-viruses-representing-all-five-major-phyla-of-the-r_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.7717/peerj.13875",
+  "doi": "10.7717/peerj.13875",
+  "bibtex": "@article{Rosario_2022, title={Freshwater macrophytes harbor viruses representing all five major phyla of the RNA viral kingdom Orthornavirae}, volume={10}, ISSN={2167-8359}, url={http://dx.doi.org/10.7717/peerj.13875}, DOI={10.7717/peerj.13875}, journal={PeerJ}, publisher={PeerJ}, author={Rosario, Karyna and Van Bogaert, Noémi and López-Figueroa, Natalia B. and Paliogiannis, Haris and Kerr, Mason and Breitbart, Mya}, year={2022}, month=aug, pages={e13875} }",
+  "description": "Research on aquatic plant viruses is lagging behind that of their terrestrial counterparts. To address this knowledge gap, here we identified viruses associated with freshwater macrophytes, a taxonomically diverse group of aquatic phototrophs that are visible with the naked eye. We surveyed pooled macrophyte samples collected at four spring sites in Florida, USA through next generation sequencing of RNA extracted from purified viral particles. Sequencing efforts resulted in the detection of 156 freshwater macrophyte associated (FMA) viral contigs, 37 of which approximate complete genomes or segments. FMA viral contigs represent putative members from all five major phyla of the RNA viral kingdom Orthornavirae. Similar to viral types found in land plants, viral sequences identified in macrophytes were dominated by positive-sense RNA viruses. Over half of the FMA viral contigs were most similar to viruses reported from diverse hosts in aquatic environments, including phototrophs, invertebrates, and fungi. The detection of FMA viruses from orders dominated by plant viruses, namely Patatavirales and Tymovirales, indicate that members of these orders may thrive in aquatic hosts. PCR assays confirmed the presence of putative FMA plant viruses in asymptomatic vascular plants, indicating that viruses with persistent lifestyles are widespread in macrophytes. The detection of potato virus Y and oat blue dwarf virus in submerged macrophytes suggests that terrestrial plant viruses infect underwater plants and highlights a potential terrestrial-freshwater plant virus continuum. Defining the virome of unexplored macrophytes will improve our understanding of virus evolution in terrestrial and aquatic primary producers and reveal the potential ecological impacts of viral infection in macrophytes",
+  "date": "2022-08-16",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "marine"
+  ],
+  "package_managers": null,
+  "title": "Freshwater macrophytes harbor viruses representing all five major phyla of the RNA viral kingdom Orthornavirae",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

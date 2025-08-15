@@ -1,0 +1,20 @@
+{
+  "name": "redefining-the-invertebrate-rna-virosphere_2016",
+  "type": "paper",
+  "url": "https://doi.org/10.1038/nature20167",
+  "doi": "10.1038/nature20167",
+  "bibtex": "@article{Shi_2016, title={Redefining the invertebrate RNA virosphere}, volume={540}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/nature20167}, DOI={10.1038/nature20167}, number={7634}, journal={Nature}, publisher={Springer Science and Business Media LLC}, author={Shi, Mang and Lin, Xian-Dan and Tian, Jun-Hua and Chen, Liang-Jun and Chen, Xiao and Li, Ci-Xiu and Qin, Xin-Cheng and Li, Jun and Cao, Jian-Ping and Eden, John-Sebastian and Buchmann, Jan and Wang, Wen and Xu, Jianguo and Holmes, Edward C. and Zhang, Yong-Zhen}, year={2016}, month=nov, pages={539–543} }",
+  "description": "Redefining the invertebrate RNA virosphere",
+  "date": "2016-12-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "invertebrate"
+  ],
+  "package_managers": null,
+  "title": "Redefining the invertebrate RNA virosphere",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

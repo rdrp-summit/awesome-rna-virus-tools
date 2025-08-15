@@ -1,0 +1,21 @@
+{
+  "name": "known-phyla-dominate-the-tara-oceans-rna-virome_2023",
+  "type": "paper",
+  "url": "https://doi.org/10.1093/ve/vead063",
+  "doi": "10.1093/ve/vead063",
+  "bibtex": "@article{Edgar_2023, title={Known phyla dominate the Tara Oceans RNA virome}, volume={9}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/vead063}, DOI={10.1093/ve/vead063}, number={2}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Edgar, Robert}, year={2023}, month=jul }",
+  "description": "   A recent study proposed five new RNA virus phyla, two of which, ‘Taraviricota’ and ‘Arctiviricota’, were stated to be ‘dominant in the oceans’. However, the study’s assignments classify 28,353 putative RdRp-containing contigs to known phyla but only 886 (2.8%) to the five proposed new phyla combined. I re-mapped the reads to the contigs, finding that known phyla also account for a large majority (93.8%) of reads according to the study’s classifications, and that contigs originally assigned to ‘Arctiviricota’ accounted for only a tiny fraction (0.01%) of reads from Arctic Ocean samples. Performing my own virus identification and classifications, I found that 99.95 per cent of reads could be assigned to known phyla. The most abundant species was Beihai picorna-like virus 34 (15% of reads), and the most abundant order-like cluster was classified as Picornavirales (45% of reads). Sequences in the claimed new phylum ‘Pomiviricota’ were placed inside a phylogenetic tree for established order Durnavirales with 100 per cent confidence. Moreover, two contigs assigned to the proposed phylum ‘Taraviricota’ were found to have high-identity alignments to dinoflagellate proteins, tentatively identifying this group of RdRp-like sequences as deriving from non-viral transcripts. Together, these results comprehensively contradict the claim that new phyla dominate the data",
+  "date": "2023-11-15",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "taxonomy",
+    "diversity"
+  ],
+  "package_managers": null,
+  "title": "Known phyla dominate the Tara Oceans RNA virome",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

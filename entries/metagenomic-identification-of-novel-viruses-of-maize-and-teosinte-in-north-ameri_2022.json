@@ -1,0 +1,20 @@
+{
+  "name": "metagenomic-identification-of-novel-viruses-of-maize-and-teosinte-in-north-ameri_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.1186/s12864-022-09001-w",
+  "doi": "10.1186/s12864-022-09001-w",
+  "bibtex": "@article{Lappe_2022, title={Metagenomic identification of novel viruses of maize and teosinte in North America}, volume={23}, ISSN={1471-2164}, url={http://dx.doi.org/10.1186/s12864-022-09001-w}, DOI={10.1186/s12864-022-09001-w}, number={1}, journal={BMC Genomics}, publisher={Springer Science and Business Media LLC}, author={Lappe, Ryan R. and Elmore, Manjula G. and Lozier, Zachary R. and Jander, Georg and Miller, W. Allen and Whitham, Steven A.}, year={2022}, month=nov }",
+  "description": "         Maize-infecting viruses are known to inflict significant agronomic yield loss throughout the world annually. Identification of known or novel causal agents of disease prior to outbreak is imperative to preserve food security via future crop protection efforts. Toward this goal, a large-scale metagenomic approach utilizing high throughput sequencing (HTS) was employed to identify novel viruses with the potential to contribute to yield loss of graminaceous species, particularly maize, in North America            Here we present four novel viruses discovered by HTS and individually validated by Sanger sequencing. Three of these viruses are RNA viruses belonging to either the Betaflexiviridae or Tombusviridae families. Additionally, a novel DNA virus belonging to the Geminiviridae family was discovered, the first Mastrevirus identified in North American maize        <jats:title>Conclusions</jats:title>    Metagenomic studies of crop and crop-related species such as this may be useful for the identification and surveillance of known and novel viral pathogens of crops. Monitoring related species may prove useful in identifying viruses capable of infecting crops due to overlapping insect vectors and viral host-range to protect food security   ",
+  "date": "2022-11-23",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "plants"
+  ],
+  "package_managers": null,
+  "title": "Metagenomic identification of novel viruses of maize and teosinte in North America",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

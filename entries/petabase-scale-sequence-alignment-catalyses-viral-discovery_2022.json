@@ -1,0 +1,21 @@
+{
+  "name": "petabase-scale-sequence-alignment-catalyses-viral-discovery_2022",
+  "type": "paper",
+  "url": "https://serratus.io/",
+  "doi": "10.1038/s41586-021-04332-2",
+  "bibtex": "@article{Edgar_2022, title={Petabase-scale sequence alignment catalyses viral discovery}, volume={602}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/s41586-021-04332-2}, DOI={10.1038/s41586-021-04332-2}, number={7895}, journal={Nature}, publisher={Springer Science and Business Media LLC}, author={Edgar, Robert C. and Taylor, Brie and Lin, Victor and Altman, Tomer and Barbera, Pierre and Meleshko, Dmitry and Lohr, Dan and Novakovsky, Gherman and Buchfink, Benjamin and Al-Shayeb, Basem and Banfield, Jillian F. and de la Peña, Marcos and Korobeynikov, Anton and Chikhi, Rayan and Babaian, Artem}, year={2022}, month=jan, pages={142–147} }",
+  "description": "Petabase-scale sequence alignment catalyses viral discovery",
+  "date": "2022-02-03",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Serratus",
+    "Cloud"
+  ],
+  "package_managers": null,
+  "title": "Petabase-scale sequence alignment catalyses viral discovery",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,20 @@
+{
+  "name": "metagenomic-analysis-of-viruses-from-bat-fecal-samples-reveals-many-novel-viruse_2012",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/JVI.06671-11",
+  "doi": "10.1128/JVI.06671-11",
+  "bibtex": "@article{Ge_2012, title={Metagenomic Analysis of Viruses from Bat Fecal Samples Reveals Many Novel Viruses in Insectivorous Bats in China}, volume={86}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.06671-11}, DOI={10.1128/jvi.06671-11}, number={8}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Ge, Xingyi and Li, Yan and Yang, Xinglou and Zhang, Huajun and Zhou, Peng and Zhang, Yunzhi and Shi, Zhengli}, year={2012}, month=apr, pages={4620–4630} }",
+  "description": "Increasing data indicate that bats harbor diverse viruses, some of which cause severe human diseases. In this study, sequence-independent amplification and high-throughput sequencing (Solexa) were applied to the metagenomic analysis of viruses in bat fecal samples collected from 6 locations in China. A total of 8,746,417 reads with a length of 306,124,595 bp were obtained. Among these reads, 13,541 (0.15%) had similarity to phage sequences and 9,170 (0.1%) had similarity to eukaryotic virus sequences. A total of 129 assembled contigs (&gt;100 nucleotides) were constructed and compared with GenBank: 32 contigs were related to phages, and 97 were related to eukaryotic viruses. The most frequent reads and contigs related to eukaryotic viruses were homologous to densoviruses, dicistroviruses, coronaviruses, parvoviruses, and tobamoviruses, a range that includes viruses from invertebrates, vertebrates, and plants. Most of the contigs had low identities to known viral genomic or protein sequences, suggesting that a large number of novel and genetically diverse insect viruses as well as putative mammalian viruses are transmitted by bats in China. This study provides the first preliminary understanding of the virome of some bat populations in China, which may guide the discovery and isolation of novel viruses in the future",
+  "date": "2012-04-15",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "bats"
+  ],
+  "package_managers": null,
+  "title": "Metagenomic Analysis of Viruses from Bat Fecal Samples Reveals Many Novel Viruses in Insectivorous Bats in China",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

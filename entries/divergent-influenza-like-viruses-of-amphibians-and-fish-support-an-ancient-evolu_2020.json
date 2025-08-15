@@ -1,0 +1,21 @@
+{
+  "name": "divergent-influenza-like-viruses-of-amphibians-and-fish-support-an-ancient-evolu_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.3390/v12091042",
+  "doi": "10.3390/v12091042",
+  "bibtex": "@article{Parry_2020, title={Divergent Influenza-Like Viruses of Amphibians and Fish Support an Ancient Evolutionary Association}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12091042}, DOI={10.3390/v12091042}, number={9}, journal={Viruses}, publisher={MDPI AG}, author={Parry, Rhys and Wille, Michelle and Turnbull, Olivia and Geoghegan, Jemma and Holmes, Edward}, year={2020}, month=sep, pages={1042} }",
+  "description": "Influenza viruses (family Orthomyxoviridae) infect a variety of vertebrates, including birds, humans, and other mammals. Recent metatranscriptomic studies have uncovered divergent influenza viruses in amphibians, fish and jawless vertebrates, suggesting that these viruses may be widely distributed. We sought to identify additional vertebrate influenza-like viruses through the analysis of publicly available RNA sequencing data. Accordingly, by data mining, we identified the complete coding segments of five divergent vertebrate influenza-like viruses. Three fell as sister lineages to influenza B virus: salamander influenza-like virus in Mexican walking fish (Ambystoma mexicanum) and plateau tiger salamander (Ambystoma velasci), Siamese algae-eater influenza-like virus in Siamese algae-eater fish (Gyrinocheilus aymonieri) and chum salmon influenza-like virus in chum salmon (Oncorhynchus keta). Similarly, we identified two influenza-like viruses of amphibians that fell as sister lineages to influenza D virus: cane toad influenza-like virus and the ornate chorus frog influenza-like virus, in the cane toad (Rhinella marina) and ornate chorus frog (Microhyla fissipes), respectively. Despite their divergent phylogenetic positions, these viruses retained segment conservation and splicing consistent with transcriptional regulation in influenza B and influenza D viruses, and were detected in respiratory tissues. These data suggest that influenza viruses have been associated with vertebrates for their entire evolutionary history",
+  "date": "2020-09-18",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Amphibians",
+    "fish"
+  ],
+  "package_managers": null,
+  "title": "Divergent Influenza-Like Viruses of Amphibians and Fish Support an Ancient Evolutionary Association",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

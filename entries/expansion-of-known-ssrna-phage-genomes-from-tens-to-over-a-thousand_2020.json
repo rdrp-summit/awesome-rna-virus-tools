@@ -1,0 +1,20 @@
+{
+  "name": "expansion-of-known-ssrna-phage-genomes-from-tens-to-over-a-thousand_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.1126/sciadv.aay5981",
+  "doi": "10.1126/sciadv.aay5981",
+  "bibtex": "@article{Callanan_2020, title={Expansion of known ssRNA phage genomes: From tens to over a thousand}, volume={6}, ISSN={2375-2548}, url={http://dx.doi.org/10.1126/sciadv.aay5981}, DOI={10.1126/sciadv.aay5981}, number={6}, journal={Science Advances}, publisher={American Association for the Advancement of Science (AAAS)}, author={Callanan, J. and Stockdale, S. R. and Shkoporov, A. and Draper, L. A. and Ross, R. P. and Hill, C.}, year={2020}, month=feb }",
+  "description": "We report a massive expansion in RNA-encoded bacterial viral genomes, which have been overlooked within environments",
+  "date": "2020-02-07",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Phages"
+  ],
+  "package_managers": null,
+  "title": "Expansion of known ssRNA phage genomes: From tens to over a thousand",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

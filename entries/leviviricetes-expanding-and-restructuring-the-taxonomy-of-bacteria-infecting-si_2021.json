@@ -1,0 +1,20 @@
+{
+  "name": "leviviricetes-expanding-and-restructuring-the-taxonomy-of-bacteria-infecting-si_2021",
+  "type": "paper",
+  "url": "https://doi.org/10.1099/mgen.0.000686",
+  "doi": "10.1099/mgen.0.000686",
+  "bibtex": "@article{Callanan_2021, title={Leviviricetes: expanding and restructuring the taxonomy of bacteria-infecting single-stranded RNA viruses}, volume={7}, ISSN={2057-5858}, url={http://dx.doi.org/10.1099/mgen.0.000686}, DOI={10.1099/mgen.0.000686}, number={11}, journal={Microbial Genomics}, publisher={Microbiology Society}, author={Callanan, Julie and Stockdale, Stephen R. and Adriaenssens, Evelien M. and Kuhn, Jens H. and Rumnieks, Janis and Pallen, Mark J. and Shkoporov, Andrey N. and Draper, Lorraine A. and Ross, R. Paul and Hill, Colin}, year={2021}, month=nov }",
+  "description": "The vast majority of described prokaryotic viruses have double-stranded or single-stranded DNA or double-stranded RNA genomes. Until 2020, a mere four prokaryotic single-stranded, positive-sense RNA viruses have been classified in two genera (Riboviria; Lenarviricota; Allassoviricetes; Leviviridae). Several recent metagenomic and metatranscriptomic studies revealed a vastly greater diversity of these viruses in prokaryotic soil communities than ever anticipated. Phylogenetic analysis of these newly discovered viruses prompted the reorganization of class Allassoviricetes, now renamed Leviviricetes, to include two orders, Norzivirales and Timlovirales, and a total of six families, 428 genera and 882 species. Here we outline the new taxonomy of Leviviricetes, approved and ratified in 2021 by the International Committee on Taxonomy of Viruses, and describe open-access hidden Markov models to accommodate the anticipated identification and future classification of hundreds, if not thousands, of additional class members into this new taxonomic framework",
+  "date": "2021-11-30",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "phages"
+  ],
+  "package_managers": null,
+  "title": "Leviviricetes: expanding and restructuring the taxonomy of bacteria-infecting single-stranded RNA viruses",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

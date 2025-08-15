@@ -1,0 +1,20 @@
+{
+  "name": "a-survey-using-high-throughput-sequencing-suggests-that-the-diversity-of-cereal_2021",
+  "type": "paper",
+  "url": "https://doi.org/10.3389/fmicb.2021.673218",
+  "doi": "10.3389/fmicb.2021.673218",
+  "bibtex": "@article{S_mera_2021, title={A Survey Using High-Throughput Sequencing Suggests That the Diversity of Cereal and Barley Yellow Dwarf Viruses Is Underestimated}, volume={12}, ISSN={1664-302X}, url={http://dx.doi.org/10.3389/fmicb.2021.673218}, DOI={10.3389/fmicb.2021.673218}, journal={Frontiers in Microbiology}, publisher={Frontiers Media SA}, author={Sõmera, Merike and Massart, Sébastien and Tamisier, Lucie and Sooväli, Pille and Sathees, Kanitha and Kvarnheden, Anders}, year={2021}, month=may }",
+  "description": "Worldwide, barley/cereal yellow dwarf viruses (YDVs) are the most widespread and damaging group of cereal viruses. In this study, we applied high-throughput sequencing technologies (HTS) to perform a virus survey on symptomatic plants from 47 cereal fields in Estonia. HTS allowed the assembly of complete genome sequences for 22 isolates of cereal yellow dwarf virus RPS, barley yellow dwarf virus GAV, barley yellow dwarf virus PAS (BYDV-PAS), barley yellow dwarf virus PAV (BYDV-PAV), and barley yellow dwarf virus OYV (BYDV-OYV). We also assembled a near-complete genome of the putative novel species BYDV-OYV from Swedish samples of meadow fescue. Previously, partial sequencing of the central part of the coat protein gene indicated that BYDV-OYV represented a putative new species closely related to BYDV-PAV-CN, which currently is recognized as a subtype of BYDV-PAV. The present study found that whereas the 3′gene block of BYDV-OYV shares the closest relationship with BYDV-PAV-CN, the 5′gene block of BYDV-OYV shows the closest relationships to that of BYDV-PAS. Recombination detection analysis revealed that BYDV-OYV is a parental virus for both. Analysis of complete genome sequence data indicates that both BYDV-OYV and BYDV-PAV-CN meet the species criteria of genus Luteovirus. The study discusses BYDV phylogeny, and through a systematic in silico analysis of published primers for YDV detection, the existing gaps in current diagnostic practices for detection of YDVs, proposing primer pairs based on the most recent genomic information for the detection of different BYDV species. Thanks to the rising number of sequences available in databases, continuous updating of diagnostic primers can improve test specificity, e.g., inclusivity and exclusivity at species levels. This is needed to properly survey the geographical and host distribution of the different species of the YDV complex and their prevalence in cereal/barley yellow dwarf disease epidemics",
+  "date": "2021-05-11",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "plants"
+  ],
+  "package_managers": null,
+  "title": "A Survey Using High-Throughput Sequencing Suggests That the Diversity of Cereal and Barley Yellow Dwarf Viruses Is Underestimated",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,18 @@
+{
+  "name": "soybean-thrips-thysanoptera-thripidae-harbor-highly-diverse-populations-of-ar_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.3390/v12121376",
+  "doi": "10.3390/v12121376",
+  "bibtex": "@article{Thekke_Veetil_2020, title={Soybean Thrips (Thysanoptera: Thripidae) Harbor Highly Diverse Populations of Arthropod, Fungal and Plant Viruses}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12121376}, DOI={10.3390/v12121376}, number={12}, journal={Viruses}, publisher={MDPI AG}, author={Thekke-Veetil, Thanuja and Lagos-Kutz, Doris and McCoppin, Nancy K. and Hartman, Glen L. and Ju, Hye-Kyoung and Lim, Hyoun-Sub and Domier, Leslie. L.}, year={2020}, month=dec, pages={1376} }",
+  "description": "Soybean thrips (Neohydatothrips variabilis) are one of the most efficient vectors of soybean vein necrosis virus, which can cause severe necrotic symptoms in sensitive soybean plants. To determine which other viruses are associated with soybean thrips, the metatranscriptome of soybean thrips, collected by the Midwest Suction Trap Network during 2018, was analyzed. Contigs assembled from the data revealed a remarkable diversity of virus-like sequences. Of the 181 virus-like sequences identified, 155 were novel and associated primarily with taxa of arthropod-infecting viruses, but sequences similar to plant and fungus-infecting viruses were also identified. The novel viruses were predicted to have positive-sense RNA, negative-stranded RNA, double-stranded RNA, and single-stranded DNA genomes. The assembled sequences included 100 contigs that represented at least 95% coverage of a virus genome or genome segment. Sequences represented 12 previously described arthropod viruses including eight viruses reported from Hubei Province in China, and 12 plant virus sequences of which six have been previously described. The presence of diverse populations of plant viruses within soybean thrips suggests they feed on and acquire viruses from multiple host plant species that could be transmitted to soybean. Assessment of the virome of soybean thrips provides, for the first time, information on the diversity of viruses present in thrips",
+  "date": "2020-12-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": ["plants"],
+  "package_managers": null,
+  "title": "Soybean Thrips (Thysanoptera: Thripidae) Harbor Highly Diverse Populations of Arthropod, Fungal and Plant Viruses",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

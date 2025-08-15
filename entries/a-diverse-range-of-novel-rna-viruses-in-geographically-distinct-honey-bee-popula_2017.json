@@ -1,0 +1,20 @@
+{
+  "name": "a-diverse-range-of-novel-rna-viruses-in-geographically-distinct-honey-bee-popula_2017",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/JVI.00158-17",
+  "doi": "10.1128/JVI.00158-17",
+  "bibtex": "@article{Remnant_2017, title={A Diverse Range of Novel RNA Viruses in Geographically Distinct Honey Bee Populations}, volume={91}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.00158-17}, DOI={10.1128/jvi.00158-17}, number={16}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Remnant, Emily J. and Shi, Mang and Buchmann, Gabriele and Blacquière, Tjeerd and Holmes, Edward C. and Beekman, Madeleine and Ashe, Alyson}, editor={Ross, Susan R.}, year={2017}, month=aug }",
+  "description": "Understanding the diversity and consequences of viruses present in honey bees is critical for maintaining pollinator health and managing the spread of disease. The viral landscape of honey bees (Apis mellifera) has changed dramatically since the emergence of the parasitic miteVarroa destructor, which increased the spread of virulent variants of viruses such as deformed wing virus. Previous genomic studies have focused on colonies suffering from infections by Varroaand virulent viruses, which could mask other viral species present in honey bees, resulting in a distorted view of viral diversity. To capture the viral diversity within colonies that are exposed to mites but do not suffer the ultimate consequences of the infestation, we examined populations of honey bees that have evolved naturally or have been selected for resistance toVarroa. This analysis revealed seven novel viruses isolated from honey bees sampled globally, including the first identification of negative-sense RNA viruses in honey bees. Notably, two rhabdoviruses were present in three geographically diverse locations and were also present inVarroamites parasitizing the bees. To characterize the antiviral response, we performed deep sequencing of small RNA populations in honey bees and mites. This provided evidence of a Dicer-mediated immune response in honey bees, while the viral small RNA profile inVarroamites was novel and distinct from the response observed in bees. Overall, we show that viral diversity in honey bee colonies is greater than previously thought, which encourages additional studies of the bee virome on a global scale and which may ultimately improve disease management.Honey bee populations have become increasingly susceptible to colony losses due to pathogenic viruses spread by parasiticVarroamites. To date, 24 viruses have been described in honey bees, with most belonging to the orderPicornavirales. CollapsingVarroa-infected colonies are often overwhelmed with high levels of picornaviruses. To examine the underlying viral diversity in honey bees, we employed viral metatranscriptomics analyses on three geographically diverseVarroa-resistant populations from Europe, Africa, and the Pacific. We describe seven novel viruses from a range of diverse viral families, including two viruses that are present in all three locations. In honey bees, small RNA sequences indicate that these viruses are processed by Dicer and the RNA interference pathway, whereasVarroamites produce strikingly novel small RNA patterns. This work increases the number and diversity of known honey bee viruses and will ultimately contribute to improved disease management in our most important agricultural pollinator",
+  "date": "2017-08-15",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "insect"
+  ],
+  "package_managers": null,
+  "title": "A Diverse Range of Novel RNA Viruses in Geographically Distinct Honey Bee Populations",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

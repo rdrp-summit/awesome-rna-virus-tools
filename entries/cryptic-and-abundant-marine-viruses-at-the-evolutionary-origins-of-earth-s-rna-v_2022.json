@@ -1,0 +1,20 @@
+{
+  "name": "cryptic-and-abundant-marine-viruses-at-the-evolutionary-origins-of-earth-s-rna-v_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.1126/science.abm5847",
+  "doi": "10.1126/science.abm5847",
+  "bibtex": "@article{Zayed_2022, title={Cryptic and abundant marine viruses at the evolutionary origins of Earth’s RNA virome}, volume={376}, ISSN={1095-9203}, url={http://dx.doi.org/10.1126/science.abm5847}, DOI={10.1126/science.abm5847}, number={6589}, journal={Science}, publisher={American Association for the Advancement of Science (AAAS)}, author={Zayed, Ahmed A. and Wainaina, James M. and Dominguez-Huerta, Guillermo and Pelletier, Eric and Guo, Jiarong and Mohssen, Mohamed and Tian, Funing and Pratama, Akbar Adjie and Bolduc, Benjamin and Zablocki, Olivier and Cronin, Dylan and Solden, Lindsey and Delage, Erwan and Alberti, Adriana and Aury, Jean-Marc and Carradec, Quentin and da Silva, Corinne and Labadie, Karine and Poulain, Julie and Ruscheweyh, Hans-Joachim and Salazar, Guillem and Shatoff, Elan and Bundschuh, Ralf and Fredrick, Kurt and Kubatko, Laura S. and Chaffron, Samuel and Culley, Alexander I. and Sunagawa, Shinichi and Kuhn, Jens H. and Wincker, Patrick and Sullivan, Matthew B. and Acinas, Silvia G. and Babin, Marcel and Bork, Peer and Boss, Emmanuel and Bowler, Chris and Cochrane, Guy and de Vargas, Colomban and Gorsky, Gabriel and Guidi, Lionel and Grimsley, Nigel and Hingamp, Pascal and Iudicone, Daniele and Jaillon, Olivier and Kandels, Stefanie and Karp-Boss, Lee and Karsenti, Eric and Not, Fabrice and Ogata, Hiroyuki and Poulton, Nicole and Pesant, Stéphane and Sardet, Christian and Speich, Sabrinia and Stemmann, Lars and Sullivan, Matthew B. and Sungawa, Shinichi and Wincker, Patrick}, year={2022}, month=apr, pages={156–162} }",
+  "description": "Whereas DNA viruses are known to be abundant, diverse, and commonly key ecosystem players, RNA viruses are insufficiently studied outside disease settings. In this study, we analyzed ≈28 terabases of Global Ocean RNA sequences to expand Earth’s RNA virus catalogs and their taxonomy, investigate their evolutionary origins, and assess their marine biogeography from pole to pole. Using new approaches to optimize discovery and classification, we identified RNA viruses that necessitate substantive revisions of taxonomy (doubling phyla and adding &gt;50% new classes) and evolutionary understanding. “Species”-rank abundance determination revealed that viruses of the new phyla “Taraviricota,” a missing link in early RNA virus evolution, and “Arctiviricota” are widespread and dominant in the oceans. These efforts provide foundational knowledge critical to integrating RNA viruses into ecological and epidemiological models",
+  "date": "2022-04-08",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "marine"
+  ],
+  "package_managers": null,
+  "title": "Cryptic and abundant marine viruses at the evolutionary origins of Earth's RNA virome",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

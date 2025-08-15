@@ -1,0 +1,20 @@
+{
+  "name": "meta-transcriptomic-identification-of-divergent-amnoonviridae-in-fish_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.3390/v12111254",
+  "doi": "10.3390/v12111254",
+  "bibtex": "@article{Turnbull_2020, title={Meta-Transcriptomic Identification of Divergent Amnoonviridae in Fish}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12111254}, DOI={10.3390/v12111254}, number={11}, journal={Viruses}, publisher={MDPI AG}, author={Turnbull, Olivia M. H. and Ortiz-Baez, Ayda Susana and Eden, John-Sebastian and Shi, Mang and Williamson, Jane E. and Gaston, Troy F. and Zhang, Yong-Zhen and Holmes, Edward C. and Geoghegan, Jemma L.}, year={2020}, month=nov, pages={1254} }",
+  "description": "Tilapia lake virus (TiLV) has caused mass mortalities in farmed and wild tilapia with serious economic and ecological consequences. Until recently, this virus was the sole member of the Amnoonviridae, a family within the order Articulavirales comprising segmented negative-sense RNA viruses. We sought to identify additional viruses within the Amnoonviridae through total RNA sequencing (meta-transcriptomics) and data mining of published transcriptomes. Accordingly, we sampled marine fish species from both Australia and China and discovered several segments of two new viruses within the Amnoonviridae, tentatively called Flavolineata virus and Piscibus virus, respectively. In addition, by mining vertebrate transcriptome data, we identified nine additional virus transcripts matching to multiple genomic segments of TiLV in both marine and freshwater fish. These new viruses retained sequence conservation with the distantly related Orthomyxoviridae in the RdRp subunit PB1, but formed a distinct and diverse phylogenetic group. These data suggest that the Amnoonviridae have a broad host range within fish and that greater animal sampling will identify additional divergent members of the Articulavirales",
+  "date": "2020-11-04",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "fish"
+  ],
+  "package_managers": null,
+  "title": "Meta-Transcriptomic Identification of Divergent Amnoonviridae in Fish",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

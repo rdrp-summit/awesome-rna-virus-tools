@@ -1,0 +1,23 @@
+{
+  "name": "coronaspades-from-biosynthetic-gene-clusters-to-rna-viral-assemblies_2021",
+  "type": "tool",
+  "url": "https://github.com/ablab/spades",
+  "doi": "10.1093/bioinformatics/btab597",
+  "bibtex": "@article{Meleshko_2021, title={coronaSPAdes: from biosynthetic gene clusters to RNA viral assemblies}, volume={38}, ISSN={1367-4811}, url={http://dx.doi.org/10.1093/bioinformatics/btab597}, DOI={10.1093/bioinformatics/btab597}, number={1}, journal={Bioinformatics}, publisher={Oxford University Press (OUP)}, author={Meleshko, Dmitry and Hajirasouliha, Iman and Korobeynikov, Anton}, editor={Robinson, Peter}, year={2021}, month=aug, pages={1–8} }",
+  "description": "Specialized assembler for coronavirus genomes and other RNA viral sequences",
+  "date": "2021-08-20",
+  "version": "3.15.5",
+  "license": "GPL-2.0",
+  "language": "C++",
+  "topics": [
+    "assembly",
+    "coronavirus"
+  ],
+  "package_managers": [
+    "bioconda"
+  ],
+  "title": "coronaSPAdes: from biosynthetic gene clusters to RNA viral assemblies",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

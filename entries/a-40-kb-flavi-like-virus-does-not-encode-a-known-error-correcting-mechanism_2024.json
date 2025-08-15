@@ -1,0 +1,20 @@
+{
+  "name": "a-40-kb-flavi-like-virus-does-not-encode-a-known-error-correcting-mechanism_2024",
+  "type": "paper",
+  "url": "https://doi.org/10.1073/pnas.2403805121",
+  "doi": "10.1073/pnas.2403805121",
+  "bibtex": "@article{Petrone_2024, title={A ~40-kb flavi-like virus does not encode a known error-correcting mechanism}, volume={121}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2403805121}, DOI={10.1073/pnas.2403805121}, number={30}, journal={Proceedings of the National Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences}, author={Petrone, Mary E. and Grove, Joe and Mélade, Julien and Mifsud, Jonathon C. O. and Parry, Rhys H. and Marzinelli, Ezequiel M. and Holmes, Edward C.}, year={2024}, month=jul }",
+  "description": "It is commonly held that there is a fundamental relationship between genome size and error rate, manifest as a notional “error threshold” that sets an upper limit on genome sizes. The genome sizes of RNA viruses, which have intrinsically high mutation rates due to a lack of mechanisms for error correction, must therefore be small to avoid accumulating an excessive number of deleterious mutations that will ultimately lead to population extinction. The proposed exceptions to this evolutionary rule are RNA viruses from the orderNidovirales(such as coronaviruses) that encode error-correcting exonucleases, enabling them to reach genome lengths greater than 40 kb. The recent discovery of large-genome flavi-like viruses (Flaviviridae), which comprise genomes up to 27 kb in length yet seemingly do not encode exonuclease domains, has led to the proposal that a proofreading mechanism is required to facilitate the expansion of nonsegmented RNA virus genomes above 30 kb. Herein, we describe a ~40 kb flavi-like virus identified in aHaliclonasponge metatranscriptome that does not encode a known exonuclease. Structural analysis revealed that this virus may have instead captured cellular domains associated with nucleic acid metabolism that have not been previously found in RNA viruses. Phylogenetic inference placed this virus as a divergent pesti-like lineage, such that we have provisionally termed it “Maximus pesti-like virus.” This virus represents an instance of a flavi-like virus achieving a genome size comparable to that of theNidoviralesand demonstrates that RNA viruses have evolved multiple solutions to overcome the error threshold",
+  "date": "2024-07-23",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "flavi"
+  ],
+  "package_managers": null,
+  "title": "A ~40-kb flavi-like virus does not encode a known error-correcting mechanism",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

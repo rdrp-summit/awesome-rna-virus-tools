@@ -3,23 +3,12 @@
   "type": "tool",
   "url": "https://github.com/ablab/spades",
   "doi": "10.1093/bioinformatics/btab597",
-  "bibtex": "@article{meleshko2021coronaspades,  title={coronaSPAdes: from biosynthetic gene clusters to RNA viral assemblies},  author={Meleshko, Dmitry and Mohimani, Hosein and Korobeynikov, Anton},  journal={Bioinformatics},  volume={38},  number={1},  pages={1--8},  year={2022},  publisher={Oxford University Press}}",
+  "bibtex": "@article{meleshko2021coronaspades title={coronaSPAdes: from biosynthetic gene clusters to RNA viral assemblies} author={Meleshko, Dmitry and Mohimani, Hosein and Korobeynikov, Anton} journal={Bioinformatics} volume={38} number={1} pages={1--8} year={2022} publisher={Oxford University Press}\n}",
   "description": "Specialized assembler for coronavirus genomes and other RNA viral sequences",
   "date": "2021-08-20",
   "version": "3.15.5",
-  "license": null,
+  "license": "GPL-2.0",
   "language": "C++",
-  "topics": [
-    "assembly",
-    "corona"
-  ],
-  "package_managers": [
-    "bioconda"
-  ],
-  "interface": "CLI",
-  "package_manager": "source",
-  "installation_methods": null,
-  "platforms": null,
-  "input_formats": null,
-  "output_formats": null
+  "topics": ["assembly", "coronavirus"],
+  "package_managers": ["bioconda"]
 }
