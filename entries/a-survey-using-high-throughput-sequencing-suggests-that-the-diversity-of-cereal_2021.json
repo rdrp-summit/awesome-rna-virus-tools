@@ -1,6 +1,6 @@
 {
   "name": "a-survey-using-high-throughput-sequencing-suggests-that-the-diversity-of-cereal_2021",
-  "type": "paper",
+  "title": "A Survey Using High-Throughput Sequencing Suggests That the Diversity of Cereal and Barley Yellow Dwarf Viruses Is Underestimated",
   "url": "https://doi.org/10.3389/fmicb.2021.673218",
   "doi": "10.3389/fmicb.2021.673218",
   "bibtex": "@article{S_mera_2021, title={A Survey Using High-Throughput Sequencing Suggests That the Diversity of Cereal and Barley Yellow Dwarf Viruses Is Underestimated}, volume={12}, ISSN={1664-302X}, url={http://dx.doi.org/10.3389/fmicb.2021.673218}, DOI={10.3389/fmicb.2021.673218}, journal={Frontiers in Microbiology}, publisher={Frontiers Media SA}, author={Sõmera, Merike and Massart, Sébastien and Tamisier, Lucie and Sooväli, Pille and Sathees, Kanitha and Kvarnheden, Anders}, year={2021}, month=may }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "plants"
   ],
-  "package_managers": null,
-  "title": "A Survey Using High-Throughput Sequencing Suggests That the Diversity of Cereal and Barley Yellow Dwarf Viruses Is Underestimated",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

@@ -1,6 +1,6 @@
 {
   "name": "freshwater-macrophytes-harbor-viruses-representing-all-five-major-phyla-of-the-r_2022",
-  "type": "paper",
+  "title": "Freshwater macrophytes harbor viruses representing all five major phyla of the RNA viral kingdom Orthornavirae",
   "url": "https://doi.org/10.7717/peerj.13875",
   "doi": "10.7717/peerj.13875",
   "bibtex": "@article{Rosario_2022, title={Freshwater macrophytes harbor viruses representing all five major phyla of the RNA viral kingdom Orthornavirae}, volume={10}, ISSN={2167-8359}, url={http://dx.doi.org/10.7717/peerj.13875}, DOI={10.7717/peerj.13875}, journal={PeerJ}, publisher={PeerJ}, author={Rosario, Karyna and Van Bogaert, Noémi and López-Figueroa, Natalia B. and Paliogiannis, Haris and Kerr, Mason and Breitbart, Mya}, year={2022}, month=aug, pages={e13875} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "marine"
   ],
-  "package_managers": null,
-  "title": "Freshwater macrophytes harbor viruses representing all five major phyla of the RNA viral kingdom Orthornavirae",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

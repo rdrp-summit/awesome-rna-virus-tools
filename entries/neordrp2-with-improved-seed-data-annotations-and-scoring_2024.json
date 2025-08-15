@@ -1,6 +1,6 @@
 {
   "name": "neordrp2-with-improved-seed-data-annotations-and-scoring_2024",
-  "type": "database",
+  "title": "NeoRdRp2 with improved seed data, annotations, and scoring",
   "url": "https://github.com/shoichisakaguchi/NeoRdRp",
   "doi": "10.3389/fviro.2024.1378695",
   "bibtex": "@article{Sakaguchi_2024, title={NeoRdRp2 with improved seed data, annotations, and scoring}, volume={4}, ISSN={2673-818X}, url={http://dx.doi.org/10.3389/fviro.2024.1378695}, DOI={10.3389/fviro.2024.1378695}, journal={Frontiers in Virology}, publisher={Frontiers Media SA}, author={Sakaguchi, Shoichi and Nakano, Takashi and Nakagawa, So}, year={2024}, month=apr }",
@@ -9,13 +9,13 @@
   "version": "2.1",
   "license": "MIT",
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "database",
     "pHMM"
   ],
-  "package_managers": null,
-  "title": "NeoRdRp2 with improved seed data, annotations, and scoring",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "database",
   "interface": null
 }

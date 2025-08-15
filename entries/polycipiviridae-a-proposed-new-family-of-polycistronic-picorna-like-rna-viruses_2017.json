@@ -1,6 +1,6 @@
 {
   "name": "polycipiviridae-a-proposed-new-family-of-polycistronic-picorna-like-rna-viruses_2017",
-  "type": "paper",
+  "title": "Polycipiviridae: a proposed new family of polycistronic picorna-like RNA viruses",
   "url": "https://doi.org/10.1099/jgv.0.000902",
   "doi": "10.1099/jgv.0.000902",
   "bibtex": "@article{Olendraite_2017, title={Polycipiviridae: a proposed new family of polycistronic picorna-like RNA viruses}, volume={98}, ISSN={1465-2099}, url={http://dx.doi.org/10.1099/jgv.0.000902}, DOI={10.1099/jgv.0.000902}, number={9}, journal={Journal of General Virology}, publisher={Microbiology Society}, author={Olendraite, Ingrida and Lukhovitskaya, Nina I. and Porter, Sanford D. and Valles, Steven M. and Firth, Andrew E.}, year={2017}, month=sep, pages={2368–2378} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "phylogeny"
   ],
-  "package_managers": null,
-  "title": "Polycipiviridae: a proposed new family of polycistronic picorna-like RNA viruses",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

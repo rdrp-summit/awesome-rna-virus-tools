@@ -1,21 +1,21 @@
 {
   "name": "identification-of-diverse-viruses-associated-with-grasshoppers-unveils-the-paral_2022",
-  "type": "paper",
+  "title": "Identification of diverse viruses associated with grasshoppers unveils the parallel relationship between host phylogeny and virome composition",
   "url": "https://doi.org/10.1093/ve/veac057",
   "doi": "10.1093/ve/veac057",
   "bibtex": "@article{Xu_2022, title={Identification of diverse viruses associated with grasshoppers unveils the parallel relationship between host phylogeny and virome composition}, volume={8}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veac057}, DOI={10.1093/ve/veac057}, number={2}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Xu, Yao and Jiang, Jingyi and Lin, Xiaoju and Shi, Wangpeng and Cao, Chuan}, year={2022}, month=jan }",
-  "description": "   Grasshoppers (Orthoptera: Acridoidea) are one of the most dangerous agricultural pests. Environmentally benign microbial pesticides are increasingly desirable for controlling grasshopper outbreaks in fragile ecosystems. However, little is known about natural pathogens infecting this pest. Here we profile the rich viral communities in forty-five grasshopper species and report 302 viruses, including 231 novel species. Most of the identified viruses are related to other insect viruses, and small RNA sequencing indicates that some are targeted by host antiviral RNA interference (RNAi) pathway. Our analysis of relationships between host phylogeny and virus diversity suggests that the composition of viromes is closely allied with host evolution. Overall, this study is a first extensive exploration of viruses in grasshoppers and provides a valuable comparative dataset of both academic and applied interest",
+  "description": "Grasshoppers (Orthoptera: Acridoidea) are one of the most dangerous agricultural pests. Environmentally benign microbial pesticides are increasingly desirable for controlling grasshopper outbreaks in fragile ecosystems. However, little is known about natural pathogens infecting this pest. Here we profile the rich viral communities in forty-five grasshopper species and report 302 viruses, including 231 novel species. Most of the identified viruses are related to other insect viruses, and small RNA sequencing indicates that some are targeted by host antiviral RNA interference (RNAi) pathway. Our analysis of relationships between host phylogeny and virus diversity suggests that the composition of viromes is closely allied with host evolution. Overall, this study is a first extensive exploration of viruses in grasshoppers and provides a valuable comparative dataset of both academic and applied interest",
   "date": "2022-07-09",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "insect",
     "grasshopper"
   ],
-  "package_managers": null,
-  "title": "Identification of diverse viruses associated with grasshoppers unveils the parallel relationship between host phylogeny and virome composition",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

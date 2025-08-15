@@ -1,6 +1,6 @@
 {
   "name": "host-and-geography-impact-virus-diversity-in-new-zealand-s-longfin-and-shortfin_2024",
-  "type": "paper",
+  "title": "Host and geography impact virus diversity in New Zealand’s longfin and shortfin eels",
   "url": "https://link.springer.com/article/10.1007/s00705-024-06019-1",
   "doi": "10.1007/s00705-024-06019-1",
   "bibtex": "@article{Waller_2024, title={Host and geography impact virus diversity in New Zealand’s longfin and shortfin eels}, volume={169}, ISSN={1432-8798}, url={http://dx.doi.org/10.1007/s00705-024-06019-1}, DOI={10.1007/s00705-024-06019-1}, number={4}, journal={Archives of Virology}, publisher={Springer Science and Business Media LLC}, author={Waller, Stephanie J. and Egan, Eimear and Crow, Shannan and Charsley, Anthony and Lokman, P. Mark and Williams, Erica K. and Holmes, Edward C. and Geoghegan, Jemma L.}, year={2024}, month=mar }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "fish"
   ],
-  "package_managers": null,
-  "title": "Host and geography impact virus diversity in New Zealand’s longfin and shortfin eels",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

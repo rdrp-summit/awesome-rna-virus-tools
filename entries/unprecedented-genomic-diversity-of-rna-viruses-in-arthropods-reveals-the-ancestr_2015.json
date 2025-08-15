@@ -1,6 +1,6 @@
 {
   "name": "unprecedented-genomic-diversity-of-rna-viruses-in-arthropods-reveals-the-ancestr_2015",
-  "type": "paper",
+  "title": "Unprecedented genomic diversity of RNA viruses in arthropods reveals the ancestry of negative-sense RNA viruses",
   "url": "https://doi.org/10.7554/eLife.05378",
   "doi": "10.7554/eLife.05378",
   "bibtex": "@article{Li_2015, title={Unprecedented genomic diversity of RNA viruses in arthropods reveals the ancestry of negative-sense RNA viruses}, volume={4}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/eLife.05378}, DOI={10.7554/elife.05378}, journal={eLife}, publisher={eLife Sciences Publications, Ltd}, author={Li, Ci-Xiu and Shi, Mang and Tian, Jun-Hua and Lin, Xian-Dan and Kang, Yan-Jun and Chen, Liang-Jun and Qin, Xin-Cheng and Xu, Jianguo and Holmes, Edward C and Zhang, Yong-Zhen}, year={2015}, month=jan }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "-ssRNA",
-    "arthropods"
-  ],
   "package_managers": null,
-  "title": "Unprecedented genomic diversity of RNA viruses in arthropods reveals the ancestry of negative-sense RNA viruses",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "-ssRNA",
+    "Arthropods"
+  ],
+  "type": "paper",
   "interface": null
 }

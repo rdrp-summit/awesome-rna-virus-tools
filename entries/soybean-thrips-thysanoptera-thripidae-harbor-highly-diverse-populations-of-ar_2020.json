@@ -1,6 +1,6 @@
 {
   "name": "soybean-thrips-thysanoptera-thripidae-harbor-highly-diverse-populations-of-ar_2020",
-  "type": "paper",
+  "title": "Soybean Thrips (Thysanoptera: Thripidae) Harbor Highly Diverse Populations of Arthropod, Fungal and Plant Viruses",
   "url": "https://doi.org/10.3390/v12121376",
   "doi": "10.3390/v12121376",
   "bibtex": "@article{Thekke_Veetil_2020, title={Soybean Thrips (Thysanoptera: Thripidae) Harbor Highly Diverse Populations of Arthropod, Fungal and Plant Viruses}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12121376}, DOI={10.3390/v12121376}, number={12}, journal={Viruses}, publisher={MDPI AG}, author={Thekke-Veetil, Thanuja and Lagos-Kutz, Doris and McCoppin, Nancy K. and Hartman, Glen L. and Ju, Hye-Kyoung and Lim, Hyoun-Sub and Domier, Leslie. L.}, year={2020}, month=dec, pages={1376} }",
@@ -9,10 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": ["plants"],
   "package_managers": null,
-  "title": "Soybean Thrips (Thysanoptera: Thripidae) Harbor Highly Diverse Populations of Arthropod, Fungal and Plant Viruses",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "plants"
+  ],
+  "type": "paper",
   "interface": null
 }

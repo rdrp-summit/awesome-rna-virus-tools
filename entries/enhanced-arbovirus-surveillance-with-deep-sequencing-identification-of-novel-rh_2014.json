@@ -1,6 +1,6 @@
 {
   "name": "enhanced-arbovirus-surveillance-with-deep-sequencing-identification-of-novel-rh_2014",
-  "type": "paper",
+  "title": "Enhanced arbovirus surveillance with deep sequencing: Identification of novel rhabdoviruses and bunyaviruses in Australian mosquitoes",
   "url": "https://doi.org/10.1016/j.virol.2013.09.026",
   "doi": "10.1016/j.virol.2013.09.026",
   "bibtex": "@article{Coffey_2014, title={Enhanced arbovirus surveillance with deep sequencing: Identification of novel rhabdoviruses and bunyaviruses in Australian mosquitoes}, volume={448}, ISSN={0042-6822}, url={http://dx.doi.org/10.1016/j.virol.2013.09.026}, DOI={10.1016/j.virol.2013.09.026}, journal={Virology}, publisher={Elsevier BV}, author={Coffey, Lark L. and Page, Brady L. and Greninger, Alexander L. and Herring, Belinda L. and Russell, Richard C. and Doggett, Stephen L. and Haniotis, John and Wang, Chunlin and Deng, Xutao and Delwart, Eric L.}, year={2014}, month=jan, pages={146–158} }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "surveillance",
-    "mosquito"
-  ],
   "package_managers": null,
-  "title": "Enhanced arbovirus surveillance with deep sequencing: Identification of novel rhabdoviruses and bunyaviruses in Australian mosquitoes",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "surveillance",
+    "Mosquito"
+  ],
+  "type": "paper",
   "interface": null
 }

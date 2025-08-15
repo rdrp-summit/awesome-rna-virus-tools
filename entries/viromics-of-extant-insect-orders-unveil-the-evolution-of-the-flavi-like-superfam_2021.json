@@ -1,20 +1,20 @@
 {
   "name": "viromics-of-extant-insect-orders-unveil-the-evolution-of-the-flavi-like-superfam_2021",
-  "type": "paper",
+  "title": "Viromics of extant insect orders unveil the evolution of the flavi-like superfamily",
   "url": "https://doi.org/10.1093/ve/veab030",
   "doi": "10.1093/ve/veab030",
   "bibtex": "@article{Paraskevopoulou_2021, title={Viromics of extant insect orders unveil the evolution of the flavi-like superfamily}, volume={7}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veab030}, DOI={10.1093/ve/veab030}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Paraskevopoulou, Sofia and Käfer, Simon and Zirkel, Florian and Donath, Alexander and Petersen, Malte and Liu, Shanlin and Zhou, Xin and Drosten, Christian and Misof, Bernhard and Junglen, Sandra}, year={2021}, month=jan }",
-  "description": "   Insects are the most diversified and species-rich group of animals and harbor an immense diversity of viruses. Several taxa in the flavi-like superfamily, such as the genus Flavivirus, are associated with insects; however, systematic studies on insect virus genetic diversity are lacking, limiting our understanding of the evolution of the flavi-like superfamily. Here, we examined the diversity of flavi-like viruses within the most complete and up-to-date insect transcriptome collection comprising 1,243 insect species by employing a Flaviviridae RdRp profile hidden Markov model search. We identified seventy-six viral sequences in sixty-one species belonging to seventeen insect, one entognathan, and one arachnidan orders. Phylogenetic analyses revealed that twenty-seven sequences fell within the Flaviviridae phylogeny but did not group with established genera. Despite the large diversity of insect hosts studied, we only detected one virus in a blood-feeding insect, which branched within the genus Flavivirus, indicating that this genus likely diversified only in hematophagous arthropods. Nine new jingmenviruses with novel host associations were identified. One of the jingmenviruses established a deep rooting lineage additional to the insect- and tick-associated clades. Segment co-segregation phylogenies support the separation of tick- and insect-associated groups within jingmenviruses, with evidence for segment reassortment. In addition, fourteen viruses grouped with unclassified flaviviruses encompassing genome length of up to 20 kb. Species-specific clades for Hymenopteran- and Orthopteran-associated viruses were identified. Forty-nine viruses populated three highly diversified clades in distant relationship to Tombusviridae, a plant-infecting virus family, suggesting the detection of three previously unknown insect-associated families that contributed to tombusvirus evolution",
+  "description": "Insects are the most diversified and species-rich group of animals and harbor an immense diversity of viruses. Several taxa in the flavi-like superfamily, such as the genus Flavivirus, are associated with insects; however, systematic studies on insect virus genetic diversity are lacking, limiting our understanding of the evolution of the flavi-like superfamily. Here, we examined the diversity of flavi-like viruses within the most complete and up-to-date insect transcriptome collection comprising 1,243 insect species by employing a Flaviviridae RdRp profile hidden Markov model search. We identified seventy-six viral sequences in sixty-one species belonging to seventeen insect, one entognathan, and one arachnidan orders. Phylogenetic analyses revealed that twenty-seven sequences fell within the Flaviviridae phylogeny but did not group with established genera. Despite the large diversity of insect hosts studied, we only detected one virus in a blood-feeding insect, which branched within the genus Flavivirus, indicating that this genus likely diversified only in hematophagous arthropods. Nine new jingmenviruses with novel host associations were identified. One of the jingmenviruses established a deep rooting lineage additional to the insect- and tick-associated clades. Segment co-segregation phylogenies support the separation of tick- and insect-associated groups within jingmenviruses, with evidence for segment reassortment. In addition, fourteen viruses grouped with unclassified flaviviruses encompassing genome length of up to 20 kb. Species-specific clades for Hymenopteran- and Orthopteran-associated viruses were identified. Forty-nine viruses populated three highly diversified clades in distant relationship to Tombusviridae, a plant-infecting virus family, suggesting the detection of three previously unknown insect-associated families that contributed to tombusvirus evolution",
   "date": "2021-01-20",
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "insects"
-  ],
   "package_managers": null,
-  "title": "Viromics of extant insect orders unveil the evolution of the flavi-like superfamily",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Insects"
+  ],
+  "type": "paper",
   "interface": null
 }

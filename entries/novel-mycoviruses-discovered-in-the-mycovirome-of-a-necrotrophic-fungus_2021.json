@@ -1,6 +1,6 @@
 {
   "name": "novel-mycoviruses-discovered-in-the-mycovirome-of-a-necrotrophic-fungus_2021",
-  "type": "paper",
+  "title": "Novel Mycoviruses Discovered in the Mycovirome of a Necrotrophic Fungus",
   "url": "https://doi.org/10.1128/mbio.03705-20",
   "doi": "10.1128/mbio.03705-20",
   "bibtex": "@article{Ruiz_Padilla_2021, title={Novel Mycoviruses Discovered in the Mycovirome of a Necrotrophic Fungus}, volume={12}, ISSN={2150-7511}, url={http://dx.doi.org/10.1128/mbio.03705-20}, DOI={10.1128/mbio.03705-20}, number={3}, journal={mBio}, publisher={American Society for Microbiology}, author={Ruiz-Padilla, Ana and Rodríguez-Romero, Julio and Gómez-Cid, Irene and Pacifico, Davide and Ayllón, María A.}, editor={Wickner, Reed B.}, year={2021}, month=jun }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "fungi"
   ],
-  "package_managers": null,
-  "title": "Novel Mycoviruses Discovered in the Mycovirome of a Necrotrophic Fungus",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

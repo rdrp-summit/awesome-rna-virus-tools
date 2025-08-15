@@ -1,6 +1,6 @@
 {
   "name": "viral-discovery-in-the-invasive-australian-cane-toad-rhinella-marina-using-met_2018",
-  "type": "paper",
+  "title": "Viral Discovery in the Invasive Australian Cane Toad (Rhinella marina) Using Metatranscriptomic and Genomic Approaches",
   "url": "https://doi.org/10.1128/JVI.00768-18",
   "doi": "10.1128/JVI.00768-18",
   "bibtex": "@article{Russo_2018, title={Viral Discovery in the Invasive Australian Cane Toad (Rhinella marina) Using Metatranscriptomic and Genomic Approaches}, volume={92}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.00768-18}, DOI={10.1128/jvi.00768-18}, number={17}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Russo, Alice G. and Eden, John-Sebastian and Enosi Tuipulotu, Daniel and Shi, Mang and Selechnik, Daniel and Shine, Richard and Rollins, Lee Ann and Holmes, Edward C. and White, Peter A.}, editor={Pfeiffer, Julie K.}, year={2018}, month=sep }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "Amphibians"
   ],
-  "package_managers": null,
-  "title": "Viral Discovery in the Invasive Australian Cane Toad (Rhinella marina) Using Metatranscriptomic and Genomic Approaches",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

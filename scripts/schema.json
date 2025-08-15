@@ -90,6 +90,7 @@
           "singularity",
           "github",
           "source",
+          "appimage",
           "null"
         ]
       },

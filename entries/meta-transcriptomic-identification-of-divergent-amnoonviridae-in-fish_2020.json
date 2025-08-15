@@ -1,6 +1,6 @@
 {
   "name": "meta-transcriptomic-identification-of-divergent-amnoonviridae-in-fish_2020",
-  "type": "paper",
+  "title": "Meta-Transcriptomic Identification of Divergent Amnoonviridae in Fish",
   "url": "https://doi.org/10.3390/v12111254",
   "doi": "10.3390/v12111254",
   "bibtex": "@article{Turnbull_2020, title={Meta-Transcriptomic Identification of Divergent Amnoonviridae in Fish}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12111254}, DOI={10.3390/v12111254}, number={11}, journal={Viruses}, publisher={MDPI AG}, author={Turnbull, Olivia M. H. and Ortiz-Baez, Ayda Susana and Eden, John-Sebastian and Shi, Mang and Williamson, Jane E. and Gaston, Troy F. and Zhang, Yong-Zhen and Holmes, Edward C. and Geoghegan, Jemma L.}, year={2020}, month=nov, pages={1254} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "fish"
   ],
-  "package_managers": null,
-  "title": "Meta-Transcriptomic Identification of Divergent Amnoonviridae in Fish",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

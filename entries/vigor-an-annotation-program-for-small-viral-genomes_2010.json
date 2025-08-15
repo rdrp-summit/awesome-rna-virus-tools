@@ -1,6 +1,6 @@
 {
   "name": "vigor-an-annotation-program-for-small-viral-genomes_2010",
-  "type": "tool",
+  "title": "VIGOR, an annotation program for small viral genomes",
   "url": "https://github.com/JCVI-VIRIFX/VIGOR4",
   "doi": "10.1186/1471-2105-11-451",
   "bibtex": "@article{Wang_2010, title={VIGOR, an annotation program for small viral genomes}, volume={11}, ISSN={1471-2105}, url={http://dx.doi.org/10.1186/1471-2105-11-451}, DOI={10.1186/1471-2105-11-451}, number={1}, journal={BMC Bioinformatics}, publisher={Springer Science and Business Media LLC}, author={Wang, Shiliang and Sundaram, Jaideep P and Spiro, David}, year={2010}, month=sep }",
@@ -9,17 +9,17 @@
   "version": "4.1.20200702",
   "license": "GPL-3.0",
   "language": "Perl",
+  "package_managers": [
+    "bioconda"
+  ],
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "genome-annotation",
     "orf-prediction",
     "viral-genomes",
     "rna-viruses"
   ],
-  "package_managers": [
-    "bioconda"
-  ],
-  "title": "VIGOR, an annotation program for small viral genomes",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "tool",
   "interface": null
 }

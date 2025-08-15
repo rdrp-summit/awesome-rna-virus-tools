@@ -1,6 +1,6 @@
 {
   "name": "hidden-diversity-and-evolution-of-viruses-in-market-fish_2018",
-  "type": "paper",
+  "title": "Hidden diversity and evolution of viruses in market fish",
   "url": "https://doi.org/10.1093/ve/vey031",
   "doi": "10.1093/ve/vey031",
   "bibtex": "@article{Geoghegan_2018, title={Hidden diversity and evolution of viruses in market fish}, volume={4}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/vey031}, DOI={10.1093/ve/vey031}, number={2}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Geoghegan, Jemma L and Di Giallonardo, Francesca and Cousins, Kate and Shi, Mang and Williamson, Jane E and Holmes, Edward C}, year={2018}, month=jul }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "marine",
     "fish"
   ],
-  "package_managers": null,
-  "title": "Hidden diversity and evolution of viruses in market fish",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

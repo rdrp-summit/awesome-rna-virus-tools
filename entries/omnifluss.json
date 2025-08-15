@@ -1,7 +1,6 @@
 {
   "name": "Omnifluss",
-  "type": "tool",
-  "interface": ["Nextflow", "CLI"],
+  "title": null,
   "url": "https://github.com/rki-mf1/omnifluss",
   "doi": "",
   "bibtex": "",
@@ -10,8 +9,26 @@
   "version": "0.1.0",
   "license": "MIT",
   "language": "Nextflow",
-  "topics": ["genome reconstruction", "influenza", "rna-viruses", "workflow", "genomic surveillance", "NGS"],
-  "package_managers": ["conda", "singularity", "docker"],
-  "input_formats": ["FASTQ"],
-  "platforms": ["linux"]
+  "package_managers": [
+    "conda",
+    "singularity",
+    "docker"
+  ],
+  "input_formats": [
+    "FASTQ"
+  ],
+  "output_formats": null,
+  "topics": [
+    "genome reconstruction",
+    "influenza",
+    "rna-viruses",
+    "workflow",
+    "genomic surveillance",
+    "NGS"
+  ],
+  "type": "tool",
+  "interface": [
+    "Nextflow",
+    "CLI"
+  ]
 }

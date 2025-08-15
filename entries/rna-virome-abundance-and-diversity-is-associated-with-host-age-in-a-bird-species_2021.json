@@ -1,6 +1,6 @@
 {
   "name": "rna-virome-abundance-and-diversity-is-associated-with-host-age-in-a-bird-species_2021",
-  "type": "paper",
+  "title": "RNA virome abundance and diversity is associated with host age in a bird species",
   "url": "https://doi.org/10.1016/j.virol.2021.06.007",
   "doi": "10.1016/j.virol.2021.06.007",
   "bibtex": "@article{Wille_2021, title={RNA virome abundance and diversity is associated with host age in a bird species}, volume={561}, ISSN={0042-6822}, url={http://dx.doi.org/10.1016/j.virol.2021.06.007}, DOI={10.1016/j.virol.2021.06.007}, journal={Virology}, publisher={Elsevier BV}, author={Wille, Michelle and Shi, Mang and Hurt, Aeron C. and Klaassen, Marcel and Holmes, Edward C.}, year={2021}, month=sep, pages={98–106} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "avian"
-  ],
   "package_managers": null,
-  "title": "RNA virome abundance and diversity is associated with host age in a bird species",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Aves"
+  ],
+  "type": "paper",
   "interface": null
 }

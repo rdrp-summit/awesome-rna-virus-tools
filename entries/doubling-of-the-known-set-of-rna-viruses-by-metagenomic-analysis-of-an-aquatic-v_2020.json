@@ -1,6 +1,6 @@
 {
   "name": "doubling-of-the-known-set-of-rna-viruses-by-metagenomic-analysis-of-an-aquatic-v_2020",
-  "type": "paper",
+  "title": "Doubling of the known set of RNA viruses by metagenomic analysis of an aquatic virome",
   "url": "https://doi.org/10.1038/s41564-020-0755-4",
   "doi": "10.1038/s41564-020-0755-4",
   "bibtex": "@article{Wolf_2020, title={Doubling of the known set of RNA viruses by metagenomic analysis of an aquatic virome}, volume={5}, ISSN={2058-5276}, url={http://dx.doi.org/10.1038/s41564-020-0755-4}, DOI={10.1038/s41564-020-0755-4}, number={10}, journal={Nature Microbiology}, publisher={Springer Science and Business Media LLC}, author={Wolf, Yuri I. and Silas, Sukrit and Wang, Yongjie and Wu, Shuang and Bocek, Michael and Kazlauskas, Darius and Krupovic, Mart and Fire, Andrew and Dolja, Valerian V. and Koonin, Eugene V.}, year={2020}, month=jul, pages={1262–1270} }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "marine",
     "phylogeny"
   ],
-  "package_managers": null,
-  "title": "Doubling of the known set of RNA viruses by metagenomic analysis of an aquatic virome",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

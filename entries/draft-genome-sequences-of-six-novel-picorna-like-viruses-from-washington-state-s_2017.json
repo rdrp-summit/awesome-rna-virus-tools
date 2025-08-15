@@ -1,6 +1,6 @@
 {
   "name": "draft-genome-sequences-of-six-novel-picorna-like-viruses-from-washington-state-s_2017",
-  "type": "paper",
+  "title": "Draft Genome Sequences of Six Novel Picorna-Like Viruses from Washington State Spiders",
   "url": "https://doi.org/10.1128/genomeA.01705-16",
   "doi": "10.1128/genomeA.01705-16",
   "bibtex": "@article{Shean_2017, title={Draft Genome Sequences of Six Novel Picorna-Like Viruses from Washington State Spiders}, volume={5}, ISSN={2169-8287}, url={http://dx.doi.org/10.1128/genomeA.01705-16}, DOI={10.1128/genomea.01705-16}, number={9}, journal={Genome Announcements}, publisher={American Society for Microbiology}, author={Shean, Ryan C. and Makhsous, Negar and Crawford, Rodney L. and Jerome, Keith R. and Greninger, Alexander L.}, year={2017}, month=mar }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "insects"
-  ],
   "package_managers": null,
-  "title": "Draft Genome Sequences of Six Novel Picorna-Like Viruses from Washington State Spiders",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Insects"
+  ],
+  "type": "paper",
   "interface": null
 }

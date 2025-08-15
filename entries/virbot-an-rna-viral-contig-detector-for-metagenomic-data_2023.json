@@ -1,6 +1,6 @@
 {
   "name": "virbot-an-rna-viral-contig-detector-for-metagenomic-data_2023",
-  "type": "tool",
+  "title": "VirBot: an RNA viral contig detector for metagenomic data",
   "url": "https://github.com/GreyGuoweiChen/VirBot",
   "doi": "10.1093/bioinformatics/btad093",
   "bibtex": "@article{Chen_2023, title={VirBot: an RNA viral contig detector for metagenomic data}, volume={39}, ISSN={1367-4811}, url={http://dx.doi.org/10.1093/bioinformatics/btad093}, DOI={10.1093/bioinformatics/btad093}, number={3}, journal={Bioinformatics}, publisher={Oxford University Press (OUP)}, author={Chen, Guowei and Tang, Xubo and Shi, Mang and Sun, Yanni}, editor={Robinson, Peter}, year={2023}, month=feb }",
@@ -9,19 +9,19 @@
   "version": null,
   "license": "MIT",
   "language": "python",
-  "topics": [
-    "tool"
-  ],
   "package_managers": [
     "conda"
   ],
-  "title": "VirBot: an RNA viral contig detector for metagenomic data",
   "input_formats": [
     "FASTA"
   ],
   "output_formats": [
     "TSV"
   ],
+  "topics": [
+    "Metagenomic input"
+  ],
+  "type": "tool",
   "interface": [
     "CLI"
   ]

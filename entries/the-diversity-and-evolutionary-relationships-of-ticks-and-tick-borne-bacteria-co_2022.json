@@ -1,20 +1,20 @@
 {
   "name": "the-diversity-and-evolutionary-relationships-of-ticks-and-tick-borne-bacteria-co_2022",
-  "type": "paper",
+  "title": "The diversity and evolutionary relationships of ticks and tick-borne bacteria collected in China",
   "url": "https://doi.org/10.1186/s13071-022-05485-3",
   "doi": "10.1186/s13071-022-05485-3",
   "bibtex": "@article{Tian_2022, title={The diversity and evolutionary relationships of ticks and tick-borne bacteria collected in China}, volume={15}, ISSN={1756-3305}, url={http://dx.doi.org/10.1186/s13071-022-05485-3}, DOI={10.1186/s13071-022-05485-3}, number={1}, journal={Parasites &amp; Vectors}, publisher={Springer Science and Business Media LLC}, author={Tian, JunHua and Hou, Xin and Ge, MiHong and Xu, HongBin and Yu, Bin and Liu, Jing and Shao, RenFu and Holmes, Edward C. and Lei, ChaoLiang and Shi, Mang}, year={2022}, month=oct }",
-  "description": "         Ticks (order Ixodida) are ectoparasites, vectors and reservoirs of many infectious agents affecting humans and domestic animals. However, the lack of information on tick genomic diversity leaves significant gaps in the understanding of the evolution of ticks and associated bacteria            We collected &gt; 20,000 contemporary and historical (up to 60 years of preservation) tick samples representing a wide range of tick biodiversity across diverse geographic regions in China. Metagenomic sequencing was performed on individual ticks to obtain the complete or near-complete mitochondrial (mt) genome sequences from 46 tick species, among which mitochondrial genomes of 23 species were recovered for the first time. These new mt genomes data greatly expanded the diversity of many tick groups and revealed five cryptic species. Utilizing the same metagenomic sequence data we identified divergent and abundant bacteria in Haemaphysalis, Ixodes, Dermacentor and Carios ticks, including nine species of pathogenetic bacteria and potentially new species within the genus Borrelia. We also used these data to explore the evolutionary relationship between ticks and their associated bacteria, revealing a pattern of long-term co-divergence relationship between ticks and Rickettsia and Coxiella bacteria        <jats:title>Conclusions</jats:title>    In sum, our study provides important new information on the genetic diversity of ticks based on an analysis of mitochondrial DNA as well as on the prevalence of tick-borne pathogens in China. It also sheds new light on the long-term evolutionary and ecological relationships between ticks and their associated bacteria        <jats:title>Graphical Abstract</jats:title>       ",
+  "description": "Ticks (order Ixodida) are ectoparasites, vectors and reservoirs of many infectious agents affecting humans and domestic animals. However, the lack of information on tick genomic diversity leaves significant gaps in the understanding of the evolution of ticks and associated bacteria            We collected > 20,000 contemporary and historical (up to 60 years of preservation) tick samples representing a wide range of tick biodiversity across diverse geographic regions in China. Metagenomic sequencing was performed on individual ticks to obtain the complete or near-complete mitochondrial (mt) genome sequences from 46 tick species, among which mitochondrial genomes of 23 species were recovered for the first time. These new mt genomes data greatly expanded the diversity of many tick groups and revealed five cryptic species. Utilizing the same metagenomic sequence data we identified divergent and abundant bacteria in Haemaphysalis, Ixodes, Dermacentor and Carios ticks, including nine species of pathogenetic bacteria and potentially new species within the genus Borrelia. We also used these data to explore the evolutionary relationship between ticks and their associated bacteria, revealing a pattern of long-term co-divergence relationship between ticks and Rickettsia and Coxiella bacteria        Conclusions    In sum, our study provides important new information on the genetic diversity of ticks based on an analysis of mitochondrial DNA as well as on the prevalence of tick-borne pathogens in China. It also sheds new light on the long-term evolutionary and ecological relationships between ticks and their associated bacteria        Graphical Abstract",
   "date": "2022-10-01",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "insect"
   ],
-  "package_managers": null,
-  "title": "The diversity and evolutionary relationships of ticks and tick-borne bacteria collected in China",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

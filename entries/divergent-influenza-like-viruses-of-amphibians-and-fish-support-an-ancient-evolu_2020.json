@@ -1,6 +1,6 @@
 {
   "name": "divergent-influenza-like-viruses-of-amphibians-and-fish-support-an-ancient-evolu_2020",
-  "type": "paper",
+  "title": "Divergent Influenza-Like Viruses of Amphibians and Fish Support an Ancient Evolutionary Association",
   "url": "https://doi.org/10.3390/v12091042",
   "doi": "10.3390/v12091042",
   "bibtex": "@article{Parry_2020, title={Divergent Influenza-Like Viruses of Amphibians and Fish Support an Ancient Evolutionary Association}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12091042}, DOI={10.3390/v12091042}, number={9}, journal={Viruses}, publisher={MDPI AG}, author={Parry, Rhys and Wille, Michelle and Turnbull, Olivia and Geoghegan, Jemma and Holmes, Edward}, year={2020}, month=sep, pages={1042} }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "Amphibians",
     "fish"
   ],
-  "package_managers": null,
-  "title": "Divergent Influenza-Like Viruses of Amphibians and Fish Support an Ancient Evolutionary Association",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

@@ -1,20 +1,20 @@
 {
   "name": "revealing-rna-virus-diversity-and-evolution-in-unicellular-algae-transcriptomes_2021",
-  "type": "paper",
+  "title": "Revealing RNA virus diversity and evolution in unicellular algae transcriptomes",
   "url": "https://doi.org/10.1093/ve/veab070",
   "doi": "10.1093/ve/veab070",
   "bibtex": "@article{Charon_2021, title={Revealing RNA virus diversity and evolution in unicellular algae transcriptomes}, volume={7}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veab070}, DOI={10.1093/ve/veab070}, number={2}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Charon, Justine and Murray, Shauna and Holmes, Edward C}, year={2021}, month=aug }",
-  "description": "   Remarkably little is known about the diversity and evolution of RNA viruses in unicellular eukaryotes. We screened a total of 570 transcriptomes from the Marine Microbial Eukaryote Transcriptome Sequencing Project that encompasses a wide diversity of microbial eukaryotes, including most major photosynthetic lineages (i.e. the microalgae). From this, we identified thirty new and divergent RNA virus species, occupying a range of phylogenetic positions within the overall diversity of RNA viruses. Approximately one-third of the newly described viruses comprised single-stranded positive-sense RNA viruses from the order Lenarviricota associated with fungi, plants, and protists, while another third were related to the order Ghabrivirales, including members of the protist and fungi-associated Totiviridae. Other viral species showed sequence similarity to positive-sense RNA viruses from the algae-associated Marnaviridae, the double-stranded RNA (ds-RNA) Partitiviridae, as well as tentative evidence for one negative-sense RNA virus related to the Qinviridae. Importantly, we were able to identify divergent RNA viruses from distant host taxa, revealing the ancestry of these viral families and greatly extending our knowledge of the RNA viromes of microalgal cultures. Both the limited number of viruses detected per sample and the low sequence identity to known RNA viruses imply that additional microalgal viruses exist that could not be detected at the current sequencing depth or were too divergent to be identified using sequence similarity. Together, these results highlight the need for further investigation of algal-associated RNA viruses as well as the development of new tools to identify RNA viruses that exhibit very high levels of sequence divergence",
+  "description": "Remarkably little is known about the diversity and evolution of RNA viruses in unicellular eukaryotes. We screened a total of 570 transcriptomes from the Marine Microbial Eukaryote Transcriptome Sequencing Project that encompasses a wide diversity of microbial eukaryotes, including most major photosynthetic lineages (i.e. the microalgae). From this, we identified thirty new and divergent RNA virus species, occupying a range of phylogenetic positions within the overall diversity of RNA viruses. Approximately one-third of the newly described viruses comprised single-stranded positive-sense RNA viruses from the order Lenarviricota associated with fungi, plants, and protists, while another third were related to the order Ghabrivirales, including members of the protist and fungi-associated Totiviridae. Other viral species showed sequence similarity to positive-sense RNA viruses from the algae-associated Marnaviridae, the double-stranded RNA (ds-RNA) Partitiviridae, as well as tentative evidence for one negative-sense RNA virus related to the Qinviridae. Importantly, we were able to identify divergent RNA viruses from distant host taxa, revealing the ancestry of these viral families and greatly extending our knowledge of the RNA viromes of microalgal cultures. Both the limited number of viruses detected per sample and the low sequence identity to known RNA viruses imply that additional microalgal viruses exist that could not be detected at the current sequencing depth or were too divergent to be identified using sequence similarity. Together, these results highlight the need for further investigation of algal-associated RNA viruses as well as the development of new tools to identify RNA viruses that exhibit very high levels of sequence divergence",
   "date": "2021-12-16",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "algae"
   ],
-  "package_managers": null,
-  "title": "Revealing RNA virus diversity and evolution in unicellular algae transcriptomes",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

@@ -1,6 +1,6 @@
 {
   "name": "virify-an-integrated-detection-annotation-and-taxonomic-classification-pipelin_2023",
-  "type": "tool",
+  "title": "VIRify: An integrated detection, annotation and taxonomic classification pipeline using virus-specific protein profile hidden Markov models",
   "url": "https://github.com/EBI-Metagenomics/emg-viral-pipeline",
   "doi": "10.1371/journal.pcbi.1011422",
   "bibtex": "@article{Rangel_Pineros_2023, title={VIRify: An integrated detection, annotation and taxonomic classification pipeline using virus-specific protein profile hidden Markov models}, volume={19}, ISSN={1553-7358}, url={http://dx.doi.org/10.1371/journal.pcbi.1011422}, DOI={10.1371/journal.pcbi.1011422}, number={8}, journal={PLOS Computational Biology}, publisher={Public Library of Science (PLoS)}, author={Rangel-Pineros, Guillermo and Almeida, Alexandre and Beracochea, Martin and Sakharova, Ekaterina and Marz, Manja and Reyes Muñoz, Alejandro and Hölzer, Martin and Finn, Robert D.}, editor={Ouzounis, Christos A.}, year={2023}, month=aug, pages={e1011422} }",
@@ -9,15 +9,9 @@
   "version": null,
   "license": "GPL-3.0",
   "language": "English",
-  "topics": [
-    "tool",
-    "annotation",
-    "taxonomy"
-  ],
   "package_managers": [
     "bioconda"
   ],
-  "title": "VIRify: An integrated detection, annotation and taxonomic classification pipeline using virus-specific protein profile hidden Markov models",
   "input_formats": [
     "FASTA"
   ],
@@ -26,6 +20,11 @@
     "TSV",
     "CSV"
   ],
+  "topics": [
+    "annotation",
+    "taxonomy"
+  ],
+  "type": "tool",
   "interface": [
     "Nextflow"
   ]

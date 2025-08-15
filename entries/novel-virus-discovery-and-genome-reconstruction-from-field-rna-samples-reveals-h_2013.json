@@ -1,20 +1,20 @@
 {
   "name": "novel-virus-discovery-and-genome-reconstruction-from-field-rna-samples-reveals-h_2013",
-  "type": "paper",
+  "title": "Novel virus discovery and genome reconstruction from field RNA samples reveals highly divergent viruses in dipteran hosts",
   "url": "https://doi.org/10.1371/journal.pone.0080720",
   "doi": "10.1371/journal.pone.0080720",
   "bibtex": "@article{Cook_2013, title={Novel Virus Discovery and Genome Reconstruction from Field RNA Samples Reveals Highly Divergent Viruses in Dipteran Hosts}, volume={8}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0080720}, DOI={10.1371/journal.pone.0080720}, number={11}, journal={PLoS ONE}, publisher={Public Library of Science (PLoS)}, author={Cook, Shelley and Chung, Betty Y.-W. and Bass, David and Moureau, Gregory and Tang, Shuoya and McAlister, Erica and Culverwell, C. Lorna and Glücksman, Edvard and Wang, Hui and Brown, T. David K. and Gould, Ernest A. and Harbach, Ralph E. and de Lamballerie, Xavier and Firth, Andrew E.}, editor={Attoui, Houssam}, year={2013}, month=nov, pages={e80720} }",
-  "description": "Novel Virus Discovery and Genome Reconstruction from Field RNA Samples Reveals Highly Divergent Viruses in Dipteran Hosts",
+  "description": "We investigated whether small RNA (sRNA) sequenced from field-collected mosquitoes and chironomids (Diptera) can be used as a proxy signature of viral prevalence within a range of species and viral groups, using sRNAs sequenced from wild-caught specimens, to inform total RNA deep sequencing of samples of particular interest. Using this strategy, we sequenced from adult Anopheles maculipennis s.l. mosquitoes the apparently nearly complete genome of one previously undescribed virus related to chronic bee paralysis virus, and, from a pool of Ochlerotatus caspius and Oc. detritus mosquitoes, a nearly complete entomobirnavirus genome. We also reconstructed long sequences (1503-6557 nt) related to at least nine other viruses. Crucially, several of the sequences detected were reconstructed from host organisms highly divergent from those in which related viruses have been previously isolated or discovered. It is clear that viral transmission and maintenance cycles in nature are likely to be significantly more complex and taxonomically diverse than previously expected.",
   "date": "2013-11-18",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "diptera"
   ],
-  "package_managers": null,
-  "title": "Novel virus discovery and genome reconstruction from field RNA samples reveals highly divergent viruses in dipteran hosts",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

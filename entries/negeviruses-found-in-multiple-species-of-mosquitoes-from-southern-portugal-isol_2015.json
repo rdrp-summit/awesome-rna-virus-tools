@@ -1,6 +1,6 @@
 {
   "name": "negeviruses-found-in-multiple-species-of-mosquitoes-from-southern-portugal-isol_2015",
-  "type": "paper",
+  "title": "Negeviruses found in multiple species of mosquitoes from southern Portugal: Isolation, genetic diversity, and replication in insect cell cultur",
   "url": "https://doi.org/10.1016/j.virol.2015.04.021",
   "doi": "10.1016/j.virol.2015.04.021",
   "bibtex": "@article{Carapeta_2015, title={Negeviruses found in multiple species of mosquitoes from southern Portugal: Isolation, genetic diversity, and replication in insect cell culture}, volume={483}, ISSN={0042-6822}, url={http://dx.doi.org/10.1016/j.virol.2015.04.021}, DOI={10.1016/j.virol.2015.04.021}, journal={Virology}, publisher={Elsevier BV}, author={Carapeta, Sara and do Bem, Beatriz and McGuinness, James and Esteves, Aida and Abecasis, Ana and Lopes, Ângela and de Matos, António P. and Piedade, João and de Almeida, António P.G. and Parreira, Ricardo}, year={2015}, month=sep, pages={318–328} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "mosquitoes"
   ],
-  "package_managers": null,
-  "title": "Negeviruses found in multiple species of mosquitoes from southern Portugal: Isolation, genetic diversity, and replication in insect cell cultur",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

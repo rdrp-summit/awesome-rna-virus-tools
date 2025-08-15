@@ -1,6 +1,6 @@
 {
   "name": "virid-beyond-virus-discovery-an-integrated-platform-for-comprehensive-rna-vir_2024",
-  "type": "tool",
+  "title": "VirID: Beyond Virus Discovery - An Integrated Platform for Comprehensive RNA Virus Characterization",
   "url": "https://github.com/ZiyueYang01/VirID",
   "doi": "10.1093/molbev/msae202",
   "bibtex": "@article{Yang_2024, title={VirID: Beyond Virus Discovery—An Integrated Platform for Comprehensive RNA Virus Characterization}, volume={41}, ISSN={1537-1719}, url={http://dx.doi.org/10.1093/molbev/msae202}, DOI={10.1093/molbev/msae202}, number={10}, journal={Molecular Biology and Evolution}, publisher={Oxford University Press (OUP)}, author={Yang, Ziyue and Shan, Yongtao and Liu, Xue and Chen, Guowei and Pan, Yuanfei and Gou, Qinyu and Zou, Jie and Chang, Zilong and Zeng, Qiang and Yang, Chunhui and Kong, Jianbin and Sun, Yanni and Li, Shaochuan and Zhang, Xu and Wu, Wei-chen and Li, Chunmei and Peng, Hong and Holmes, Edward C and Guo, Deyin and Shi, Mang}, editor={Moratorio, Gonzalo}, year={2024}, month=sep }",
@@ -9,11 +9,9 @@
   "version": "Implicit (via dependencies)",
   "license": "MIT",
   "language": "Python, R",
-  "topics": ["tool"],
   "package_managers": [
     "bioconda"
   ],
-  "title": "VirID: Beyond Virus Discovery - An Integrated Platform for Comprehensive RNA Virus Characterization",
   "input_formats": [
     "FASTQ",
     "FASTA"
@@ -24,6 +22,10 @@
     "TXT",
     "JSON"
   ],
+  "topics": [
+    "Characterization"
+  ],
+  "type": "tool",
   "interface": [
     "CLI"
   ]

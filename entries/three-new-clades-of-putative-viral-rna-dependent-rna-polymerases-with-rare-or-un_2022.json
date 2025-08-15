@@ -1,21 +1,21 @@
 {
   "name": "three-new-clades-of-putative-viral-rna-dependent-rna-polymerases-with-rare-or-un_2022",
-  "type": "paper",
+  "title": "Three new clades of putative viral RNA-dependent RNA polymerases with rare or unique catalytic triads discovered in libraries of ORFans from powdery mildews and the yeast of oenological interest Starmerella bacillaris",
   "url": "https://doi.org/10.1093/ve/veac038",
   "doi": "10.1093/ve/veac038",
   "bibtex": "@article{Forgia_2022, title={Three new clades of putative viral RNA-dependent RNA polymerases with rare or unique catalytic triads discovered in libraries of ORFans from powdery mildews and the yeast of oenological interest Starmerella bacillaris}, volume={8}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veac038}, DOI={10.1093/ve/veac038}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Forgia, Marco and Chiapello, M and Daghino, Stefania and Pacifico, D and Crucitti, D and Oliva, D and Ayllon, M and Turina, M and Turina, M}, year={2022}, month=jan }",
-  "description": "   High throughput sequencing allowed the discovery of many new viruses and viral organizations increasing our comprehension of virus origin and evolution. Most RNA viruses are currently characterized through similarity searches of annotated virus databases. This approach limits the possibility to detect completely new virus-encoded proteins with no detectable similarities to existing ones, i.e. ORFan proteins. A strong indication of the ORFan viral origin in a metatranscriptome is the lack of DNA corresponding to an assembled RNA sequence in the biological sample. Furthermore, sequence homology among ORFans and evidence of co-occurrence of these ORFans in specific host individuals provides further indication of a viral origin. Here, we use this theoretical framework to report the finding of three conserved clades of protein-coding RNA segments without a corresponding DNA in fungi. Protein sequence and structural alignment suggest these proteins are distantly related to viral RNA-dependent RNA polymerases (RdRP). In these new putative viral RdRP clades, no GDD catalytic triad is present, but the most common putative catalytic triad is NDD and a clade with GDQ, a triad previously unreported at that site. SDD, HDD, and ADD are also represented. For most members of these three clades, we were able to associate a second genomic segment, coding for a protein of unknown function. We provisionally named this new group of viruses ormycovirus. Interestingly, all the members of one of these sub-clades (gammaormycovirus) accumulate more minus sense RNA than plus sense RNA during infection",
+  "description": "High throughput sequencing allowed the discovery of many new viruses and viral organizations increasing our comprehension of virus origin and evolution. Most RNA viruses are currently characterized through similarity searches of annotated virus databases. This approach limits the possibility to detect completely new virus-encoded proteins with no detectable similarities to existing ones, i.e. ORFan proteins. A strong indication of the ORFan viral origin in a metatranscriptome is the lack of DNA corresponding to an assembled RNA sequence in the biological sample. Furthermore, sequence homology among ORFans and evidence of co-occurrence of these ORFans in specific host individuals provides further indication of a viral origin. Here, we use this theoretical framework to report the finding of three conserved clades of protein-coding RNA segments without a corresponding DNA in fungi. Protein sequence and structural alignment suggest these proteins are distantly related to viral RNA-dependent RNA polymerases (RdRP). In these new putative viral RdRP clades, no GDD catalytic triad is present, but the most common putative catalytic triad is NDD and a clade with GDQ, a triad previously unreported at that site. SDD, HDD, and ADD are also represented. For most members of these three clades, we were able to associate a second genomic segment, coding for a protein of unknown function. We provisionally named this new group of viruses ormycovirus. Interestingly, all the members of one of these sub-clades (gammaormycovirus) accumulate more minus sense RNA than plus sense RNA during infection",
   "date": "2022-05-23",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "fungi",
     "RdRp"
   ],
-  "package_managers": null,
-  "title": "Three new clades of putative viral RNA-dependent RNA polymerases with rare or unique catalytic triads discovered in libraries of ORFans from powdery mildews and the yeast of oenological interest Starmerella bacillaris",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

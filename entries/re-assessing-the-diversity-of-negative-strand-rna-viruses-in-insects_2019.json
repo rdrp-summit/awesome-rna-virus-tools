@@ -1,6 +1,6 @@
 {
   "name": "re-assessing-the-diversity-of-negative-strand-rna-viruses-in-insects_2019",
-  "type": "paper",
+  "title": "Re-assessing the diversity of negative strand RNA viruses in insects",
   "url": "https://doi.org/10.1371/journal.ppat.1008224",
   "doi": "10.1371/journal.ppat.1008224",
   "bibtex": "@article{K_fer_2019, title={Re-assessing the diversity of negative strand RNA viruses in insects}, volume={15}, ISSN={1553-7374}, url={http://dx.doi.org/10.1371/journal.ppat.1008224}, DOI={10.1371/journal.ppat.1008224}, number={12}, journal={PLOS Pathogens}, publisher={Public Library of Science (PLoS)}, author={Käfer, Simon and Paraskevopoulou, Sofia and Zirkel, Florian and Wieseke, Nicolas and Donath, Alexander and Petersen, Malte and Jones, Terry C. and Liu, Shanlin and Zhou, Xin and Middendorf, Martin and Junglen, Sandra and Misof, Bernhard and Drosten, Christian}, editor={Jiggins, Francis Michael}, year={2019}, month=dec, pages={e1008224} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "arthropods"
-  ],
   "package_managers": null,
-  "title": "Re-assessing the diversity of negative strand RNA viruses in insects",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Insects"
+  ],
+  "type": "paper",
   "interface": null
 }

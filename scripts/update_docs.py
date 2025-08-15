@@ -29,7 +29,7 @@ MKDOCS_CONFIG = f"{MKDOCS_DIR}/mkdocs.yml"
 DOCS_DIR = f"{MKDOCS_DIR}/docs"
 SCHEMA_FILE = "scripts/schema.json"
 
-# Topic to category mapping with descriptions
+# Topic to category mapping with descriptions - these are some hard coded ones, if an entry has new ones, update them.
 TOPIC_CATEGORIES = {
     "rna-virus-identification": {
         "name": "RNA Virus Identification",

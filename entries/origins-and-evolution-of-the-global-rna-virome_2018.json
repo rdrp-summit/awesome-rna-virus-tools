@@ -1,6 +1,6 @@
 {
   "name": "origins-and-evolution-of-the-global-rna-virome_2018",
-  "type": "paper",
+  "title": "Origins and Evolution of the Global RNA Virome",
   "url": "https://doi.org/10.1128/mBio.02329-18",
   "doi": "10.1128/mBio.02329-18",
   "bibtex": "@article{Wolf_2018, title={Origins and Evolution of the Global RNA Virome}, volume={9}, ISSN={2150-7511}, url={http://dx.doi.org/10.1128/mBio.02329-18}, DOI={10.1128/mbio.02329-18}, number={6}, journal={mBio}, publisher={American Society for Microbiology}, author={Wolf, Yuri I. and Kazlauskas, Darius and Iranzo, Jaime and Lucía-Sanz, Adriana and Kuhn, Jens H. and Krupovic, Mart and Dolja, Valerian V. and Koonin, Eugene V.}, editor={Racaniello, Vincent R.}, year={2018}, month=dec }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "review",
     "phylogeny"
   ],
-  "package_managers": null,
-  "title": "Origins and Evolution of the Global RNA Virome",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

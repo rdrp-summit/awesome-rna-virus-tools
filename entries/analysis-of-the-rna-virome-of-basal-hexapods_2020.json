@@ -1,6 +1,6 @@
 {
   "name": "analysis-of-the-rna-virome-of-basal-hexapods_2020",
-  "type": "paper",
+  "title": "Analysis of the RNA virome of basal hexapods",
   "url": "https://doi.org/10.7717/peerj.8336",
   "doi": "10.7717/peerj.8336",
   "bibtex": "@article{Ott_Rutar_2020, title={Analysis of the RNA virome of basal hexapods}, volume={8}, ISSN={2167-8359}, url={http://dx.doi.org/10.7717/peerj.8336}, DOI={10.7717/peerj.8336}, journal={PeerJ}, publisher={PeerJ}, author={Ott Rutar, Sabina and Kordis, Dusan}, year={2020}, month=jan, pages={e8336} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "hexapods"
   ],
-  "package_managers": null,
-  "title": "Analysis of the RNA virome of basal hexapods",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

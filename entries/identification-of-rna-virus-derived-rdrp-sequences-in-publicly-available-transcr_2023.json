@@ -1,6 +1,6 @@
 {
   "name": "identification-of-rna-virus-derived-rdrp-sequences-in-publicly-available-transcr_2023",
-  "type": "paper",
+  "title": "Identification of RNA Virus-Derived RdRp Sequences in Publicly Available Transcriptomic Data Sets",
   "url": "https://doi.org/10.1093/molbev/msad060",
   "doi": "10.1093/molbev/msad060",
   "bibtex": "@article{Olendraite_2023, title={Identification of RNA Virus–Derived RdRp Sequences in Publicly Available Transcriptomic Data Sets}, volume={40}, ISSN={1537-1719}, url={http://dx.doi.org/10.1093/molbev/msad060}, DOI={10.1093/molbev/msad060}, number={4}, journal={Molecular Biology and Evolution}, publisher={Oxford University Press (OUP)}, author={Olendraite, Ingrida and Brown, Katherine and Firth, Andrew E}, editor={Leitner, Thomas}, year={2023}, month=apr }",
@@ -9,15 +9,15 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "resource",
     "pHMM",
     "Orthomyxoviridae",
     "splicing"
   ],
-  "package_managers": null,
-  "title": "Identification of RNA Virus-Derived RdRp Sequences in Publicly Available Transcriptomic Data Sets",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

@@ -1,6 +1,6 @@
 {
   "name": "a-needle-in-a-haystack-tracing-bivalve-associated-viruses-in-high-throughput-tr_2019",
-  "type": "paper",
+  "title": "A Needle in A Haystack: Tracing Bivalve-Associated Viruses in High-Throughput Transcriptomic Data",
   "url": "https://doi.org/10.3390/v11030205",
   "doi": "10.3390/v11030205",
   "bibtex": "@article{Rosani_2019, title={A Needle in A Haystack: Tracing Bivalve-Associated Viruses in High-Throughput Transcriptomic Data}, volume={11}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v11030205}, DOI={10.3390/v11030205}, number={3}, journal={Viruses}, publisher={MDPI AG}, author={Rosani, Umberto and Shapiro, Maxwell and Venier, Paola and Allam, Bassem}, year={2019}, month=mar, pages={205} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "mollosca"
   ],
-  "package_managers": null,
-  "title": "A Needle in A Haystack: Tracing Bivalve-Associated Viruses in High-Throughput Transcriptomic Data",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

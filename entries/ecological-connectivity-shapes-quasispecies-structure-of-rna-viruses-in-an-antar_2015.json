@@ -1,20 +1,20 @@
 {
   "name": "ecological-connectivity-shapes-quasispecies-structure-of-rna-viruses-in-an-antar_2015",
-  "type": "paper",
+  "title": "Ecological connectivity shapes quasispecies structure of RNA viruses in an Antarctic lake",
   "url": "https://doi.org/10.1111/mec.13321",
   "doi": "10.1111/mec.13321",
   "bibtex": "@article{L_pez_Bueno_2015, title={Ecological connectivity shapes quasispecies structure of <scp>RNA</scp> viruses in an Antarctic lake}, volume={24}, ISSN={1365-294X}, url={http://dx.doi.org/10.1111/mec.13321}, DOI={10.1111/mec.13321}, number={19}, journal={Molecular Ecology}, publisher={Wiley}, author={López‐Bueno, A. and Rastrojo, A. and Peiró, R. and Arenas, M. and Alcamí, A.}, year={2015}, month=aug, pages={4812–4825} }",
-  "description": "<jats:styled-content style=\"fixed-case\">RNA</jats:styled-content> viruses exist as complex mixtures of genotypes, known as quasispecies, where the evolution potential resides in the whole community of related genotypes. Quasispecies structure and dynamics have been studied in detail for virus infecting animals and plants but remain unexplored for those infecting micro‐organisms in environmental samples. We report the first metagenomic study of <jats:styled-content style=\"fixed-case\">RNA</jats:styled-content> viruses in an Antarctic lake (Lake Limnopolar, Livingston Island). Similar to low‐latitude aquatic environments, this lake harbours an <jats:styled-content style=\"fixed-case\">RNA</jats:styled-content> virome dominated by positive single‐strand <jats:styled-content style=\"fixed-case\">RNA</jats:styled-content> viruses from the order Picornavirales probably infecting micro‐organisms. Antarctic picorna‐like virus 1 (<jats:styled-content style=\"fixed-case\">APLV</jats:styled-content>1), one of the most abundant viruses in the lake, does not incorporate any mutation in the consensus sequence from 2006 to 2010 and shows stable quasispecies with low‐complexity indexes. By contrast, <jats:styled-content style=\"fixed-case\">APLV</jats:styled-content>2‐<jats:styled-content style=\"fixed-case\">APLV</jats:styled-content>3 are detected in the lake water exclusively in summer samples and are major constituents of surrounding cyanobacterial mats. Their quasispecies exhibit low complexity in cyanobacterial mat, but their run‐off‐mediated transfer to the lake results in a remarkable increase of complexity that may reflect the convergence of different viral quasispecies from the catchment area or replication in a more diverse host community. This is the first example of viral quasispecies from natural aquatic ecosystems and points to ecological connectivity as a modulating factor of quasispecies complexity",
+  "description": "RNA viruses exist as complex mixtures of genotypes, known as quasispecies, where the evolution potential resides in the whole community of related genotypes. Quasispecies structure and dynamics have been studied in detail for virus infecting animals and plants but remain unexplored for those infecting micro‐organisms in environmental samples. We report the first metagenomic study of RNA viruses in an Antarctic lake (Lake Limnopolar, Livingston Island). Similar to low‐latitude aquatic environments, this lake harbours an RNA virome dominated by positive single‐strand RNA viruses from the order Picornavirales probably infecting micro‐organisms. Antarctic picorna‐like virus 1 (APLV1), one of the most abundant viruses in the lake, does not incorporate any mutation in the consensus sequence from 2006 to 2010 and shows stable quasispecies with low‐complexity indexes. By contrast, APLV2‐APLV3 are detected in the lake water exclusively in summer samples and are major constituents of surrounding cyanobacterial mats. Their quasispecies exhibit low complexity in cyanobacterial mat, but their run‐off‐mediated transfer to the lake results in a remarkable increase of complexity that may reflect the convergence of different viral quasispecies from the catchment area or replication in a more diverse host community. This is the first example of viral quasispecies from natural aquatic ecosystems and points to ecological connectivity as a modulating factor of quasispecies complexity",
   "date": "2015-10-01",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "marine"
   ],
-  "package_managers": null,
-  "title": "Ecological connectivity shapes quasispecies structure of RNA viruses in an Antarctic lake",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

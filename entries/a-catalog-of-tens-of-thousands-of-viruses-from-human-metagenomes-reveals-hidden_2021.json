@@ -1,6 +1,6 @@
 {
   "name": "a-catalog-of-tens-of-thousands-of-viruses-from-human-metagenomes-reveals-hidden_2021",
-  "type": "paper",
+  "title": "A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases",
   "url": "https://doi.org/10.1073/pnas.2023202118",
   "doi": "10.1073/pnas.2023202118",
   "bibtex": "@article{Tisza_2021, title={A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases}, volume={118}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2023202118}, DOI={10.1073/pnas.2023202118}, number={23}, journal={Proceedings of the National Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences}, author={Tisza, Michael J. and Buck, Christopher B.}, year={2021}, month=jun }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "human"
   ],
-  "package_managers": null,
-  "title": "A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

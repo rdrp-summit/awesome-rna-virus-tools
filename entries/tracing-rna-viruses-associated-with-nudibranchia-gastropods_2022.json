@@ -1,20 +1,20 @@
 {
   "name": "tracing-rna-viruses-associated-with-nudibranchia-gastropods_2022",
-  "type": "paper",
+  "title": "Tracing RNA viruses associated with Nudibranchia gastropods",
   "url": "https://doi.org/10.7717/peerj.13410",
   "doi": "10.7717/peerj.13410",
   "bibtex": "@article{Rosani_2022, title={Tracing RNA viruses associated with Nudibranchia gastropods}, volume={10}, ISSN={2167-8359}, url={http://dx.doi.org/10.7717/peerj.13410}, DOI={10.7717/peerj.13410}, journal={PeerJ}, publisher={PeerJ}, author={Rosani, Umberto}, year={2022}, month=may, pages={e13410} }",
-  "description": " \n<jats:title>Background</jats:title>\nNudibranchia is an under-studied taxonomic group of gastropods, including more than 3,000 species with colourful and extravagant body shapes and peculiar predatory and defensive strategies. Although symbiosis with bacteria has been reported, no data are available for the nudibranch microbiome nor regarding viruses possibly associated with these geographically widespread species\n \n \n<jats:title>Methods</jats:title>\nBased on 47 available RNA sequencing datasets including more than two billion reads of 35 nudibranch species, a meta-transcriptome assembly was constructed. Taxonomic searches with DIAMOND, RNA-dependent-RNA-polymerase identification with palmscan and viral hallmark genes identification by VirSorter2 in combination with CheckV were applied to identify genuine viral genomes, which were then annotated using CAT\n \n \n<jats:title>Results</jats:title>\nA total of 20 viral genomes were identified as bona fide viruses, among 552 putative viral contigs resembling both RNA viruses of the Negarnaviricota, Pisuviricota, Kitrinoviricota phyla and actively transcribing DNA viruses of the Cossaviricota and Nucleocytoviricota phyla. The 20 commonly identified viruses showed similarity with RNA viruses identified in other RNA-seq experiments and can be putatively associated with bacteria, plant and arthropod hosts by co-occurence analysis. The RNA samples having the highest viral abundances showed a heterogenous and mostly sample-specific distribution of the identified viruses, suggesting that nudibranchs possess diversified and mostly unknown viral communities\n ",
+  "description": "Nudibranchia is an under-studied taxonomic group of gastropods, including more than 3,000 species with colourful and extravagant body shapes and peculiar predatory and defensive strategies. Although symbiosis with bacteria has been reported, no data are available for the nudibranch microbiome nor regarding viruses possibly associated with these geographically widespread species  MethodsBased on 47 available RNA sequencing datasets including more than two billion reads of 35 nudibranch species, a meta-transcriptome assembly was constructed. Taxonomic searches with DIAMOND, RNA-dependent-RNA-polymerase identification with palmscan and viral hallmark genes identification by VirSorter2 in combination with CheckV were applied to identify genuine viral genomes, which were then annotated using CAT  ResultsA total of 20 viral genomes were identified as bona fide viruses, among 552 putative viral contigs resembling both RNA viruses of the Negarnaviricota, Pisuviricota, Kitrinoviricota phyla and actively transcribing DNA viruses of the Cossaviricota and Nucleocytoviricota phyla. The 20 commonly identified viruses showed similarity with RNA viruses identified in other RNA-seq experiments and can be putatively associated with bacteria, plant and arthropod hosts by co-occurence analysis. The RNA samples having the highest viral abundances showed a heterogenous and mostly sample-specific distribution of the identified viruses, suggesting that nudibranchs possess diversified and mostly unknown viral communities",
   "date": "2022-05-13",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "gastropods"
   ],
-  "package_managers": null,
-  "title": "Tracing RNA viruses associated with Nudibranchia gastropods",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

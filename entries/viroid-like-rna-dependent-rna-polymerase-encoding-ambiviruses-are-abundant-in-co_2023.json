@@ -1,6 +1,6 @@
 {
   "name": "viroid-like-rna-dependent-rna-polymerase-encoding-ambiviruses-are-abundant-in-co_2023",
-  "type": "paper",
+  "title": "Viroid-like RNA-dependent RNA polymerase-encoding ambiviruses are abundant in complex fungi",
   "url": "https://doi.org/10.3389/fmicb.2023.1144003",
   "doi": "10.3389/fmicb.2023.1144003",
   "bibtex": "@article{Chong_2023, title={Viroid-like RNA-dependent RNA polymerase-encoding ambiviruses are abundant in complex fungi}, volume={14}, ISSN={1664-302X}, url={http://dx.doi.org/10.3389/fmicb.2023.1144003}, DOI={10.3389/fmicb.2023.1144003}, journal={Frontiers in Microbiology}, publisher={Frontiers Media SA}, author={Chong, Li Chuin and Lauber, Chris}, year={2023}, month=may }",
@@ -9,14 +9,14 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "fungi",
-    "ambiviruses",
-    "viroids"
-  ],
   "package_managers": null,
-  "title": "Viroid-like RNA-dependent RNA polymerase-encoding ambiviruses are abundant in complex fungi",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "viroids",
+    "fungi",
+    "ambiviruses"
+  ],
+  "type": "paper",
   "interface": null
 }

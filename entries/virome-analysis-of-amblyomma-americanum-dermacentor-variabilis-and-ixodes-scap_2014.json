@@ -1,6 +1,6 @@
 {
   "name": "virome-analysis-of-amblyomma-americanum-dermacentor-variabilis-and-ixodes-scap_2014",
-  "type": "paper",
+  "title": "Virome analysis of Amblyomma americanum, Dermacentor variabilis, and Ixodes scapularis ticks reveals novel highly divergent vertebrate and invertebrate viruses",
   "url": "https://doi.org/10.1128/JVI.01858-14",
   "doi": "10.1128/JVI.01858-14",
   "bibtex": "@article{Tokarz_2014, title={Virome Analysis of Amblyomma americanum, Dermacentor variabilis, and Ixodes scapularis Ticks Reveals Novel Highly Divergent Vertebrate and Invertebrate Viruses}, volume={88}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.01858-14}, DOI={10.1128/jvi.01858-14}, number={19}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Tokarz, Rafal and Williams, Simon Hedley and Sameroff, Stephen and Sanchez Leon, Maria and Jain, Komal and Lipkin, W. Ian}, editor={Perlman, S.}, year={2014}, month=oct, pages={11480–11492} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "arthropods"
-  ],
   "package_managers": null,
-  "title": "Virome analysis of Amblyomma americanum, Dermacentor variabilis, and Ixodes scapularis ticks reveals novel highly divergent vertebrate and invertebrate viruses",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Arthropods"
+  ],
+  "type": "paper",
   "interface": null
 }

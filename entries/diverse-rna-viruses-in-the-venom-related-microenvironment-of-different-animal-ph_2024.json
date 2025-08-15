@@ -1,20 +1,20 @@
 {
   "name": "diverse-rna-viruses-in-the-venom-related-microenvironment-of-different-animal-ph_2024",
-  "type": "paper",
+  "title": "Diverse RNA viruses in the venom-related microenvironment of different animal phyla",
   "url": "https://academic.oup.com/ve/article/10/1/veae024/7619247?login=false",
   "doi": "10.1093/ve/veae024",
   "bibtex": "@article{Ji_2024, title={Diverse RNA viruses in the venom-related microenvironment of different animal phyla}, volume={10}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veae024}, DOI={10.1093/ve/veae024}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Ji, Jingkai and Li, Cixiu and Hu, Tao and Tian, Zhongshuai and Li, Juan and Xu, Lin and Zhou, Hong and Holmes, Edward C and Shi, Weifeng}, year={2024} }",
-  "description": "   Venom is known as the source of natural antimicrobial products. Previous studies have largely focused on the expression of venom-related genes and the biochemical components of venom. With the advent of metagenomic sequencing, many more microorganisms, especially viruses, have been identified in highly diverse environments. Herein, we investigated the RNA virome in the venom-related microenvironment through analysis of a large volume of venom-related RNA-sequencing data mined from public databases. From this, we identified viral sequences belonging to thirty-six different viruses, of which twenty-two were classified as ‘novel’ as they exhibited less than 90 per cent amino acid identity to known viruses in the RNA-dependent RNA polymerase. Most of these novel viruses possessed genome structures similar to their closest relatives, with specific alterations in some cases. Phylogenetic analyses revealed that these viruses belonged to at least twenty-two viral families or unclassified groups, some of which were highly divergent from known taxa. Although further analysis failed to find venom-specific viruses, some viruses seemingly had much higher abundance in the venom-related microenvironment than in other tissues. In sum, our study provides insights into the RNA virome of the venom-related microenvironment from diverse animal phyla",
+  "description": "Venom is known as the source of natural antimicrobial products. Previous studies have largely focused on the expression of venom-related genes and the biochemical components of venom. With the advent of metagenomic sequencing, many more microorganisms, especially viruses, have been identified in highly diverse environments. Herein, we investigated the RNA virome in the venom-related microenvironment through analysis of a large volume of venom-related RNA-sequencing data mined from public databases. From this, we identified viral sequences belonging to thirty-six different viruses, of which twenty-two were classified as ‘novel’ as they exhibited less than 90 per cent amino acid identity to known viruses in the RNA-dependent RNA polymerase. Most of these novel viruses possessed genome structures similar to their closest relatives, with specific alterations in some cases. Phylogenetic analyses revealed that these viruses belonged to at least twenty-two viral families or unclassified groups, some of which were highly divergent from known taxa. Although further analysis failed to find venom-specific viruses, some viruses seemingly had much higher abundance in the venom-related microenvironment than in other tissues. In sum, our study provides insights into the RNA virome of the venom-related microenvironment from diverse animal phyla",
   "date": "2024-03-25",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "Animalia"
   ],
-  "package_managers": null,
-  "title": "Diverse RNA viruses in the venom-related microenvironment of different animal phyla",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

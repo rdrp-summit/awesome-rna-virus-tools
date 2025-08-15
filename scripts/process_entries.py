@@ -4,7 +4,7 @@ import logging
 import argparse
 from pathlib import Path
 from typing import List, Dict, Any
-
+from bs4 import BeautifulSoup
 import requests
 import polars as pl
 import jsonschema
@@ -84,7 +84,7 @@ def doi_to_bibtex_crossref(doi: str) -> dict:
     resp = requests.get(f"{url}", headers=headers, timeout=10)
     if resp.status_code != 200:
         return None
-    return resp.text.strip()
+    return BeautifulSoup(resp.text.strip()).get_text()
 
 def fetch_crossref_metadata(doi: str) -> dict:
     """Retrieve Crossref metadata (date, title, URL) for a DOI."""

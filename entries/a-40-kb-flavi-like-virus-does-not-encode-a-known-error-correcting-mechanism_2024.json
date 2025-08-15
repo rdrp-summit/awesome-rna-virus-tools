@@ -1,6 +1,6 @@
 {
   "name": "a-40-kb-flavi-like-virus-does-not-encode-a-known-error-correcting-mechanism_2024",
-  "type": "paper",
+  "title": "A ~40-kb flavi-like virus does not encode a known error-correcting mechanism",
   "url": "https://doi.org/10.1073/pnas.2403805121",
   "doi": "10.1073/pnas.2403805121",
   "bibtex": "@article{Petrone_2024, title={A ~40-kb flavi-like virus does not encode a known error-correcting mechanism}, volume={121}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2403805121}, DOI={10.1073/pnas.2403805121}, number={30}, journal={Proceedings of the National Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences}, author={Petrone, Mary E. and Grove, Joe and Mélade, Julien and Mifsud, Jonathon C. O. and Parry, Rhys H. and Marzinelli, Ezequiel M. and Holmes, Edward C.}, year={2024}, month=jul }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "flavi"
   ],
-  "package_managers": null,
-  "title": "A ~40-kb flavi-like virus does not encode a known error-correcting mechanism",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

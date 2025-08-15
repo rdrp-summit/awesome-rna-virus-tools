@@ -1,22 +1,22 @@
 {
   "name": "the-diverse-liver-viromes-of-australian-geckos-and-skinks-are-dominated-by-hepac_2024",
-  "type": "paper",
+  "title": "The diverse liver viromes of Australian geckos and skinks are dominated by hepaciviruses and picornaviruses and reflect host taxonomy and habitat",
   "url": "https://academic.oup.com/ve/advance-article/doi/10.1093/ve/veae044/7683744?login=false",
   "doi": "10.1093/ve/veae044",
   "bibtex": "@article{_Mahar_2024, title={The diverse liver viromes of Australian geckos and skinks are dominated by hepaciviruses and picornaviruses and reflect host taxonomy and habitat}, volume={10}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veae044}, DOI={10.1093/ve/veae044}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={ Mahar, Jackie E and  Wille, Michelle and  Harvey, Erin and  Moritz, Craig C and  Holmes, Edward C}, year={2024} }",
-  "description": "   Lizards have diverse ecologies and evolutionary histories, and represent a promising group to explore how hosts shape virome structure and virus evolution. Yet, little is known about the viromes of these animals. In Australia, squamates (lizards and snakes) comprise the most diverse order of vertebrates, and Australia hosts the highest diversity of lizards globally, with the greatest breadth of habitat use. We used meta-transcriptomic sequencing to determine the virome of nine co-distributed, tropical lizard species from three taxonomic families in Australia and analyzed these data to identify host traits associated with viral abundance and diversity. We show that lizards carry a large diversity of viruses, identifying more than thirty novel, highly divergent vertebrate-associated viruses. These viruses were from nine viral families, including several that contain well known pathogens, such as the Flaviviridae, Picornaviridae, Bornaviridae, Iridoviridae, and Rhabdoviridae. Members of the Flaviviridae were particularly abundant across species sampled here, largely belonging to the genus Hepacivirus: fourteen novel hepaciviruses were identified, broadening the known diversity of this group and better defining its evolution by uncovering new reptilian clades. The evolutionary histories of the viruses studied here frequently aligned with the biogeographic and phylogenetic histories of the hosts, indicating that exogenous viruses may help infer host evolutionary history if sampling is strategic and sampling density high enough. Notably, analysis of alpha and beta diversity revealed that virome composition and richness in the animals sampled here was shaped by host taxonomy and habitat. In sum, we identified a diverse range of reptile viruses that broadly contributes to our understanding of virus-host ecology and evolution",
+  "description": "Lizards have diverse ecologies and evolutionary histories, and represent a promising group to explore how hosts shape virome structure and virus evolution. Yet, little is known about the viromes of these animals. In Australia, squamates (lizards and snakes) comprise the most diverse order of vertebrates, and Australia hosts the highest diversity of lizards globally, with the greatest breadth of habitat use. We used meta-transcriptomic sequencing to determine the virome of nine co-distributed, tropical lizard species from three taxonomic families in Australia and analyzed these data to identify host traits associated with viral abundance and diversity. We show that lizards carry a large diversity of viruses, identifying more than thirty novel, highly divergent vertebrate-associated viruses. These viruses were from nine viral families, including several that contain well known pathogens, such as the Flaviviridae, Picornaviridae, Bornaviridae, Iridoviridae, and Rhabdoviridae. Members of the Flaviviridae were particularly abundant across species sampled here, largely belonging to the genus Hepacivirus: fourteen novel hepaciviruses were identified, broadening the known diversity of this group and better defining its evolution by uncovering new reptilian clades. The evolutionary histories of the viruses studied here frequently aligned with the biogeographic and phylogenetic histories of the hosts, indicating that exogenous viruses may help infer host evolutionary history if sampling is strategic and sampling density high enough. Notably, analysis of alpha and beta diversity revealed that virome composition and richness in the animals sampled here was shaped by host taxonomy and habitat. In sum, we identified a diverse range of reptile viruses that broadly contributes to our understanding of virus-host ecology and evolution",
   "date": "2024-06-07",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "reptiles",
     "hepacivirus",
     "picornavirus"
   ],
-  "package_managers": null,
-  "title": "The diverse liver viromes of Australian geckos and skinks are dominated by hepaciviruses and picornaviruses and reflect host taxonomy and habitat",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

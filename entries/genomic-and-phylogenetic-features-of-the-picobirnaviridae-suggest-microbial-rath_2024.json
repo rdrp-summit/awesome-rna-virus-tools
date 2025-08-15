@@ -1,20 +1,20 @@
 {
   "name": "genomic-and-phylogenetic-features-of-the-picobirnaviridae-suggest-microbial-rath_2024",
-  "type": "paper",
+  "title": "Genomic and phylogenetic features of the Picobirnaviridae suggest microbial rather than animal hosts",
   "url": "https://academic.oup.com/ve/article/10/1/veae033/7655994?login=false",
   "doi": "10.1093/ve/veae033",
   "bibtex": "@article{Sadiq_2024, title={Genomic and phylogenetic features of the Picobirnaviridae suggest microbial rather than animal hosts}, volume={10}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veae033}, DOI={10.1093/ve/veae033}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Sadiq, Sabrina and Holmes, Edward C and Mahar, Jackie E}, year={2024}, month=jan }",
-  "description": "   The RNA virus family Picobirnaviridae has traditionally been associated with the gastrointestinal systems of terrestrial mammals and birds, with the majority of viruses detected in animal stool samples. Metatranscriptomic studies of vertebrates, invertebrates, microbial communities, and environmental samples have resulted in an enormous expansion of the genomic and phylogenetic diversity of this family. Yet picobirnaviruses remain poorly classified, with only one genus and three species formally ratified by the International Committee of Virus Taxonomy. Additionally, an inability to culture picobirnaviruses in a laboratory setting or isolate them in animal tissue samples, combined with the presence of bacterial genetic motifs in their genomes, suggests that these viruses may represent RNA bacteriophage rather than being associated with animal infection. Utilising a data set of 2,286 picobirnaviruses sourced from mammals, birds, reptiles, fish, invertebrates, microbial communities, and environmental samples, we identified seven consistent phylogenetic clusters likely representing Picobirnavirus genera that we tentatively name ‘Alpha-’, ‘Beta-’, ‘Gamma-’, ‘Delta-’, ‘Epsilon-’, ‘Zeta-’, and ‘Etapicobirnavirus’. A statistical analysis of topological congruence between virus–host phylogenies revealed more frequent cross-species transmission than any other RNA virus family. In addition, bacterial ribosomal binding site motifs were more enriched in Picobirnavirus genomes than in the two groups of established RNA bacteriophage—the Leviviricetes and Cystoviridae. Overall, our findings support the hypothesis that the Picobirnaviridae have bacterial hosts and provide a lower-level taxonomic classification for this highly diverse and ubiquitous family of RNA viruses",
+  "description": "The RNA virus family Picobirnaviridae has traditionally been associated with the gastrointestinal systems of terrestrial mammals and birds, with the majority of viruses detected in animal stool samples. Metatranscriptomic studies of vertebrates, invertebrates, microbial communities, and environmental samples have resulted in an enormous expansion of the genomic and phylogenetic diversity of this family. Yet picobirnaviruses remain poorly classified, with only one genus and three species formally ratified by the International Committee of Virus Taxonomy. Additionally, an inability to culture picobirnaviruses in a laboratory setting or isolate them in animal tissue samples, combined with the presence of bacterial genetic motifs in their genomes, suggests that these viruses may represent RNA bacteriophage rather than being associated with animal infection. Utilising a data set of 2,286 picobirnaviruses sourced from mammals, birds, reptiles, fish, invertebrates, microbial communities, and environmental samples, we identified seven consistent phylogenetic clusters likely representing Picobirnavirus genera that we tentatively name ‘Alpha-’, ‘Beta-’, ‘Gamma-’, ‘Delta-’, ‘Epsilon-’, ‘Zeta-’, and ‘Etapicobirnavirus’. A statistical analysis of topological congruence between virus–host phylogenies revealed more frequent cross-species transmission than any other RNA virus family. In addition, bacterial ribosomal binding site motifs were more enriched in Picobirnavirus genomes than in the two groups of established RNA bacteriophage—the Leviviricetes and Cystoviridae. Overall, our findings support the hypothesis that the Picobirnaviridae have bacterial hosts and provide a lower-level taxonomic classification for this highly diverse and ubiquitous family of RNA viruses",
   "date": "2024-05-13",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "phages"
   ],
-  "package_managers": null,
-  "title": "Genomic and phylogenetic features of the Picobirnaviridae suggest microbial rather than animal hosts",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

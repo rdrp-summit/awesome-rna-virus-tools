@@ -1,6 +1,6 @@
 {
   "name": "metagenomic-analysis-of-coastal-rna-virus-communities_2006",
-  "type": "paper",
+  "title": "Metagenomic analysis of coastal RNA virus communities",
   "url": "https://doi.org/10.1126/science.1127404",
   "doi": "10.1126/science.1127404",
   "bibtex": "@article{Culley_2006, title={Metagenomic Analysis of Coastal RNA Virus Communities}, volume={312}, ISSN={1095-9203}, url={http://dx.doi.org/10.1126/science.1127404}, DOI={10.1126/science.1127404}, number={5781}, journal={Science}, publisher={American Association for the Advancement of Science (AAAS)}, author={Culley, Alexander I. and Lang, Andrew S. and Suttle, Curtis A.}, year={2006}, month=jun, pages={1795–1798} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "marine"
   ],
-  "package_managers": null,
-  "title": "Metagenomic analysis of coastal RNA virus communities",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

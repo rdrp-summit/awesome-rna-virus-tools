@@ -1,6 +1,6 @@
 {
   "name": "abundant-and-diverse-rna-viruses-in-insects-revealed-by-rna-seq-analysis-ecolog_2020",
-  "type": "paper",
+  "title": "Abundant and Diverse RNA Viruses in Insects Revealed by RNA-Seq Analysis: Ecological and Evolutionary Implications",
   "url": "https://doi.org/10.1128/mSystems.00039-20",
   "doi": "10.1128/mSystems.00039-20",
   "bibtex": "@article{Wu_2020, title={Abundant and Diverse RNA Viruses in Insects Revealed by RNA-Seq Analysis: Ecological and Evolutionary Implications}, volume={5}, ISSN={2379-5077}, url={http://dx.doi.org/10.1128/mSystems.00039-20}, DOI={10.1128/msystems.00039-20}, number={4}, journal={mSystems}, publisher={American Society for Microbiology}, author={Wu, Haoming and Pang, Rui and Cheng, Tong and Xue, Liang and Zeng, Haiyan and Lei, Tao and Chen, Moutong and Wu, Shi and Ding, Yu and Zhang, Jumei and Shi, Mang and Wu, Qingping}, editor={Cristea, Ileana M.}, year={2020}, month=aug }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "Ecology",
     "insect"
   ],
-  "package_managers": null,
-  "title": "Abundant and Diverse RNA Viruses in Insects Revealed by RNA-Seq Analysis: Ecological and Evolutionary Implications",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

@@ -1,6 +1,6 @@
 {
   "name": "metatranscriptomics-reveals-the-diversity-of-the-tick-virome-in-northwest-china_2022",
-  "type": "paper",
+  "title": "Metatranscriptomics Reveals the Diversity of the Tick Virome in Northwest China",
   "url": "https://doi.org/10.1128/spectrum.01115-22",
   "doi": "10.1128/spectrum.01115-22",
   "bibtex": "@article{Kong_2022, title={Metatranscriptomics Reveals the Diversity of the Tick Virome in Northwest China}, volume={10}, ISSN={2165-0497}, url={http://dx.doi.org/10.1128/spectrum.01115-22}, DOI={10.1128/spectrum.01115-22}, number={5}, journal={Microbiology Spectrum}, publisher={American Society for Microbiology}, author={Kong, Yunyi and Zhang, Gang and Jiang, Lingling and Wang, Pu and Zhang, Sinong and Zheng, Xiaomin and Li, Yong}, editor={He, Biao}, year={2022}, month=oct }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "arthropods"
-  ],
   "package_managers": null,
-  "title": "Metatranscriptomics Reveals the Diversity of the Tick Virome in Northwest China",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Arthropods"
+  ],
+  "type": "paper",
   "interface": null
 }

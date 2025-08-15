@@ -1,6 +1,6 @@
 {
   "name": "red-fox-viromes-in-urban-and-rural-landscapes_2020",
-  "type": "paper",
+  "title": "Red fox viromes in urban and rural landscapes",
   "url": "https://doi.org/10.1093/ve/veaa065",
   "doi": "10.1093/ve/veaa065",
   "bibtex": "@article{Campbell_2020, title={Red fox viromes in urban and rural landscapes}, volume={6}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veaa065}, DOI={10.1093/ve/veaa065}, number={2}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Campbell, Sarah J and Ashley, Wilbur and Gil-Fernandez, Margarita and Newsome, Thomas M and Di Giallonardo, Francesca and Ortiz-Baez, Ayda Susana and Mahar, Jackie E and Towerton, Alison L and Gillings, Michael and Holmes, Edward C and Carthey, Alexandra J R and Geoghegan, Jemma L}, year={2020}, month=jul }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "Mammalia"
   ],
-  "package_managers": null,
-  "title": "Red fox viromes in urban and rural landscapes",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

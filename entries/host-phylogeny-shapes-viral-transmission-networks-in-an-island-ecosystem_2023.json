@@ -1,6 +1,6 @@
 {
   "name": "host-phylogeny-shapes-viral-transmission-networks-in-an-island-ecosystem_2023",
-  "type": "paper",
+  "title": "Host phylogeny shapes viral transmission networks in an island ecosystem",
   "url": "https://www.nature.com/articles/s41559-023-02192-9",
   "doi": "10.1038/s41559-023-02192-9",
   "bibtex": "@article{French_2023, title={Host phylogeny shapes viral transmission networks in an island ecosystem}, volume={7}, ISSN={2397-334X}, url={http://dx.doi.org/10.1038/s41559-023-02192-9}, DOI={10.1038/s41559-023-02192-9}, number={11}, journal={Nature Ecology &amp; Evolution}, publisher={Springer Science and Business Media LLC}, author={French, Rebecca K. and Anderson, Sandra H. and Cain, Kristal E. and Greene, Terry C. and Minor, Maria and Miskelly, Colin M. and Montoya, Jose M. and Wille, Michelle and Muller, Chris G. and Taylor, Michael W. and Digby, Andrew and Crane, Jodie and Davitt, Galen and Eason, Daryl and Hedman, Petrus and Jeynes, Bronnie and Latimer, Scott and Little, Sarah and Mitchell, Michael and Osborne, Jake and Philp, Brodie and Salton, Alyssa and Uddstrom, Lydia and Vercoe, Deidre and Webster, Alex and Holmes, Edward C.}, year={2023}, month=sep, pages={1834–1843} }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "ecology",
     "phylogeny"
   ],
-  "package_managers": null,
-  "title": "Host phylogeny shapes viral transmission networks in an island ecosystem",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

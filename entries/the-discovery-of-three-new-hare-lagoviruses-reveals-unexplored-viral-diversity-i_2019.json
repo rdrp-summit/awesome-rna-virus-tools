@@ -1,6 +1,6 @@
 {
   "name": "the-discovery-of-three-new-hare-lagoviruses-reveals-unexplored-viral-diversity-i_2019",
-  "type": "paper",
+  "title": "The discovery of three new hare lagoviruses reveals unexplored viral diversity in this genus",
   "url": "https://doi.org/10.1093/ve/vez005",
   "doi": "10.1093/ve/vez005",
   "bibtex": "@article{Mahar_2019, title={The discovery of three new hare lagoviruses reveals unexplored viral diversity in this genus}, volume={5}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/vez005}, DOI={10.1093/ve/vez005}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Mahar, Jackie E and Hall, Robyn N and Shi, Mang and Mourant, Roslyn and Huang, Nina and Strive, Tanja and Holmes, Edward C}, year={2019}, month=jan }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "phylogeny"
   ],
-  "package_managers": null,
-  "title": "The discovery of three new hare lagoviruses reveals unexplored viral diversity in this genus",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

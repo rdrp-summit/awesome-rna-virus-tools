@@ -1,6 +1,6 @@
 {
   "name": "metatranscriptomic-identification-of-diverse-and-divergent-rna-viruses-in-green_2020",
-  "type": "paper",
+  "title": "Metatranscriptomic Identification of Diverse and Divergent RNA Viruses in Green and Chlorarachniophyte Algae Cultures",
   "url": "https://doi.org/10.3390/v12101180",
   "doi": "10.3390/v12101180",
   "bibtex": "@article{Charon_2020, title={Metatranscriptomic Identification of Diverse and Divergent RNA Viruses in Green and Chlorarachniophyte Algae Cultures}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12101180}, DOI={10.3390/v12101180}, number={10}, journal={Viruses}, publisher={MDPI AG}, author={Charon, Justine and Marcelino, Vanessa Rossetto and Wetherbee, Richard and Verbruggen, Heroen and Holmes, Edward C.}, year={2020}, month=oct, pages={1180} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "algae"
   ],
-  "package_managers": null,
-  "title": "Metatranscriptomic Identification of Diverse and Divergent RNA Viruses in Green and Chlorarachniophyte Algae Cultures",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

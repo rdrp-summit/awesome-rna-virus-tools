@@ -1,6 +1,6 @@
 {
   "name": "stable-distinct-core-eukaryotic-viromes-in-different-mosquito-species-from-guade_2019",
-  "type": "paper",
+  "title": "Stable distinct core eukaryotic viromes in different mosquito species from Guadeloupe, using single mosquito viral metagenomics",
   "url": "https://doi.org/10.1186/s40168-019-0734-2",
   "doi": "10.1186/s40168-019-0734-2",
   "bibtex": "@article{Shi_2019, title={Stable distinct core eukaryotic viromes in different mosquito species from Guadeloupe, using single mosquito viral metagenomics}, volume={7}, ISSN={2049-2618}, url={http://dx.doi.org/10.1186/s40168-019-0734-2}, DOI={10.1186/s40168-019-0734-2}, number={1}, journal={Microbiome}, publisher={Springer Science and Business Media LLC}, author={Shi, Chenyan and Beller, Leen and Deboutte, Ward and Yinda, Kwe Claude and Delang, Leen and Vega-Rúa, Anubis and Failloux, Anna-Bella and Matthijnssens, Jelle}, year={2019}, month=aug }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "mosquito"
-  ],
   "package_managers": null,
-  "title": "Stable distinct core eukaryotic viromes in different mosquito species from Guadeloupe, using single mosquito viral metagenomics",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Mosquito"
+  ],
+  "type": "paper",
   "interface": null
 }

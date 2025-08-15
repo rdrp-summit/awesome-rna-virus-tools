@@ -1,20 +1,20 @@
 {
   "name": "a-new-lineage-of-segmented-rna-viruses-infecting-animals_2020",
-  "type": "paper",
+  "title": "A new lineage of segmented RNA viruses infecting animals",
   "url": "https://doi.org/10.1093/ve/vez061",
   "doi": "10.1093/ve/vez061",
   "bibtex": "@article{Obbard_2020, title={A new lineage of segmented RNA viruses infecting animals}, volume={6}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/vez061}, DOI={10.1093/ve/vez061}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Obbard, Darren J and Shi, Mang and Roberts, Katherine E and Longdon, Ben and Dennis, Alice B}, year={2020}, month=jan }",
-  "description": "   Metagenomic sequencing has revolutionised our knowledge of virus diversity, with new virus sequences being reported faster than ever before. However, virus discovery from metagenomic sequencing usually depends on detectable homology: without a sufficiently close relative, so-called ‘dark’ virus sequences remain unrecognisable. An alternative approach is to use virus-identification methods that do not depend on detecting homology, such as virus recognition by host antiviral immunity. For example, virus-derived small RNAs have previously been used to propose ‘dark’ virus sequences associated with the Drosophilidae (Diptera). Here, we combine published Drosophila data with a comprehensive search of transcriptomic sequences and selected meta-transcriptomic datasets to identify a completely new lineage of segmented positive-sense single-stranded RNA viruses that we provisionally refer to as the Quenyaviruses. Each of the five segments contains a single open reading frame, with most encoding proteins showing no detectable similarity to characterised viruses, and one sharing a small number of residues with the RNA-dependent RNA polymerases of single- and double-stranded RNA viruses. Using these sequences, we identify close relatives in approximately 20 arthropods, including insects, crustaceans, spiders, and a myriapod. Using a more conserved sequence from the putative polymerase, we further identify relatives in meta-transcriptomic datasets from gut, gill, and lung tissues of vertebrates, reflecting infections of vertebrates or of their associated parasites. Our data illustrate the utility of small RNAs to detect viruses with limited sequence conservation, and provide robust evidence for a new deeply divergent and phylogenetically distinct RNA virus lineage",
+  "description": "Metagenomic sequencing has revolutionised our knowledge of virus diversity, with new virus sequences being reported faster than ever before. However, virus discovery from metagenomic sequencing usually depends on detectable homology: without a sufficiently close relative, so-called ‘dark’ virus sequences remain unrecognisable. An alternative approach is to use virus-identification methods that do not depend on detecting homology, such as virus recognition by host antiviral immunity. For example, virus-derived small RNAs have previously been used to propose ‘dark’ virus sequences associated with the Drosophilidae (Diptera). Here, we combine published Drosophila data with a comprehensive search of transcriptomic sequences and selected meta-transcriptomic datasets to identify a completely new lineage of segmented positive-sense single-stranded RNA viruses that we provisionally refer to as the Quenyaviruses. Each of the five segments contains a single open reading frame, with most encoding proteins showing no detectable similarity to characterised viruses, and one sharing a small number of residues with the RNA-dependent RNA polymerases of single- and double-stranded RNA viruses. Using these sequences, we identify close relatives in approximately 20 arthropods, including insects, crustaceans, spiders, and a myriapod. Using a more conserved sequence from the putative polymerase, we further identify relatives in meta-transcriptomic datasets from gut, gill, and lung tissues of vertebrates, reflecting infections of vertebrates or of their associated parasites. Our data illustrate the utility of small RNAs to detect viruses with limited sequence conservation, and provide robust evidence for a new deeply divergent and phylogenetically distinct RNA virus lineage",
   "date": "2020-01-01",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "Animalia"
   ],
-  "package_managers": null,
-  "title": "A new lineage of segmented RNA viruses infecting animals",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

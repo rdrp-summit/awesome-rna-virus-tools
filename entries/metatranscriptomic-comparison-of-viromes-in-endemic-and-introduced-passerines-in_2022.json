@@ -1,6 +1,6 @@
 {
   "name": "metatranscriptomic-comparison-of-viromes-in-endemic-and-introduced-passerines-in_2022",
-  "type": "paper",
+  "title": "Metatranscriptomic Comparison of Viromes in Endemic and Introduced Passerines in New Zealand",
   "url": "https://doi.org/10.3390/v14071364",
   "doi": "10.3390/v14071364",
   "bibtex": "@article{French_2022, title={Metatranscriptomic Comparison of Viromes in Endemic and Introduced Passerines in New Zealand}, volume={14}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v14071364}, DOI={10.3390/v14071364}, number={7}, journal={Viruses}, publisher={MDPI AG}, author={French, Rebecca K. and Filion, Antoine and Niebuhr, Chris N. and Holmes, Edward C.}, year={2022}, month=jun, pages={1364} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "avian"
-  ],
   "package_managers": null,
-  "title": "Metatranscriptomic Comparison of Viromes in Endemic and Introduced Passerines in New Zealand",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Aves"
+  ],
+  "type": "paper",
   "interface": null
 }

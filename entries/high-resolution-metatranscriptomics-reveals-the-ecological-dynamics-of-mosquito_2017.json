@@ -1,6 +1,6 @@
 {
   "name": "high-resolution-metatranscriptomics-reveals-the-ecological-dynamics-of-mosquito_2017",
-  "type": "paper",
+  "title": "High-Resolution Metatranscriptomics Reveals the Ecological Dynamics of Mosquito-Associated RNA Viruses in Western Australia",
   "url": "https://doi.org/10.1128/JVI.00680-17",
   "doi": "10.1128/JVI.00680-17",
   "bibtex": "@article{Shi_2017, title={High-Resolution Metatranscriptomics Reveals the Ecological Dynamics of Mosquito-Associated RNA Viruses in Western Australia}, volume={91}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.00680-17}, DOI={10.1128/jvi.00680-17}, number={17}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Shi, Mang and Neville, Peter and Nicholson, Jay and Eden, John-Sebastian and Imrie, Allison and Holmes, Edward C.}, editor={Lyles, Douglas S.}, year={2017}, month=sep }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "mosquito"
-  ],
   "package_managers": null,
-  "title": "High-Resolution Metatranscriptomics Reveals the Ecological Dynamics of Mosquito-Associated RNA Viruses in Western Australia",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Mosquito"
+  ],
+  "type": "paper",
   "interface": null
 }

@@ -1,6 +1,6 @@
 {
   "name": "host-traits-shape-virome-composition-and-virus-transmission-in-wild-small-mammal_2023",
-  "type": "paper",
+  "title": "Host traits shape virome composition and virus transmission in wild small mammals",
   "url": "https://doi.org/10.1016/j.cell.2023.09.020",
   "doi": "10.1016/j.cell.2023.09.020",
   "bibtex": "@article{Yadav_2023, title={Molecular basis of anaphylatoxin binding, activation, and signaling bias at complement receptors}, volume={186}, ISSN={0092-8674}, url={http://dx.doi.org/10.1016/j.cell.2023.09.020}, DOI={10.1016/j.cell.2023.09.020}, number={22}, journal={Cell}, publisher={Elsevier BV}, author={Yadav, Manish K. and Maharana, Jagannath and Yadav, Ravi and Saha, Shirsha and Sarma, Parishmita and Soni, Chahat and Singh, Vinay and Saha, Sayantan and Ganguly, Manisankar and Li, Xaria X. and Mohapatra, Samanwita and Mishra, Sudha and Khant, Htet A. and Chami, Mohamed and Woodruff, Trent M. and Banerjee, Ramanuj and Shukla, Arun K. and Gati, Cornelius}, year={2023}, month=oct, pages={4956-4973.e21} }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "Mammalia",
     "ecology"
   ],
-  "package_managers": null,
-  "title": "Host traits shape virome composition and virus transmission in wild small mammals",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

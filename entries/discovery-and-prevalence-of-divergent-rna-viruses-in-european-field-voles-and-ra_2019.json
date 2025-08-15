@@ -1,6 +1,6 @@
 {
   "name": "discovery-and-prevalence-of-divergent-rna-viruses-in-european-field-voles-and-ra_2019",
-  "type": "paper",
+  "title": "Discovery and Prevalence of Divergent RNA Viruses in European Field Voles and Rabbits",
   "url": "https://doi.org/10.3390/v12010047",
   "doi": "10.3390/v12010047",
   "bibtex": "@article{Tsoleridis_2019, title={Discovery and Prevalence of Divergent RNA Viruses in European Field Voles and Rabbits}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12010047}, DOI={10.3390/v12010047}, number={1}, journal={Viruses}, publisher={MDPI AG}, author={Tsoleridis, Theocharis and Chappell, Joseph G. and Monchatre-Leroy, Elodie and Umhang, Gérald and Shi, Mang and Bennett, Malcolm and Tarlinton, Rachael E. and McClure, C. Patrick and Holmes, Edward C. and Ball, Jonathan K.}, year={2019}, month=dec, pages={47} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "Mammalia"
   ],
-  "package_managers": null,
-  "title": "Discovery and Prevalence of Divergent RNA Viruses in European Field Voles and Rabbits",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

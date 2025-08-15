@@ -1,6 +1,6 @@
 {
   "name": "flds-a-comprehensive-dsrna-sequencing-method-for-intracellular-rna-virus-survei_2016",
-  "type": "paper",
+  "title": "FLDS: A Comprehensive dsRNA Sequencing Method for Intracellular RNA Virus Surveillance",
   "url": "https://doi.org/10.1264/jsme2.ME15171",
   "doi": "10.1264/jsme2.ME15171",
   "bibtex": "@article{Urayama_2016, title={FLDS: A Comprehensive dsRNA Sequencing Method for Intracellular RNA Virus Surveillance}, volume={31}, ISSN={1347-4405}, url={http://dx.doi.org/10.1264/jsme2.ME15171}, DOI={10.1264/jsme2.me15171}, number={1}, journal={Microbes and Environments}, publisher={Japanese Society of Microbial Ecology}, author={Urayama, Syun-ichi and Takaki, Yoshihiro and Nunoura, Takuro}, year={2016}, pages={33–40} }",
@@ -9,13 +9,13 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "surveillance",
     "methodology"
   ],
-  "package_managers": null,
-  "title": "FLDS: A Comprehensive dsRNA Sequencing Method for Intracellular RNA Virus Surveillance",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

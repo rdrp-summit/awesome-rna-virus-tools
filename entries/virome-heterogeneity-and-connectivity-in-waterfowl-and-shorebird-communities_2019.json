@@ -1,20 +1,20 @@
 {
   "name": "virome-heterogeneity-and-connectivity-in-waterfowl-and-shorebird-communities_2019",
-  "type": "paper",
+  "title": "Virome heterogeneity and connectivity in waterfowl and shorebird communities",
   "url": "https://doi.org/10.1038/s41396-019-0458-0",
   "doi": "10.1038/s41396-019-0458-0",
   "bibtex": "@article{Wille_2019, title={Virome heterogeneity and connectivity in waterfowl and shorebird communities}, volume={13}, ISSN={1751-7370}, url={http://dx.doi.org/10.1038/s41396-019-0458-0}, DOI={10.1038/s41396-019-0458-0}, number={10}, journal={The ISME Journal}, publisher={Oxford University Press (OUP)}, author={Wille, Michelle and Shi, Mang and Klaassen, Marcel and Hurt, Aeron C and Holmes, Edward C}, year={2019}, month=jun, pages={2603–2616} }",
-  "description": "   Models of host-microbe dynamics typically assume a single-host population infected by a single pathogen. In reality, many hosts form multi-species aggregations and may be infected with an assemblage of pathogens. We used a meta-transcriptomic approach to characterize the viromes of nine avian species in the Anseriformes (ducks) and Charadriiformes (shorebirds). This revealed the presence of 27 viral species, of which 24 were novel, including double-stranded RNA viruses (Picobirnaviridae and Reoviridae), single-stranded RNA viruses (Astroviridae, Caliciviridae, Picornaviridae), a retro-transcribing DNA virus (Hepadnaviridae), and a single-stranded DNA virus (Parvoviridae). These viruses comprise multi-host generalist viruses and those that are host-specific, indicative of both virome connectivity (host sharing) and heterogeneity (host specificity). Virome connectivity was apparent in two well described multi-host virus species -avian coronavirus and influenza A virus- and a novel Rotavirus species that were shared among some Anseriform species, while virome heterogeneity was reflected in the absence of viruses shared between Anseriformes and Charadriiformes, as well as differences in viral abundance and alpha diversity among species. Overall, we demonstrate complex virome structures across host species that co-exist in multi-species aggregations",
+  "description": "Models of host-microbe dynamics typically assume a single-host population infected by a single pathogen. In reality, many hosts form multi-species aggregations and may be infected with an assemblage of pathogens. We used a meta-transcriptomic approach to characterize the viromes of nine avian species in the Anseriformes (ducks) and Charadriiformes (shorebirds). This revealed the presence of 27 viral species, of which 24 were novel, including double-stranded RNA viruses (Picobirnaviridae and Reoviridae), single-stranded RNA viruses (Astroviridae, Caliciviridae, Picornaviridae), a retro-transcribing DNA virus (Hepadnaviridae), and a single-stranded DNA virus (Parvoviridae). These viruses comprise multi-host generalist viruses and those that are host-specific, indicative of both virome connectivity (host sharing) and heterogeneity (host specificity). Virome connectivity was apparent in two well described multi-host virus species -avian coronavirus and influenza A virus- and a novel Rotavirus species that were shared among some Anseriform species, while virome heterogeneity was reflected in the absence of viruses shared between Anseriformes and Charadriiformes, as well as differences in viral abundance and alpha diversity among species. Overall, we demonstrate complex virome structures across host species that co-exist in multi-species aggregations",
   "date": "2019-10-01",
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "avian"
-  ],
   "package_managers": null,
-  "title": "Virome heterogeneity and connectivity in waterfowl and shorebird communities",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Aves"
+  ],
+  "type": "paper",
   "interface": null
 }

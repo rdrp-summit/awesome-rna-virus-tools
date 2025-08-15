@@ -1,6 +1,6 @@
 {
   "name": "a-diverse-range-of-novel-rna-viruses-in-geographically-distinct-honey-bee-popula_2017",
-  "type": "paper",
+  "title": "A Diverse Range of Novel RNA Viruses in Geographically Distinct Honey Bee Populations",
   "url": "https://doi.org/10.1128/JVI.00158-17",
   "doi": "10.1128/JVI.00158-17",
   "bibtex": "@article{Remnant_2017, title={A Diverse Range of Novel RNA Viruses in Geographically Distinct Honey Bee Populations}, volume={91}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.00158-17}, DOI={10.1128/jvi.00158-17}, number={16}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Remnant, Emily J. and Shi, Mang and Buchmann, Gabriele and Blacquière, Tjeerd and Holmes, Edward C. and Beekman, Madeleine and Ashe, Alyson}, editor={Ross, Susan R.}, year={2017}, month=aug }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "insect"
   ],
-  "package_managers": null,
-  "title": "A Diverse Range of Novel RNA Viruses in Geographically Distinct Honey Bee Populations",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

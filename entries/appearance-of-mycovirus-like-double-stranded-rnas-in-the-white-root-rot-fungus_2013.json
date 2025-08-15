@@ -1,20 +1,20 @@
 {
   "name": "appearance-of-mycovirus-like-double-stranded-rnas-in-the-white-root-rot-fungus_2013",
-  "type": "paper",
+  "title": "Appearance of mycovirus-like double-stranded RNAs in the white root rot fungus, Rosellinia necatrix, in an apple orchard",
   "url": "https://doi.org/10.1111/j.1574-6941.2012.01454.x",
   "doi": "10.1111/j.1574-6941.2012.01454.x",
   "bibtex": "@article{Yaegashi_2012, title={Appearance of mycovirus-like double-stranded RNAs in the white root rot fungus,Rosellinia necatrix, in an apple orchard}, volume={83}, ISSN={0168-6496}, url={http://dx.doi.org/10.1111/j.1574-6941.2012.01454.x}, DOI={10.1111/j.1574-6941.2012.01454.x}, number={1}, journal={FEMS Microbiology Ecology}, publisher={Oxford University Press (OUP)}, author={Yaegashi, Hajime and Nakamura, Hitoshi and Sawahata, Takuo and Sasaki, Atsuko and Iwanami, Yasuhiko and Ito, Tsutae and Kanematsu, Satoko}, year={2012}, month=aug, pages={49–62} }",
-  "description": "Appearance of mycovirus-like double-stranded RNAs in the white root rot fungus,<i>Rosellinia necatrix</i>, in an apple orchard",
+  "description": "Appearance of mycovirus-like double-stranded RNAs in the white root rot fungus,Rosellinia necatrix, in an apple orchard",
   "date": "2013-01-01",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "fungi"
   ],
-  "package_managers": null,
-  "title": "Appearance of mycovirus-like double-stranded RNAs in the white root rot fungus, Rosellinia necatrix, in an apple orchard",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

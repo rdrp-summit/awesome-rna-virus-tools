@@ -1,6 +1,6 @@
 {
   "name": "extensive-diversity-of-rna-viruses-in-australian-ticks_2019",
-  "type": "paper",
+  "title": "Extensive Diversity of RNA Viruses in Australian Ticks",
   "url": "https://doi.org/10.1128/JVI.01358-18",
   "doi": "10.1128/JVI.01358-18",
   "bibtex": "@article{Harvey_2019, title={Extensive Diversity of RNA Viruses in Australian Ticks}, volume={93}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.01358-18}, DOI={10.1128/jvi.01358-18}, number={3}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Harvey, Erin and Rose, Karrie and Eden, John-Sebastian and Lo, Nathan and Abeyasuriya, Thilanka and Shi, Mang and Doggett, Stephen L. and Holmes, Edward C.}, editor={García-Sastre, Adolfo}, year={2019}, month=feb }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "arthropods"
-  ],
   "package_managers": null,
-  "title": "Extensive Diversity of RNA Viruses in Australian Ticks",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Arthropods"
+  ],
+  "type": "paper",
   "interface": null
 }

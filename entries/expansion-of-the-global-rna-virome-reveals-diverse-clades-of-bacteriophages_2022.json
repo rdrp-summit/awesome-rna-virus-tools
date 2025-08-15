@@ -1,6 +1,6 @@
 {
   "name": "expansion-of-the-global-rna-virome-reveals-diverse-clades-of-bacteriophages_2022",
-  "type": "paper",
+  "title": "Expansion of the global RNA virome reveals diverse clades of bacteriophages",
   "url": "https://doi.org/10.1016/j.cell.2022.08.023",
   "doi": "10.1016/j.cell.2022.08.023",
   "bibtex": "@article{Neri_2022, title={Expansion of the global RNA virome reveals diverse clades of bacteriophages}, volume={185}, ISSN={0092-8674}, url={http://dx.doi.org/10.1016/j.cell.2022.08.023}, DOI={10.1016/j.cell.2022.08.023}, number={21}, journal={Cell}, publisher={Elsevier BV}, author={Neri, Uri and Wolf, Yuri I. and Roux, Simon and Camargo, Antonio Pedro and Lee, Benjamin and Kazlauskas, Darius and Chen, I. Min and Ivanova, Natalia and Zeigler Allen, Lisa and Paez-Espino, David and Bryant, Donald A. and Bhaya, Devaki and Krupovic, Mart and Dolja, Valerian V. and Kyrpides, Nikos C. and Koonin, Eugene V. and Gophna, Uri and Narrowe, Adrienne B. and Probst, Alexander J. and Sczyrba, Alexander and Kohler, Annegret and Séguin, Armand and Shade, Ashley and Campbell, Barbara J. and Lindahl, Björn D. and Reese, Brandi Kiel and Roque, Breanna M. and DeRito, Chris and Averill, Colin and Cullen, Daniel and Beck, David A.C. and Walsh, David A. and Ward, David M. and Wu, Dongying and Eloe-Fadrosh, Emiley and Brodie, Eoin L. and Young, Erica B. and Lilleskov, Erik A. and Castillo, Federico J. and Martin, Francis M. and LeCleir, Gary R. and Attwood, Graeme T. and Cadillo-Quiroz, Hinsby and Simon, Holly M. and Hewson, Ian and Grigoriev, Igor V. and Tiedje, James M. and Jansson, Janet K. and Lee, Janey and VanderGheynst, Jean S. and Dangl, Jeff and Bowman, Jeff S. and Blanchard, Jeffrey L. and Bowen, Jennifer L. and Xu, Jiangbing and Banfield, Jillian F. and Deming, Jody W. and Kostka, Joel E. and Gladden, John M. and Rapp, Josephine Z. and Sharpe, Joshua and McMahon, Katherine D. and Treseder, Kathleen K. and Bidle, Kay D. and Wrighton, Kelly C. and Thamatrakoln, Kimberlee and Nusslein, Klaus and Meredith, Laura K. and Ramirez, Lucia and Buee, Marc and Huntemann, Marcel and Kalyuzhnaya, Marina G. and Waldrop, Mark P. and Sullivan, Matthew B. and Schrenk, Matthew O. and Hess, Matthias and Vega, Michael A. and O’Malley, Michelle A. and Medina, Monica and Gilbert, Naomi E. and Delherbe, Nathalie and Mason, Olivia U. and Dijkstra, Paul and Chuckran, Peter F. and Baldrian, Petr and Constant, Philippe and Stepanauskas, Ramunas and Daly, Rebecca A. and Lamendella, Regina and Gruninger, Robert J. and McKay, Robert M. and Hylander, Samuel and Lebeis, Sarah L. and Esser, Sarah P. and Acinas, Silvia G. and Wilhelm, Steven S. and Singer, Steven W. and Tringe, Susannah S. and Woyke, Tanja and Reddy, T.B.K. and Bell, Terrence H. and Mock, Thomas and McAllister, Tim and Thiel, Vera and Denef, Vincent J. and Liu, Wen-Tso and Martens-Habbena, Willm and Allen Liu, Xiao-Jun and Cooper, Zachary S. and Wang, Zhong}, year={2022}, month=oct, pages={4023-4037.e18} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "phages"
   ],
-  "package_managers": null,
-  "title": "Expansion of the global RNA virome reveals diverse clades of bacteriophages",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

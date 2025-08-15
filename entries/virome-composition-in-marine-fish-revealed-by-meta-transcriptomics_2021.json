@@ -1,21 +1,21 @@
 {
   "name": "virome-composition-in-marine-fish-revealed-by-meta-transcriptomics_2021",
-  "type": "paper",
+  "title": "Virome composition in marine fish revealed by meta-transcriptomics",
   "url": "https://doi.org/10.1093/ve/veab005",
   "doi": "10.1093/ve/veab005",
   "bibtex": "@article{Geoghegan_2021, title={Virome composition in marine fish revealed by meta-transcriptomics}, volume={7}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veab005}, DOI={10.1093/ve/veab005}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Geoghegan, Jemma L and Di Giallonardo, Francesca and Wille, Michelle and Ortiz-Baez, Ayda Susana and Costa, Vincenzo A and Ghaly, Timothy and Mifsud, Jonathon C O and Turnbull, Olivia M H and Bellwood, David R and Williamson, Jane E and Holmes, Edward C}, year={2021}, month=jan }",
-  "description": "   Revealing the determinants of virome composition is central to placing disease emergence in a broader evolutionary context. Fish are the most species-rich group of vertebrates and so provide an ideal model system to study the factors that shape virome compositions and their evolution. We characterized the viromes of nineteen wild-caught species of marine fish using total RNA sequencing (meta-transcriptomics) combined with analyses of sequence and protein structural homology to identify divergent viruses that often evade characterization. From this, we identified twenty-five new vertebrate-associated viruses and a further twenty-two viruses likely associated with fish diet or their microbiomes. The vertebrate-associated viruses identified here included the first fish virus in the Matonaviridae (single-strand, positive-sense RNA virus). Other viruses fell within the Astroviridae, Picornaviridae, Arenaviridae, Reoviridae, Hepadnaviridae, Paramyxoviridae, Rhabdoviridae, Hantaviridae, Filoviridae, and Flaviviridae, and were sometimes phylogenetically distinct from known fish viruses. We also show how key metrics of virome composition—viral richness, abundance, and diversity—can be analysed along with host ecological and biological factors as a means to understand virus ecology. Accordingly, these data suggest that that the vertebrate-associated viromes of the fish sampled here are predominantly shaped by the phylogenetic history (i.e. taxonomic order) of their hosts, along with several biological factors including water temperature, habitat depth, community diversity and swimming behaviour. No such correlations were found for viruses associated with porifera, molluscs, arthropods, fungi, and algae, that are unlikely to replicate in fish hosts. Overall, these data indicate that fish harbour particularly large and complex viromes and the vast majority of fish viromes are undescribed",
+  "description": "Revealing the determinants of virome composition is central to placing disease emergence in a broader evolutionary context. Fish are the most species-rich group of vertebrates and so provide an ideal model system to study the factors that shape virome compositions and their evolution. We characterized the viromes of nineteen wild-caught species of marine fish using total RNA sequencing (meta-transcriptomics) combined with analyses of sequence and protein structural homology to identify divergent viruses that often evade characterization. From this, we identified twenty-five new vertebrate-associated viruses and a further twenty-two viruses likely associated with fish diet or their microbiomes. The vertebrate-associated viruses identified here included the first fish virus in the Matonaviridae (single-strand, positive-sense RNA virus). Other viruses fell within the Astroviridae, Picornaviridae, Arenaviridae, Reoviridae, Hepadnaviridae, Paramyxoviridae, Rhabdoviridae, Hantaviridae, Filoviridae, and Flaviviridae, and were sometimes phylogenetically distinct from known fish viruses. We also show how key metrics of virome composition—viral richness, abundance, and diversity—can be analysed along with host ecological and biological factors as a means to understand virus ecology. Accordingly, these data suggest that that the vertebrate-associated viromes of the fish sampled here are predominantly shaped by the phylogenetic history (i.e. taxonomic order) of their hosts, along with several biological factors including water temperature, habitat depth, community diversity and swimming behaviour. No such correlations were found for viruses associated with porifera, molluscs, arthropods, fungi, and algae, that are unlikely to replicate in fish hosts. Overall, these data indicate that fish harbour particularly large and complex viromes and the vast majority of fish viromes are undescribed",
   "date": "2021-01-20",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "marine",
     "fish"
   ],
-  "package_managers": null,
-  "title": "Virome composition in marine fish revealed by meta-transcriptomics",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }

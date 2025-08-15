@@ -1,6 +1,6 @@
 {
   "name": "unmapped-rna-virus-diversity-in-termites-and-their-symbionts_2020",
-  "type": "paper",
+  "title": "Unmapped RNA Virus Diversity in Termites and their Symbionts",
   "url": "https://doi.org/10.3390/v12101145",
   "doi": "10.3390/v12101145",
   "bibtex": "@article{Le_Lay_2020, title={Unmapped RNA Virus Diversity in Termites and Their Symbionts}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12101145}, DOI={10.3390/v12101145}, number={10}, journal={Viruses}, publisher={MDPI AG}, author={Le Lay, Callum and Shi, Mang and Buček, Aleš and Bourguignon, Thomas and Lo, Nathan and Holmes, Edward}, year={2020}, month=oct, pages={1145} }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "arthropods"
-  ],
   "package_managers": null,
-  "title": "Unmapped RNA Virus Diversity in Termites and their Symbionts",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Arthropods"
+  ],
+  "type": "paper",
   "interface": null
 }

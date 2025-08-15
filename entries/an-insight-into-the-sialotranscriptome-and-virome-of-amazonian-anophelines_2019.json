@@ -1,6 +1,6 @@
 {
   "name": "an-insight-into-the-sialotranscriptome-and-virome-of-amazonian-anophelines_2019",
-  "type": "paper",
+  "title": "An insight into the sialotranscriptome and virome of Amazonian anophelines",
   "url": "https://doi.org/10.1186/s12864-019-5545-0",
   "doi": "10.1186/s12864-019-5545-0",
   "bibtex": "@article{Scarpassa_2019, title={An insight into the sialotranscriptome and virome of Amazonian anophelines}, volume={20}, ISSN={1471-2164}, url={http://dx.doi.org/10.1186/s12864-019-5545-0}, DOI={10.1186/s12864-019-5545-0}, number={1}, journal={BMC Genomics}, publisher={Springer Science and Business Media LLC}, author={Scarpassa, Vera Margarete and Debat, Humbeto Julio and Alencar, Ronildo Baiatone and Saraiva, José Ferreira and Calvo, Eric and Arcà, Bruno and Ribeiro, José M. C.}, year={2019}, month=mar }",
@@ -9,12 +9,12 @@
   "version": null,
   "license": null,
   "language": "English",
-  "topics": [
-    "mosquito"
-  ],
   "package_managers": null,
-  "title": "An insight into the sialotranscriptome and virome of Amazonian anophelines",
   "input_formats": null,
   "output_formats": null,
+  "topics": [
+    "Mosquito"
+  ],
+  "type": "paper",
   "interface": null
 }

@@ -1,20 +1,20 @@
 {
   "name": "rna-viromics-reveals-diverse-communities-of-soil-rna-viruses-with-the-potential_2022",
-  "type": "paper",
+  "title": "RNA-viromics reveals diverse communities of soil RNA viruses with the potential to affect grassland ecosystems across multiple trophic levels",
   "url": "https://doi.org/10.1038/s43705-022-00110-x",
   "doi": "10.1038/s43705-022-00110-x",
   "bibtex": "@article{Hillary_2022, title={RNA-viromics reveals diverse communities of soil RNA viruses with the potential to affect grassland ecosystems across multiple trophic levels}, volume={2}, ISSN={2730-6151}, url={http://dx.doi.org/10.1038/s43705-022-00110-x}, DOI={10.1038/s43705-022-00110-x}, number={1}, journal={ISME Communications}, publisher={Oxford University Press (OUP)}, author={Hillary, Luke S and Adriaenssens, Evelien M and Jones, David L and McDonald, James E}, year={2022}, month=apr }",
-  "description": "   The distribution and diversity of RNA viruses in soil ecosystems are largely unknown, despite their significant impact on public health, ecosystem functions, and food security. Here, we characterise soil RNA viral communities along an altitudinal productivity gradient of peat, managed grassland and coastal soils. We identified 3462 viral contigs in RNA viromes from purified virus-like-particles in five soil-types and assessed their spatial distribution, phylogenetic diversity and potential host ranges. Soil types exhibited minimal similarity in viral community composition, but with &amp;gt;10-fold more viral contigs shared between managed grassland soils when compared with peat or coastal soils. Phylogenetic analyses predicted soil RNA viral communities are formed from viruses of bacteria, plants, fungi, vertebrates and invertebrates, with only 12% of viral contigs belonging to the bacteria-infecting Leviviricetes class. 11% of viral contigs were found to be most closely related to members of the Ourmiavirus genus, suggesting that members of this clade of plant viruses may be far more widely distributed and diverse than previously thought. These results contrast with soil DNA viromes which are typically dominated by bacteriophages. RNA viral communities, therefore, have the potential to exert influence on inter-kingdom interactions across terrestrial biomes",
+  "description": "The distribution and diversity of RNA viruses in soil ecosystems are largely unknown, despite their significant impact on public health, ecosystem functions, and food security. Here, we characterise soil RNA viral communities along an altitudinal productivity gradient of peat, managed grassland and coastal soils. We identified 3462 viral contigs in RNA viromes from purified virus-like-particles in five soil-types and assessed their spatial distribution, phylogenetic diversity and potential host ranges. Soil types exhibited minimal similarity in viral community composition, but with >10-fold more viral contigs shared between managed grassland soils when compared with peat or coastal soils. Phylogenetic analyses predicted soil RNA viral communities are formed from viruses of bacteria, plants, fungi, vertebrates and invertebrates, with only 12% of viral contigs belonging to the bacteria-infecting Leviviricetes class. 11% of viral contigs were found to be most closely related to members of the Ourmiavirus genus, suggesting that members of this clade of plant viruses may be far more widely distributed and diverse than previously thought. These results contrast with soil DNA viromes which are typically dominated by bacteriophages. RNA viral communities, therefore, have the potential to exert influence on inter-kingdom interactions across terrestrial biomes",
   "date": "2022-12-01",
   "version": null,
   "license": null,
   "language": "English",
+  "package_managers": null,
+  "input_formats": null,
+  "output_formats": null,
   "topics": [
     "soil"
   ],
-  "package_managers": null,
-  "title": "RNA-viromics reveals diverse communities of soil RNA viruses with the potential to affect grassland ecosystems across multiple trophic levels",
-  "input_formats": null,
-  "output_formats": null,
+  "type": "paper",
   "interface": null
 }
