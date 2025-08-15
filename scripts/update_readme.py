@@ -109,11 +109,6 @@ def entry_2_md(entry: pl.DataFrame):
 """
     return mk_str
 
-
-
-
-
-# (Removed stray return; function now returns correctly above)
 def add_nav_md(entries_df):
     """Generate a quick navigation markdown linking to type sections and topic subsections."""
     nav_lines = []
@@ -124,7 +119,7 @@ def add_nav_md(entries_df):
         if type_entries.height == 0:
             continue
         # Link to the type heading
-        type_anchor = entry_type.lower()
+        type_anchor = entry_type.lower().replace(" ", "-")  # Convert to lowercase and replace spaces with hyphens
         nav_lines.append(f"- [{display_name}](#{type_anchor})")
         # Gather unique first topics preserving order
         seen = set()
@@ -134,7 +129,7 @@ def add_nav_md(entries_df):
             if first_topic in seen:
                 continue
             seen.add(first_topic)
-            topic_anchor = f"{entry_type}-{first_topic}".replace(" ", "-").lower()
+            topic_anchor = f"{entry_type}-{first_topic}".replace(" ", "-").lower()  # Convert to lowercase and replace spaces with hyphens
             nav_lines.append(f"  - [{first_topic}](#{topic_anchor})")
         nav_lines.append("")  # blank line after each type
     return "\n".join(nav_lines)
@@ -184,9 +179,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Last updated: """ + datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC') + """*
     """
 
-
-
-
 def main() -> None:
     parser = argparse.ArgumentParser(description="Entry processor")
     parser.add_argument(
@@ -228,7 +220,6 @@ def main() -> None:
     # Build README content
     header = readme_header()
     nav = add_nav_md(entries_df)
-
     # Build body with sections and topic subsections
     body_sections = []
     # Define order of sections
@@ -238,10 +229,9 @@ def main() -> None:
         if type_entries.height == 0:
             continue
         # Type heading with anchor
-        # Insert explicit HTML anchor before the heading for reliable linking
-        # Insert HTML anchor before the type heading for reliable linking
-        body_sections.append(f"## {display_name} {{#{entry_type.lower()}}}")
-        # (removed - merged into previous line)
+        type_anchor = entry_type.lower().replace(" ", "-")  # Convert to lowercase and replace spaces with hyphens
+        body_sections.append(f"## {display_name} <a id='{type_anchor}'></a>")
+
         # Track seen topics to preserve order
         seen_topics = set()
         for row in type_entries.iter_rows(named=True):
@@ -250,12 +240,10 @@ def main() -> None:
             if first_topic in seen_topics:
                 continue
             seen_topics.add(first_topic)
-            topic_anchor = f"{entry_type}-{first_topic}".replace(" ", "-").lower()
+            topic_anchor = f"{entry_type}-{first_topic}".replace(" ", "-").lower()  # Convert to lowercase and replace spaces with hyphens
             # Topic subheading with anchor
-            # Insert explicit HTML anchor before the subheading for reliable linking
-            # Insert HTML anchor before the topic subheading for reliable linking
-            body_sections.append(f"### {first_topic} {{#{topic_anchor}}}")
-            # (removed - merged into previous line)
+            body_sections.append(f"### {first_topic} <a id='{topic_anchor}'></a>")
+
             # Add all entries that belong to this topic
             for entry in type_entries.iter_rows(named=True):
                 entry_topics = entry.get("topics", [])

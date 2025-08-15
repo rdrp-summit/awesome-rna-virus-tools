@@ -71,18 +71,18 @@ A curated list of software, tools, databases and resources for RNA virus analysi
   - [Vertebrate](#paper-vertebrate)
   - [Flaviviridae](#paper-flaviviridae)
 
-## Tools {#tool}
-### Multi-Classifier {#tool-multi-classifier}
+## Tools <a id='tool'></a>
+### Multi-Classifier <a id='tool-multi-classifier'></a>
 - **[VirSorter2: a multi-classifier, expert-guided approach to detect diverse DNA and RNA viruses](https://github.com/jiarong/VirSorter2)** ()
   Multi-classifier approach to detect diverse DNA and RNA virus sequences
 
 
-### Phylogenetics {#tool-phylogenetics}
+### Phylogenetics <a id='tool-phylogenetics'></a>
 - **[ViralMSA: massively scalable reference-guided multiple sequence alignment of viral genomes](https://github.com/niemasd/ViralMSA)** (multiple-sequence-alignment, viral-genomes, rna-viruses)
   Massively scalable reference-guided multiple sequence alignment of viral genomes, including RNA viruses
 
 
-### Deep Learning {#tool-deep-learning}
+### Deep Learning <a id='tool-deep-learning'></a>
 - **[Identifying viruses from metagenomic data using deep learning](https://github.com/jessieren/DeepVirFinder)** ()
   Deep learning method for identifying viral sequences from metagenomic data
 
@@ -91,44 +91,44 @@ A curated list of software, tools, databases and resources for RNA virus analysi
   A deep learning-based tool that uses a self-supervised model for large-scale analysis of viral genomes, allowing for the discovery and characterization of new RNA viruses.
 
 
-### Metagenomic Input {#tool-metagenomic-input}
+### Metagenomic Input <a id='tool-metagenomic-input'></a>
 - **[VirBot: an RNA viral contig detector for metagenomic data](https://github.com/GreyGuoweiChen/VirBot)** ()
   A tool designed for detecting RNA viral contigs within metagenomic datasets.
 
 
-### Genome-Annotation {#tool-genome-annotation}
+### Genome-Annotation <a id='tool-genome-annotation'></a>
 - **[VIGOR, an annotation program for small viral genomes](https://github.com/JCVI-VIRIFX/VIGOR4)** (orf-prediction, viral-genomes, rna-viruses)
   Viral genome ORF reader for annotation of viral genomes, including RNA viruses
 
 
-### Assembly {#tool-assembly}
+### Assembly <a id='tool-assembly'></a>
 - **[coronaSPAdes: from biosynthetic gene clusters to RNA viral assemblies](https://github.com/ablab/spades)** (coronavirus)
   Specialized assembler for coronavirus genomes and other RNA viral sequences
 
 
-### Serratus {#tool-serratus}
+### Serratus <a id='tool-serratus'></a>
 - **[palmscan: Ribovirus classification by a polymerase barcode sequence](https://github.com/rcedgar/palmscan)** ()
   A tool for classifying viral polymerase barcode sequences using the palmdb database, identifying operational taxonomic units (sOTUs) based on sequence similarity.
 
 
-### Characterization {#tool-characterization}
+### Characterization <a id='tool-characterization'></a>
 - **[VirID: Beyond Virus Discovery - An Integrated Platform for Comprehensive RNA Virus Characterization](https://github.com/ZiyueYang01/VirID)** ()
   A comprehensive platform for RNA virus characterization from transcriptomic data. It supports contig assembly, taxonomic classification, and variant analysis.
 
 
-### Annotation {#tool-annotation}
+### Annotation <a id='tool-annotation'></a>
 - **[VIRify: An integrated detection, annotation and taxonomic classification pipeline using virus-specific protein profile hidden Markov models](https://github.com/EBI-Metagenomics/emg-viral-pipeline)** (taxonomy)
   An integrated pipeline for virus detection, annotation, and taxonomic classification using hidden Markov models (HMMs) of viral-specific proteins.
 
 
-### Genome Reconstruction {#tool-genome-reconstruction}
-- **[None](https://github.com/rki-mf1/omnifluss)** (influenza, rna-viruses, workflow, genomic surveillance, NGS)
+### Genome Reconstruction <a id='tool-genome-reconstruction'></a>
+- **[Omnifluss](https://github.com/rki-mf1/omnifluss)** (influenza, rna-viruses, workflow, genomic surveillance, NGS)
   Computational workflow for virus genome reconstruction at population-scale
 
 
 
-## Databases {#database}
-### Database {#database-database}
+## Databases <a id='database'></a>
+### Database <a id='database-database'></a>
 - **[NeoRdRp2 with improved seed data, annotations, and scoring](https://github.com/shoichisakaguchi/NeoRdRp)** (pHMM)
   An improved database and hidden Markov model (pHMM) dataset for identifying and classifying RNA-dependent RNA polymerase (RdRp) sequences.
 
@@ -141,14 +141,14 @@ A curated list of software, tools, databases and resources for RNA virus analysi
   A bioinformatic resource, including a curated dataset and HMM profiles, for identifying and annotating diverse RNA viruses in metagenomic data.
 
 
-### Serratus {#database-serratus}
+### Serratus <a id='database-serratus'></a>
 - **[palmdb: Ribovirus classification by a polymerase barcode sequence](https://github.com/ababaian/palmdb)** ()
   A database containing over 145,000 viral polymerase palmprint (barcode) sequences, classified by clustering into species-like operational taxonomic units (sOTUs).
 
 
 
-## Papers {#paper}
-### Fish {#paper-fish}
+## Papers <a id='paper'></a>
+### Fish <a id='paper-fish'></a>
 <details>
 <summary>**Meta-Transcriptomic Identification of Divergent Amnoonviridae in Fish**</summary>
 
@@ -193,7 +193,7 @@ The fishing and aquaculture industry is vital for global food security, yet vira
 </details>
 
 
-### Arthropods {#paper-arthropods}
+### Arthropods <a id='paper-arthropods'></a>
 <details>
 <summary>**Virome analysis of Amblyomma americanum, Dermacentor variabilis, and Ixodes scapularis ticks reveals novel highly divergent vertebrate and invertebrate viruses**</summary>
 
@@ -282,7 +282,7 @@ The virome ofRhipicephalus,DermacentorandHaemaphysalisticks from Eastern Romania
 </details>
 
 
-### Taxonomy {#paper-taxonomy}
+### Taxonomy <a id='paper-taxonomy'></a>
 <details>
 <summary>**Known phyla dominate the Tara Oceans RNA virome**</summary>
 
@@ -294,7 +294,7 @@ A recent study proposed five new RNA virus phyla, two of which, ‘Taraviricota�
 </details>
 
 
-### Marine {#paper-marine}
+### Marine <a id='paper-marine'></a>
 <details>
 <summary>**Freshwater macrophytes harbor viruses representing all five major phyla of the RNA viral kingdom Orthornavirae**</summary>
 
@@ -394,7 +394,7 @@ RNA viruses infect marine organisms from bacteria to whales, but RNA virus commu
 </details>
 
 
-### Phages {#paper-phages}
+### Phages <a id='paper-phages'></a>
 <details>
 <summary>**Leviviricetes: expanding and restructuring the taxonomy of bacteria-infecting single-stranded RNA viruses**</summary>
 
@@ -450,7 +450,7 @@ The RNA virus family Picobirnaviridae has traditionally been associated with the
 </details>
 
 
-### Aves {#paper-aves}
+### Aves <a id='paper-aves'></a>
 <details>
 <summary>**Metatranscriptomic Comparison of Viromes in Endemic and Introduced Passerines in New Zealand**</summary>
 
@@ -484,7 +484,7 @@ Models of host-microbe dynamics typically assume a single-host population infect
 </details>
 
 
-### Evolution {#paper-evolution}
+### Evolution <a id='paper-evolution'></a>
 <details>
 <summary>**Metagenomics reshapes the concepts of RNA virus evolution by revealing extensive horizontal virus transfer**</summary>
 
@@ -496,7 +496,7 @@ Metagenomics reshapes the concepts of RNA virus evolution by revealing extensive
 </details>
 
 
-### Phylogeny {#paper-phylogeny}
+### Phylogeny <a id='paper-phylogeny'></a>
 <details>
 <summary>**Global phylogenetic analysis of the RNA-dependent RNA polymerase with OrViT (OrthornaVirae Tree)**</summary>
 
@@ -552,7 +552,7 @@ The evolutionary history of vertebrate RNA viruses
 </details>
 
 
-### Mammalia {#paper-mammalia}
+### Mammalia <a id='paper-mammalia'></a>
 <details>
 <summary>**Comparative Analysis of RNA Virome Composition in Rabbits and Associated Ectoparasites**</summary>
 
@@ -674,7 +674,7 @@ Faecal virome of the Australian grey-headed flying fox from urban/suburban envir
 </details>
 
 
-### Gastropods {#paper-gastropods}
+### Gastropods <a id='paper-gastropods'></a>
 <details>
 <summary>**Tracing RNA viruses associated with Nudibranchia gastropods**</summary>
 
@@ -686,7 +686,7 @@ Nudibranchia is an under-studied taxonomic group of gastropods, including more t
 </details>
 
 
-### Insects {#paper-insects}
+### Insects <a id='paper-insects'></a>
 <details>
 <summary>**Draft Genome Sequences of Six Novel Picorna-Like Viruses from Washington State Spiders**</summary>
 
@@ -720,7 +720,7 @@ Re-assessing the diversity of negative strand RNA viruses in insects
 </details>
 
 
-### Parasite {#paper-parasite}
+### Parasite <a id='paper-parasite'></a>
 <details>
 <summary>**A parasite odyssey: An RNA virus concealed in Toxoplasma gondii**</summary>
 
@@ -743,7 +743,7 @@ Little is known about the diversity of parasite-associated viruses and how these
 </details>
 
 
-### Mosquito {#paper-mosquito}
+### Mosquito <a id='paper-mosquito'></a>
 <details>
 <summary>**Metagenomic analysis of individual mosquito viromes reveals the geographical patterns and drivers of viral diversity**</summary>
 
@@ -788,7 +788,7 @@ Mosquitoes harbor a high diversity of RNA viruses, including many that impact hu
 </details>
 
 
-### Hot-Springs {#paper-hot-springs}
+### Hot-Springs <a id='paper-hot-springs'></a>
 <details>
 <summary>**Identification of novel positive-strand RNA viruses by metagenomic analysis of archaea-dominated Yellowstone hot springs**</summary>
 
@@ -800,7 +800,7 @@ There are no known RNA viruses that infectArchaea. Filling this gap in our knowl
 </details>
 
 
-### Soil {#paper-soil}
+### Soil <a id='paper-soil'></a>
 <details>
 <summary>**RNA-viromics reveals diverse communities of soil RNA viruses with the potential to affect grassland ecosystems across multiple trophic levels**</summary>
 
@@ -834,7 +834,7 @@ The diversity and ecology of RNA viruses is severely understudied in complex env
 </details>
 
 
-### Flavi {#paper-flavi}
+### Flavi <a id='paper-flavi'></a>
 <details>
 <summary>**Divergent Viruses Discovered in Arthropods and Vertebrates Revise the Evolutionary History of the Flaviviridae and Related Viruses**</summary>
 
@@ -857,7 +857,7 @@ It is commonly held that there is a fundamental relationship between genome size
 </details>
 
 
-### Amphibians {#paper-amphibians}
+### Amphibians <a id='paper-amphibians'></a>
 <details>
 <summary>**Divergent Influenza-Like Viruses of Amphibians and Fish Support an Ancient Evolutionary Association**</summary>
 
@@ -880,7 +880,7 @@ Cane toads are poisonous amphibians that were introduced to Australia in 1935 fo
 </details>
 
 
-### Mosquitoes {#paper-mosquitoes}
+### Mosquitoes <a id='paper-mosquitoes'></a>
 <details>
 <summary>**Negeviruses found in multiple species of mosquitoes from southern Portugal: Isolation, genetic diversity, and replication in insect cell cultur**</summary>
 
@@ -914,7 +914,7 @@ Mosquitoes harbor an extensive diversity of ‘insect-specific’ RNA viruses in
 </details>
 
 
-### Surveillance {#paper-surveillance}
+### Surveillance <a id='paper-surveillance'></a>
 <details>
 <summary>**FLDS: A Comprehensive dsRNA Sequencing Method for Intracellular RNA Virus Surveillance**</summary>
 
@@ -937,7 +937,7 @@ Enhanced arbovirus surveillance with deep sequencing: Identification of novel rh
 </details>
 
 
-### -Ssrna {#paper--ssrna}
+### -Ssrna <a id='paper--ssrna'></a>
 <details>
 <summary>**Unprecedented genomic diversity of RNA viruses in arthropods reveals the ancestry of negative-sense RNA viruses**</summary>
 
@@ -949,7 +949,7 @@ Although arthropods are important viral vectors, the biodiversity of arthropod v
 </details>
 
 
-### Hexapods {#paper-hexapods}
+### Hexapods <a id='paper-hexapods'></a>
 <details>
 <summary>**Analysis of the RNA virome of basal hexapods**</summary>
 
@@ -961,7 +961,7 @@ The diversity and evolution of RNA viruses has been well studied in arthropods a
 </details>
 
 
-### Ecology {#paper-ecology}
+### Ecology <a id='paper-ecology'></a>
 <details>
 <summary>**Human land use impacts viral diversity and abundance in a New Zealand river**</summary>
 
@@ -995,7 +995,7 @@ Insects comprise the largest proportion of animals on earth and are frequently i
 </details>
 
 
-### Plants {#paper-plants}
+### Plants <a id='paper-plants'></a>
 <details>
 <summary>**Transcriptome Mining Expands Knowledge of RNA Viruses across the Plant Kingdom**</summary>
 
@@ -1040,7 +1040,7 @@ Soybean thrips (Neohydatothrips variabilis) are one of the most efficient vector
 </details>
 
 
-### Viroids {#paper-viroids}
+### Viroids <a id='paper-viroids'></a>
 <details>
 <summary>**Viroid-like RNA-dependent RNA polymerase-encoding ambiviruses are abundant in complex fungi**</summary>
 
@@ -1052,7 +1052,7 @@ Ambiviruses are hybrid infectious elements encoding the hallmark gene of RNA vir
 </details>
 
 
-### Animalia {#paper-animalia}
+### Animalia <a id='paper-animalia'></a>
 <details>
 <summary>**A new lineage of segmented RNA viruses infecting animals**</summary>
 
@@ -1086,7 +1086,7 @@ Venom is known as the source of natural antimicrobial products. Previous studies
 </details>
 
 
-### Invertebrate {#paper-invertebrate}
+### Invertebrate <a id='paper-invertebrate'></a>
 <details>
 <summary>**Redefining the invertebrate RNA virosphere**</summary>
 
@@ -1098,7 +1098,7 @@ Redefining the invertebrate RNA virosphere
 </details>
 
 
-### Insect {#paper-insect}
+### Insect <a id='paper-insect'></a>
 <details>
 <summary>**Composition and global distribution of the mosquito virome - A comprehensive database of insect-specific viruses**</summary>
 
@@ -1187,7 +1187,7 @@ Wasps of the genus Vespula are social insects that have become major pests and p
 </details>
 
 
-### Human {#paper-human}
+### Human <a id='paper-human'></a>
 <details>
 <summary>**A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases**</summary>
 
@@ -1199,7 +1199,7 @@ Mechanisms of many human chronic diseases involve abnormal action of the immune 
 </details>
 
 
-### Bats {#paper-bats}
+### Bats <a id='paper-bats'></a>
 <details>
 <summary>**Metagenomic Analysis of Viruses from Bat Fecal Samples Reveals Many Novel Viruses in Insectivorous Bats in China**</summary>
 
@@ -1233,7 +1233,7 @@ The diversity in currently documented viruses and their morphological characteri
 </details>
 
 
-### Fungi {#paper-fungi}
+### Fungi <a id='paper-fungi'></a>
 <details>
 <summary>**The virome from a collection of endomycorrhizal fungi reveals new viral taxa with unprecedented genome organization**</summary>
 
@@ -1289,7 +1289,7 @@ Plant-feeding insects harbor double-stranded RNA viruses encoding a novel prolin
 </details>
 
 
-### Mollosca {#paper-mollosca}
+### Mollosca <a id='paper-mollosca'></a>
 <details>
 <summary>**A Needle in A Haystack: Tracing Bivalve-Associated Viruses in High-Throughput Transcriptomic Data**</summary>
 
@@ -1301,7 +1301,7 @@ Bivalve mollusks thrive in environments rich in microorganisms, such as estuarin
 </details>
 
 
-### Hepacivirus {#paper-hepacivirus}
+### Hepacivirus <a id='paper-hepacivirus'></a>
 <details>
 <summary>**Divergent hepaciviruses, delta-like viruses, and a chu-like virus in Australian marsupial carnivores (dasyurids)**</summary>
 
@@ -1313,7 +1313,7 @@ Although Australian marsupials are characterised by unique biology and geographi
 </details>
 
 
-### Serratus {#paper-serratus}
+### Serratus <a id='paper-serratus'></a>
 <details>
 <summary>**Petabase-scale sequence alignment catalyses viral discovery**</summary>
 
@@ -1325,7 +1325,7 @@ Petabase-scale sequence alignment catalyses viral discovery
 </details>
 
 
-### Diptera {#paper-diptera}
+### Diptera <a id='paper-diptera'></a>
 <details>
 <summary>**Novel virus discovery and genome reconstruction from field RNA samples reveals highly divergent viruses in dipteran hosts**</summary>
 
@@ -1337,7 +1337,7 @@ We investigated whether small RNA (sRNA) sequenced from field-collected mosquito
 </details>
 
 
-### Orthomyxoviridae {#paper-orthomyxoviridae}
+### Orthomyxoviridae <a id='paper-orthomyxoviridae'></a>
 <details>
 <summary>**Accumulated metagenomic studies reveal recent migration, whole genome evolution, and undiscovered diversity of orthomyxoviruses**</summary>
 
@@ -1349,7 +1349,7 @@ Metagenomic studies have uncovered many novel viruses by looking beyond hosts of
 </details>
 
 
-### Resource {#paper-resource}
+### Resource <a id='paper-resource'></a>
 <details>
 <summary>**Identification of RNA Virus-Derived RdRp Sequences in Publicly Available Transcriptomic Data Sets**</summary>
 
@@ -1361,7 +1361,7 @@ RNA viruses are abundant and highly diverse and infect all or most eukaryotic or
 </details>
 
 
-### Review {#paper-review}
+### Review <a id='paper-review'></a>
 <details>
 <summary>**Exploring the virome: An integral part of human health and disease**</summary>
 
@@ -1384,7 +1384,7 @@ The majority of the diverse viruses infecting eukaryotes have RNA genomes, inclu
 </details>
 
 
-### Reptiles {#paper-reptiles}
+### Reptiles <a id='paper-reptiles'></a>
 <details>
 <summary>**The diverse liver viromes of Australian geckos and skinks are dominated by hepaciviruses and picornaviruses and reflect host taxonomy and habitat**</summary>
 
@@ -1396,7 +1396,7 @@ Lizards have diverse ecologies and evolutionary histories, and represent a promi
 </details>
 
 
-### Methodology {#paper-methodology}
+### Methodology <a id='paper-methodology'></a>
 <details>
 <summary>**New lineages of RNA viruses from clinical isolates of Rhizopus microsporus revealed by fragmented and primer-ligated dsRNA sequencing (FLDS) analysis**</summary>
 
@@ -1408,7 +1408,7 @@ Rhizopus microsporus  is a species in the order Mucorales that is known to cause
 </details>
 
 
-### Algae {#paper-algae}
+### Algae <a id='paper-algae'></a>
 <details>
 <summary>**Metatranscriptomic Identification of Diverse and Divergent RNA Viruses in Green and Chlorarachniophyte Algae Cultures**</summary>
 
@@ -1431,7 +1431,7 @@ Remarkably little is known about the diversity and evolution of RNA viruses in u
 </details>
 
 
-### Vertebrate {#paper-vertebrate}
+### Vertebrate <a id='paper-vertebrate'></a>
 <details>
 <summary>**The diversity, evolution and origins of vertebrate RNA viruses**</summary>
 
@@ -1443,7 +1443,7 @@ The diversity, evolution and origins of vertebrate RNA viruses
 </details>
 
 
-### Flaviviridae {#paper-flaviviridae}
+### Flaviviridae <a id='paper-flaviviridae'></a>
 <details>
 <summary>**Transcriptome mining extends the host range of the Flaviviridae to non-bilaterians**</summary>
 
@@ -1479,5 +1479,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last updated: 2025-08-15 16:01:41 UTC*
+*Last updated: 2025-08-15 16:13:41 UTC*
     
