@@ -1,15 +1,12 @@
 # Awesome RNA Virus Tools
 
-![RdRp Summit Logo](rdrp_summit.png)
+![RdRp Summit Logo](assets/awesome-rna-virus-tools-hex.png)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Website](https://img.shields.io/website?url=https%3A//rdrp-summit.github.io/awesome-rna-virus-tools/)](https://rdrp-summit.github.io/awesome-rna-virus-tools/)
 [![GitHub](https://img.shields.io/github/license/rdrp-summit/awesome-rna-virus-tools)](LICENSE)
 
-A curated list of software, tools, databases and resources for RNA virus analysis, prediction, annotation, phylogenetics, and related research. This project builds upon the excellent [awesome-virome](https://github.com/shandley/awesome-virome) list.  
-
-# NOTE: THIS IS WIP and may include errors 
-
+A curated list of software, tools, databases and resources for RNA virus analysis, prediction, annotation, phylogenetics, and related research. This project builds upon the excellent [awesome-virome](https://github.com/shandley/awesome-virome) list.
 
 🌐 **[Visit the interactive website](https://rdrp-summit.github.io/awesome-rna-virus-tools/)** to explore tools by categories, programming languages, and installation methods.
 
@@ -73,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Last updated: 2025-08-11 18:47:32 UTC*
+*Last updated: 2025-08-14 16:57:13 UTC*
