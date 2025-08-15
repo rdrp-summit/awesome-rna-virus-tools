@@ -1,0 +1,21 @@
+{
+  "name": "RNA viromes from terrestrial sites across China expand environmental viral diversity",
+  "url": "https://doi.org/10.1038/s41564-022-01180-2",
+  "doi": "10.1038/s41564-022-01180-2",
+  "bibtex": null,
+  "description": "RNA viromes from terrestrial sites across China expand environmental viral diversity",
+  "date": "2022-07-28",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": "35902778",
+  "type": "paper",
+  "interface": "CLI"
+}

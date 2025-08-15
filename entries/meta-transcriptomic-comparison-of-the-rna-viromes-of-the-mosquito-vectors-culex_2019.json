@@ -1,0 +1,20 @@
+{
+  "name": "meta-transcriptomic-comparison-of-the-rna-viromes-of-the-mosquito-vectors-culex_2019",
+  "type": "paper",
+  "url": "https://doi.org/10.3390/v11111033",
+  "doi": "10.3390/v11111033",
+  "bibtex": "@article{Pettersson_2019, title={Meta-Transcriptomic Comparison of the RNA Viromes of the Mosquito Vectors Culex pipiens and Culex torrentium in Northern Europe}, volume={11}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v11111033}, DOI={10.3390/v11111033}, number={11}, journal={Viruses}, publisher={MDPI AG}, author={Pettersson, John H.-O. and Shi, Mang and Eden, John-Sebastian and Holmes, Edward C. and Hesson, Jenny C.}, year={2019}, month=nov, pages={1033} }",
+  "description": "Mosquitoes harbor an extensive diversity of ‘insect-specific’ RNA viruses in addition to those important to human and animal health. However, because most studies of the mosquito virome have been conducted at lower latitudes, little is known about the diversity and evolutionary history of RNA viruses sampled from mosquitoes in northerly regions. Here, we compared the RNA virome of two common northern mosquito species, Culex pipiens and Culex torrentium, collected in south-central Sweden. Following bulk RNA-sequencing (meta-transcriptomics) of 12 libraries, comprising 120 specimens of Cx. pipiens and 150 specimens of Cx. torrentium, we identified 40 viruses (representing 14 virus families) of which 28 were novel based on phylogenetic analysis of the RNA-dependent RNA polymerase (RdRp) protein. Hence, we documented similar levels of virome diversity as in mosquitoes sampled from the more biodiverse lower latitudes. Many viruses were also related to those sampled on other continents, indicative of a widespread global movement and/or long host–virus co-evolution. Although the two mosquito species investigated have overlapping geographical distributions and share many viruses, several viruses were only found at a specific location at this scale of sampling, such that local habitat and geography may play an important role in shaping viral diversity in Culex mosquitoes",
+  "date": "2019-11-06",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "mosquitoes"
+  ],
+  "package_managers": null,
+  "title": "Meta-Transcriptomic Comparison of the RNA Viromes of the Mosquito Vectors Culex pipiens and Culex torrentium in Northern Europe",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,20 @@
+{
+  "name": "identification-of-novel-mammalian-viruses-in-tree-shrews-tupaia-belangeri-chine_2024",
+  "type": "paper",
+  "url": "https://www.zoores.ac.cn/en/article/doi/10.24272/j.issn.2095-8137.2023.306",
+  "doi": "10.24272/j.issn.2095-8137.2023.306",
+  "bibtex": "@article{Zhou_2024, title={Identification of novel mammalian viruses in tree shrews (&lt;i&gt;Tupaia belangeri chinensis&lt;/i&gt;)}, volume={45}, ISSN={2095-8137}, url={http://dx.doi.org/10.24272/j.issn.2095-8137.2023.306}, DOI={10.24272/j.issn.2095-8137.2023.306}, number={2}, journal={Zoological Research}, publisher={Zoological Research}, author={Zhou, Hong and Tian, Ren-Rong and Wang, Xiu-Rong and Yang, Jin-Xuan and Wang, Yun-Xiao and Zhao, Ming-Liang and Zhang, Xu-Dong and Ma, Yu-Hua and Lv, Long-Bao and C. Holmes, Edward and Zheng, Yong-Tang and Shi, Wei-Feng}, year={2024}, pages={429–438} }",
+  "description": "Identification of novel mammalian viruses in tree shrews (&lt;i&gt;Tupaia belangeri chinensis&lt;/i&gt;)",
+  "date": "2024-01-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Mammalia"
+  ],
+  "package_managers": null,
+  "title": "Identification of novel mammalian viruses in tree shrews (Tupaia belangeri chinensis)",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Cryptic and abundant marine viruses at the evolutionary origins of Earthâ€™s RNA virome",
+  "url": "https://doi.org/10.1126/science.abm5847",
+  "doi": "10.1126/science.abm5847",
+  "bibtex": null,
+  "description": "Cryptic and abundant marine viruses at the evolutionary origins of Earth’s RNA virome",
+  "date": "2022-04-07",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": "35389782",
+  "type": "paper",
+  "interface": "CLI"
+}

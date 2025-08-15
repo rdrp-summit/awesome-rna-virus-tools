@@ -1,0 +1,21 @@
+{
+  "name": "Virome composition in marine fish revealed by meta-transcriptomics",
+  "url": "https://doi.org/10.1093/ve/veab005",
+  "doi": "10.1093/ve/veab005",
+  "bibtex": null,
+  "description": "Virome composition in marine fish revealed by meta-transcriptomics",
+  "date": "2021-01-20",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

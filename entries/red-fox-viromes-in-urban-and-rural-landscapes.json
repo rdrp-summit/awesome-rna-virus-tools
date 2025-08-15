@@ -1,0 +1,21 @@
+{
+  "name": "Red fox viromes in urban and rural landscapes",
+  "url": "https://doi.org/10.1093/ve/veaa065",
+  "doi": "10.1093/ve/veaa065",
+  "bibtex": null,
+  "description": "Red fox viromes in urban and rural landscapes",
+  "date": "2020-07-01",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

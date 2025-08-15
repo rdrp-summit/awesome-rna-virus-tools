@@ -1,0 +1,20 @@
+{
+  "name": "identification-of-novel-positive-strand-rna-viruses-by-metagenomic-analysis-of-a_2012",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/JVI.07196-11",
+  "doi": "10.1128/JVI.07196-11",
+  "bibtex": "@article{Bolduc_2012, title={Identification of Novel Positive-Strand RNA Viruses by Metagenomic Analysis of Archaea-Dominated Yellowstone Hot Springs}, volume={86}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.07196-11}, DOI={10.1128/jvi.07196-11}, number={10}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Bolduc, Benjamin and Shaughnessy, Daniel P. and Wolf, Yuri I. and Koonin, Eugene V. and Roberto, Francisco F. and Young, Mark}, year={2012}, month=may, pages={5562–5573} }",
+  "description": "There are no known RNA viruses that infectArchaea. Filling this gap in our knowledge of viruses will enhance our understanding of the relationships between RNA viruses from the three domains of cellular life and, in particular, could shed light on the origin of the enormous diversity of RNA viruses infecting eukaryotes. We describe here the identification of novel RNA viral genome segments from high-temperature acidic hot springs in Yellowstone National Park in the United States. These hot springs harbor low-complexity cellular communities dominated by several species of hyperthermophilicArchaea. A viral metagenomics approach was taken to assemble segments of these RNA virus genomes from viral populations isolated directly from hot spring samples. Analysis of these RNA metagenomes demonstrated unique gene content that is not generally related to known RNA viruses ofBacteriaandEukarya. However, genes for RNA-dependent RNA polymerase (RdRp), a hallmark of positive-strand RNA viruses, were identified in two contigs. One of these contigs is approximately 5,600 nucleotides in length and encodes a polyprotein that also contains a region homologous to the capsid protein of nodaviruses, tetraviruses, and birnaviruses. Phylogenetic analyses of the RdRps encoded in these contigs indicate that the putative archaeal viruses form a unique group that is distinct from the RdRps of RNA viruses ofEukaryaandBacteria. Collectively, our findings suggest the existence of novel positive-strand RNA viruses that probably replicate in hyperthermophilic archaeal hosts and are highly divergent from RNA viruses that infect eukaryotes and even more distant from known bacterial RNA viruses. These positive-strand RNA viruses might be direct ancestors of RNA viruses of eukaryotes",
+  "date": "2012-05-15",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Hot-springs"
+  ],
+  "package_managers": null,
+  "title": "Identification of novel positive-strand RNA viruses by metagenomic analysis of archaea-dominated Yellowstone hot springs",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

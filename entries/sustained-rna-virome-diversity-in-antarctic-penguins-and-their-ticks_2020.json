@@ -1,0 +1,21 @@
+{
+  "name": "sustained-rna-virome-diversity-in-antarctic-penguins-and-their-ticks_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.1038/s41396-020-0643-1",
+  "doi": "10.1038/s41396-020-0643-1",
+  "bibtex": "@article{Wille_2020, title={Sustained RNA virome diversity in Antarctic penguins and their ticks}, volume={14}, ISSN={1751-7370}, url={http://dx.doi.org/10.1038/s41396-020-0643-1}, DOI={10.1038/s41396-020-0643-1}, number={7}, journal={The ISME Journal}, publisher={Oxford University Press (OUP)}, author={Wille, Michelle and Harvey, Erin and Shi, Mang and Gonzalez-Acuña, Daniel and Holmes, Edward C and Hurt, Aeron C}, year={2020}, month=apr, pages={1768–1782} }",
+  "description": "   Despite its isolation and extreme climate, Antarctica is home to diverse fauna and associated microorganisms. It has been proposed that the most iconic Antarctic animal, the penguin, experiences low pathogen pressure, accounting for their disease susceptibility in foreign environments. There is, however, a limited understanding of virome diversity in Antarctic species, the extent of in situ virus evolution, or how it relates to that in other geographic regions. To assess whether penguins have limited microbial diversity we determined the RNA viromes of three species of penguins and their ticks sampled on the Antarctic peninsula. Using total RNA sequencing we identified 107 viral species, comprising likely penguin associated viruses (n = 13), penguin diet and microbiome associated viruses (n = 82), and tick viruses (n = 8), two of which may have the potential to infect penguins. Notably, the level of virome diversity revealed in penguins is comparable to that seen in Australian waterbirds, including many of the same viral families. These data run counter to the idea that penguins are subject to lower pathogen pressure. The repeated detection of specific viruses in Antarctic penguins also suggests that rather than being simply spill-over hosts, these animals may act as key virus reservoirs",
+  "date": "2020-07-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "arthropods",
+    "avian"
+  ],
+  "package_managers": null,
+  "title": "Sustained RNA virome diversity in Antarctic penguins and their ticks",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

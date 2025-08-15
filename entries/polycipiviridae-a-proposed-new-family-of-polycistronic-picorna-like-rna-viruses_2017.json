@@ -1,0 +1,20 @@
+{
+  "name": "polycipiviridae-a-proposed-new-family-of-polycistronic-picorna-like-rna-viruses_2017",
+  "type": "paper",
+  "url": "https://doi.org/10.1099/jgv.0.000902",
+  "doi": "10.1099/jgv.0.000902",
+  "bibtex": "@article{Olendraite_2017, title={Polycipiviridae: a proposed new family of polycistronic picorna-like RNA viruses}, volume={98}, ISSN={1465-2099}, url={http://dx.doi.org/10.1099/jgv.0.000902}, DOI={10.1099/jgv.0.000902}, number={9}, journal={Journal of General Virology}, publisher={Microbiology Society}, author={Olendraite, Ingrida and Lukhovitskaya, Nina I. and Porter, Sanford D. and Valles, Steven M. and Firth, Andrew E.}, year={2017}, month=sep, pages={2368–2378} }",
+  "description": "Solenopsis invicta virus 2 is a single-stranded positive-sense picorna-like RNA virus with an unusual genome structure. The monopartite genome of approximately 11 kb contains four open reading frames in its 5′ third, three of which encode proteins with homology to picornavirus-like jelly-roll fold capsid proteins. These are followed by an intergenic region, and then a single long open reading frame that covers the 3′ two-thirds of the genome. The polypeptide translation of this 3′ open reading frame contains motifs characteristic of picornavirus-like helicase, protease and RNA-dependent RNA polymerase domains. An inspection of public transcriptome shotgun assembly sequences revealed five related apparently nearly complete virus genomes isolated from ant species and one from a dipteran insect. By high-throughput sequencing and in silico assembly of RNA isolated from Solenopsis invicta and four other ant species, followed by targeted Sanger sequencing, we obtained nearly complete genomes for four further viruses in the group. Four further sequences were obtained from a recent large-scale invertebrate virus study. The 15 sequences are highly divergent (pairwise amino acid identities of as low as 17 % in the non-structural polyprotein), but possess the same overall polycistronic genome structure, which is distinct from all other characterized picorna-like viruses. Consequently, we propose the formation of a new virus family, Polycipiviridae, to classify this clade of arthropod-infecting polycistronic picorna-like viruses. We further propose that this family be divided into three genera: Chipolycivirus (2 species), Hupolycivirus (2 species) and Sopolycivirus (11 species), with members of the latter infecting ants in at least 3 different subfamilies",
+  "date": "2017-09-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "phylogeny"
+  ],
+  "package_managers": null,
+  "title": "Polycipiviridae: a proposed new family of polycistronic picorna-like RNA viruses",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

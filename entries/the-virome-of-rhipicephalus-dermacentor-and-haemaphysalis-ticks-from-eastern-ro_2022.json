@@ -1,0 +1,21 @@
+{
+  "name": "the-virome-of-rhipicephalus-dermacentor-and-haemaphysalis-ticks-from-eastern-ro_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.1111/tbed.14105",
+  "doi": "10.1111/tbed.14105",
+  "bibtex": "@article{Bratuleanu_2021, title={The virome ofRhipicephalus,DermacentorandHaemaphysalisticks from Eastern Romania includes novel viruses with potential relevance for public health}, volume={69}, ISSN={1865-1682}, url={http://dx.doi.org/10.1111/tbed.14105}, DOI={10.1111/tbed.14105}, number={3}, journal={Transboundary and Emerging Diseases}, publisher={Wiley}, author={Bratuleanu, Bianca Elena and Temmam, Sarah and Chrétien, Delphine and Regnault, Béatrice and Pérot, Philippe and Bouchier, Christiane and Bigot, Thomas and Savuța, Gheorghe and Eloit, Marc}, year={2021}, month=apr, pages={1387–1403} }",
+  "description": "The virome of<i>Rhipicephalus</i>,<i>Dermacentor</i>and<i>Haemaphysalis</i>ticks from Eastern Romania includes novel viruses with potential relevance for public health",
+  "date": "2022-05-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "arthropods",
+    "ticks"
+  ],
+  "package_managers": null,
+  "title": "The virome of Rhipicephalus, Dermacentor and Haemaphysalis ticks from Eastern Romania includes novel viruses with potential relevance for public health",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

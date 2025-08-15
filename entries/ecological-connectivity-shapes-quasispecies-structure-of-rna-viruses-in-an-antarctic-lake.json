@@ -1,0 +1,21 @@
+{
+  "name": "Ecological connectivity shapes quasispecies structure of RNA viruses in an Antarctic lake",
+  "url": "https://doi.org/10.1111/mec.13321",
+  "doi": "10.1111/mec.13321",
+  "bibtex": null,
+  "description": "Ecological connectivity shapes quasispecies structure of <scp>RNA</scp> viruses in an Antarctic lake",
+  "date": "2015-10-01",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

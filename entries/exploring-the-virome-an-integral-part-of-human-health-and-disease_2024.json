@@ -1,0 +1,20 @@
+{
+  "name": "exploring-the-virome-an-integral-part-of-human-health-and-disease_2024",
+  "type": "paper",
+  "url": "https://doi.org/10.1016/j.prp.2024.155466",
+  "doi": "10.1016/j.prp.2024.155466",
+  "bibtex": "@article{Gholamzad_2024, title={Exploring the virome: An integral part of human health and disease}, volume={260}, ISSN={0344-0338}, url={http://dx.doi.org/10.1016/j.prp.2024.155466}, DOI={10.1016/j.prp.2024.155466}, journal={Pathology - Research and Practice}, publisher={Elsevier BV}, author={Gholamzad, Amir and Khakpour, Niloofar and Hashemi, Seyed Mohammad Ali and Goudarzi, Yalda and Ahmadi, Parisa and Gholamzad, Mehrdad and Mohammadi, Mahya and Hashemi, Mehrdad}, year={2024}, month=aug, pages={155466} }",
+  "description": "Exploring the virome: An integral part of human health and disease",
+  "date": "2024-08-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "review"
+  ],
+  "package_managers": null,
+  "title": "Exploring the virome: An integral part of human health and disease",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

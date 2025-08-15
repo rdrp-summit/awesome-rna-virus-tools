@@ -1,13 +1,27 @@
 {
   "name": "VirSorter2",
   "url": "https://github.com/jiarong/VirSorter2",
+  "type": "tool",
   "doi": "10.1186/s40168-020-00990-y",
-  "bibtex": "@article{guo2021virsorter2,\n  title={VirSorter2: a multi-classifier, expert-guided approach to detect diverse DNA and RNA viruses},\n  author={Guo, Jiarong and Bolduc, Benjamin and Zayed, Ahmed A and Varsani, Arvind and Dominguez-Huerta, Guillermo and Delmont, Tom O and Pratama, Akbar Adjie and Gazit{\\'u}a, M Consuelo and Vik, Dean and Sullivan, Matthew B and others},\n  journal={Microbiome},\n  volume={9},\n  number={1},\n  pages={1--13},\n  year={2021},\n  publisher={BioMed Central}\n}",
+  "bibtex": "@article{guo2021virsorter2,  title={VirSorter2: a multi-classifier, expert-guided approach to detect diverse DNA and RNA viruses},  author={Guo, Jiarong and Bolduc, Benjamin and Zayed, Ahmed A and Varsani, Arvind and Dominguez-Huerta, Guillermo and Delmont, Tom O and Pratama, Akbar Adjie and Gazit{\\'u}a, M Consuelo and Vik, Dean and Sullivan, Matthew B and others},  journal={Microbiome},  volume={9},  number={1},  pages={1--13},  year={2021},  publisher={BioMed Central}}",
   "description": "Multi-classifier approach to detect diverse DNA and RNA virus sequences",
   "date": "2021-01-15",
   "version": "2.2.4",
-  "license": "GPL-2.0",
+  "license": null,
   "language": "Python",
-  "topics": ["virus-identification", "multi-classifier", "rna-viruses", "dna-viruses"],
-  "package_managers": ["bioconda"]
+  "topics": [
+    "virus-identification",
+    "multi-classifier",
+    "rna-viruses",
+    "dna-viruses"
+  ],
+  "package_managers": [
+    "bioconda"
+  ],
+  "interface": "CLI",
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null
 }

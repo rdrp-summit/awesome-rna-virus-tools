@@ -1,0 +1,21 @@
+{
+  "name": "New lineages of RNA viruses from clinical isolates of Rhizopus microsporus revealed by fragmented and primer-ligated dsRNA sequencing (FLDS) analysis",
+  "url": "https://example.org",
+  "doi": null,
+  "bibtex": null,
+  "description": "New lineages of RNA viruses from clinical isolates of Rhizopus microsporus revealed by fragmented and primer-ligated dsRNA sequencing (FLDS) analysis.",
+  "date": "2024-07-29",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": "39072615",
+  "type": "paper",
+  "interface": "CLI"
+}

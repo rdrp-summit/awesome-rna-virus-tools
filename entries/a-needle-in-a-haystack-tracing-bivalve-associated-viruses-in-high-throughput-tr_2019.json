@@ -1,0 +1,20 @@
+{
+  "name": "a-needle-in-a-haystack-tracing-bivalve-associated-viruses-in-high-throughput-tr_2019",
+  "type": "paper",
+  "url": "https://doi.org/10.3390/v11030205",
+  "doi": "10.3390/v11030205",
+  "bibtex": "@article{Rosani_2019, title={A Needle in A Haystack: Tracing Bivalve-Associated Viruses in High-Throughput Transcriptomic Data}, volume={11}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v11030205}, DOI={10.3390/v11030205}, number={3}, journal={Viruses}, publisher={MDPI AG}, author={Rosani, Umberto and Shapiro, Maxwell and Venier, Paola and Allam, Bassem}, year={2019}, month=mar, pages={205} }",
+  "description": "Bivalve mollusks thrive in environments rich in microorganisms, such as estuarine and coastal waters, and they tend to accumulate various particles, including viruses. However, the current knowledge on mollusk viruses is mainly centered on few pathogenic viruses, whereas a general view of bivalve-associated viromes is lacking. This study was designed to explore the viral abundance and diversity in bivalve mollusks using transcriptomic datasets. From analyzing RNA-seq data of 58 bivalve species, we have reconstructed 26 nearly complete and over 413 partial RNA virus genomes. Although 96.4% of the predicted viral proteins refer to new viruses, some sequences belong to viruses associated with bivalve species or other marine invertebrates. We considered short non-coding RNAs (sncRNA) and post-transcriptional modifications occurring specifically on viral RNAs as tools for virus host-assignment. We could not identify virus-derived small RNAs in sncRNA reads obtained from the oyster sample richest in viral reads. Single Nucleotide Polymorphism (SNP) analysis revealed 938 A-to-G substitutions occurring on the 26 identified RNA viruses, preferentially impacting the AA di-nucleotide motif. Under-representation analysis revealed that the AA motif is under-represented in these bivalve-associated viruses. These findings improve our understanding of bivalve viromes, and set the stage for targeted investigations on the specificity and dynamics of identified viruses",
+  "date": "2019-03-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "mollosca"
+  ],
+  "package_managers": null,
+  "title": "A Needle in A Haystack: Tracing Bivalve-Associated Viruses in High-Throughput Transcriptomic Data",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

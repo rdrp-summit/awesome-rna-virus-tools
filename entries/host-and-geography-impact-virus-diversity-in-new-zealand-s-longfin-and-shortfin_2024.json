@@ -1,0 +1,20 @@
+{
+  "name": "host-and-geography-impact-virus-diversity-in-new-zealand-s-longfin-and-shortfin_2024",
+  "type": "paper",
+  "url": "https://link.springer.com/article/10.1007/s00705-024-06019-1",
+  "doi": "10.1007/s00705-024-06019-1",
+  "bibtex": "@article{Waller_2024, title={Host and geography impact virus diversity in New Zealand’s longfin and shortfin eels}, volume={169}, ISSN={1432-8798}, url={http://dx.doi.org/10.1007/s00705-024-06019-1}, DOI={10.1007/s00705-024-06019-1}, number={4}, journal={Archives of Virology}, publisher={Springer Science and Business Media LLC}, author={Waller, Stephanie J. and Egan, Eimear and Crow, Shannan and Charsley, Anthony and Lokman, P. Mark and Williams, Erica K. and Holmes, Edward C. and Geoghegan, Jemma L.}, year={2024}, month=mar }",
+  "description": "The fishing and aquaculture industry is vital for global food security, yet viral diseases can result in mass fish die-off events. Determining the viromes of traditionally understudied species, such as fish, enhances our understanding of the global virosphere and the factors that influence virome composition and disease emergence. Very little is known about the viruses present in New Zealand’s native fish species, including the shortfin eel (Anguilla australis) and the longfin eel (Anguilla dieffenbachii), both of which are fished culturally by Māori (the indigenous population of New Zealand) and commercially. Through a total RNA metatranscriptomic analysis of longfin and shortfin eels across three different geographic locations in the South Island of New Zealand, we aimed to determine whether viruses had jumped between the two eel species and whether eel virome composition was impacted by life stage, species, and geographic location. We identified nine viral species spanning eight different families, thereby enhancing our understanding of eel virus diversity in New Zealand and the host range of these viral families. Viruses of the family Flaviviridae (genus Hepacivirus) were widespread and found in both longfin and shortfin eels, indicative of cross-species transmission or virus-host co-divergence. Notably, both host specificity and geographic location appeared to influence eel virome composition, highlighting the complex interaction between viruses, hosts, and their ecosystems. This study broadens our understanding of viromes in aquatic hosts and highlights the importance of gaining baseline knowledge of fish viral abundance and diversity, particularly in aquatic species that are facing population declines",
+  "date": "2024-04-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "fish"
+  ],
+  "package_managers": null,
+  "title": "Host and geography impact virus diversity in New Zealand’s longfin and shortfin eels",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

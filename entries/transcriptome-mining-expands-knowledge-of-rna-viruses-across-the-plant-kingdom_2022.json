@@ -1,0 +1,20 @@
+{
+  "name": "transcriptome-mining-expands-knowledge-of-rna-viruses-across-the-plant-kingdom_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/jvi.00260-22",
+  "doi": "10.1128/jvi.00260-22",
+  "bibtex": "@article{Mifsud_2022, title={Transcriptome Mining Expands Knowledge of RNA Viruses across the Plant Kingdom}, volume={96}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/jvi.00260-22}, DOI={10.1128/jvi.00260-22}, number={24}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Mifsud, Jonathon C. O. and Gallagher, Rachael V. and Holmes, Edward C. and Geoghegan, Jemma L.}, editor={Simon, Anne E.}, year={2022}, month=dec }",
+  "description": "Our knowledge of plant viruses is mainly limited to those infecting economically important host species. In particular, we know little about those viruses infecting basal plant lineages such as the ferns, lycophytes, bryophytes, and charophytes",
+  "date": "2022-12-21",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "plants"
+  ],
+  "package_managers": null,
+  "title": "Transcriptome Mining Expands Knowledge of RNA Viruses across the Plant Kingdom",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

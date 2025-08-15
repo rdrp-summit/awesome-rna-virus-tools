@@ -1,0 +1,20 @@
+{
+  "name": "the-virome-from-a-collection-of-endomycorrhizal-fungi-reveals-new-viral-taxa-wit_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.1093/ve/veaa076",
+  "doi": "10.1093/ve/veaa076",
+  "bibtex": "@article{Sutela_2020, title={The virome from a collection of endomycorrhizal fungi reveals new viral taxa with unprecedented genome organization}, volume={6}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veaa076}, DOI={10.1093/ve/veaa076}, number={2}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Sutela, Suvi and Forgia, Marco and Vainio, Eeva J and Chiapello, Marco and Daghino, Stefania and Vallino, Marta and Martino, Elena and Girlanda, Mariangela and Perotto, Silvia and Turina, Massimo}, year={2020}, month=jul }",
+  "description": "   Mutualistic plant-associated fungi are recognized as important drivers in plant evolution, diversity, and health. The discovery that mycoviruses can take part and play important roles in symbiotic tripartite interactions has prompted us to study the viromes associated with a collection of ericoid and orchid mycorrhizal (ERM and ORM, respectively) fungi. Our study, based on high-throughput sequencing of transcriptomes (RNAseq) from fungal isolates grown in axenic cultures, revealed in both ERM and ORM fungi the presence of new mycoviruses closely related to already classified virus taxa, but also new viruses that expand the boundaries of characterized RNA virus diversity to previously undescribed evolutionary trajectories. In ERM fungi, we provide first evidence of a bipartite virus, distantly related to narnaviruses, that splits the RNA-dependent RNA polymerase (RdRP) palm domain into two distinct proteins, encoded by each of the two segments. Furthermore, in one isolate of the ORM fungus Tulasnella spp. we detected a 12 kb genomic fragment coding for an RdRP with features of bunyavirus-like RdRPs. However, this 12 kb genomic RNA has the unique features, for Bunyavirales members, of being tri-cistronic and carrying ORFs for the putative RdRP and putative nucleocapsid in ambisense orientation on the same genomic RNA. Finally, a number of ORM fungal isolates harbored a group of ambisense bicistronic viruses with a genomic size of around 5 kb, where we could identify a putative RdRP palm domain that has some features of plus strand RNA viruses; these new viruses may represent a new lineage in the Riboviria, as they could not be reliably assigned to any of the branches in the recently derived monophyletic tree that includes most viruses with an RNA genome",
+  "date": "2020-07-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "fungi"
+  ],
+  "package_managers": null,
+  "title": "The virome from a collection of endomycorrhizal fungi reveals new viral taxa with unprecedented genome organization",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

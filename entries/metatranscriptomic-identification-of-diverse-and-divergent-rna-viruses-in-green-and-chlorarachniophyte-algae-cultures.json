@@ -1,0 +1,21 @@
+{
+  "name": "Metatranscriptomic Identification of Diverse and Divergent RNA Viruses in Green and Chlorarachniophyte Algae Cultures",
+  "url": "https://doi.org/10.3390/v12101180",
+  "doi": "10.3390/v12101180",
+  "bibtex": null,
+  "description": "Metatranscriptomic Identification of Diverse and Divergent RNA Viruses in Green and Chlorarachniophyte Algae Cultures",
+  "date": "2020-10-19",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

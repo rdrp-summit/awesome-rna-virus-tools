@@ -1,0 +1,20 @@
+{
+  "name": "the-distribution-and-evolution-of-viruses-associated-with-drosophila-melanogast_2015",
+  "type": "paper",
+  "url": "https://doi.org/10.1371/journal.pbio.1002210",
+  "doi": "10.1371/journal.pbio.1002210",
+  "bibtex": "@article{Webster_2015, title={The Discovery, Distribution, and Evolution of Viruses Associated with Drosophila melanogaster}, volume={13}, ISSN={1545-7885}, url={http://dx.doi.org/10.1371/journal.pbio.1002210}, DOI={10.1371/journal.pbio.1002210}, number={7}, journal={PLOS Biology}, publisher={Public Library of Science (PLoS)}, author={Webster, Claire L. and Waldron, Fergal M. and Robertson, Shaun and Crowson, Daisy and Ferrari, Giada and Quintana, Juan F. and Brouqui, Jean-Michel and Bayne, Elizabeth H. and Longdon, Ben and Buck, Amy H. and Lazzaro, Brian P. and Akorli, Jewelna and Haddrill, Penelope R. and Obbard, Darren J.}, editor={Malik, Harmit S.}, year={2015}, month=jul, pages={e1002210} }",
+  "description": "The Discovery, Distribution, and Evolution of Viruses Associated with Drosophila melanogaster",
+  "date": "2015-07-14",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "insect"
+  ],
+  "package_managers": null,
+  "title": "The Distribution, and Evolution of Viruses Associated with Drosophila melanogaster",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

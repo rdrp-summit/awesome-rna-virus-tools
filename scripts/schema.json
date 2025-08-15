@@ -3,7 +3,12 @@
   "title": "RNA Virus Tool Entry Schema",
   "description": "Schema for individual tool entries in the awesome-rna-virus-tools repository",
   "type": "object",
-  "required": ["name", "url", "description", "topics"],
+  "required": [
+    "name",
+    "url",
+    "description",
+    "topics"
+  ],
   "properties": {
     "name": {
       "type": "string",
@@ -15,11 +20,17 @@
       "description": "URL to the tool's homepage or repository"
     },
     "doi": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "DOI of the associated publication"
     },
     "bibtex": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "BibTeX citation for the tool"
     },
     "description": {
@@ -27,72 +38,120 @@
       "description": "Brief description of what the tool does"
     },
     "date": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "format": "date",
       "description": "Publication or release date (YYYY-MM-DD format)"
     },
     "version": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Latest version of the tool"
     },
     "license": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Software license"
     },
     "language": {
-      "type": ["string", "null"],
+      "type": [
+        "string",
+        "null"
+      ],
       "description": "Primary programming language"
     },
     "package_managers": {
-      "type": ["array", "null"],
+      "type": [
+        "array",
+        "null"
+      ],
       "items": {
         "type": "string",
-        "enum": ["pip", "conda", "bioconda", "npm", "cran", "cpan", "gem", "cargo", "go", "homebrew", "apt", "yum", "docker", "singularity", "github", "source"]
+        "enum": [
+          "pip",
+          "conda",
+          "bioconda",
+          "npm",
+          "cran",
+          "cpan",
+          "gem",
+          "cargo",
+          "go",
+          "homebrew",
+          "apt",
+          "yum",
+          "docker",
+          "singularity",
+          "github",
+          "source",
+          "null"
+        ]
       },
       "description": "Package managers through which the tool can be installed"
     },
-    "package_manager": {
-      "type": ["string", "null"],
-      "enum": ["pip", "conda", "bioconda", "npm", "cran", "cpan", "gem", "cargo", "go", "homebrew", "apt", "yum", "docker", "singularity", "github", "source"],
-      "description": "DEPRECATED: Use package_managers array instead. Single package manager for backward compatibility"
-    },
-    "installation_methods": {
-      "type": ["array", "null"],
-      "items": {
-        "type": "string",
-        "enum": ["source", "binary", "container", "web-service", "cloud-platform"]
-      },
-      "description": "Available installation methods"
-    },
-    "platforms": {
-      "type": ["array", "null"],
-      "items": {
-        "type": "string",
-        "enum": ["linux", "macos", "windows", "web", "cloud"]
-      },
-      "description": "Supported platforms"
-    },
     "input_formats": {
-      "type": ["array", "null"],
+      "type": [
+        "array",
+        "null"
+      ],
       "items": {
         "type": "string"
       },
       "description": "Supported input file formats (e.g., FASTA, FASTQ, SAM, BAM)"
     },
     "output_formats": {
-      "type": ["array", "null"],
+      "type": [
+        "array",
+        "null"
+      ],
       "items": {
         "type": "string"
       },
       "description": "Generated output file formats"
     },
     "topics": {
-      "type": "array",
+      "type": [
+        "array",
+        "null"
+      ],
       "items": {
         "type": "string"
       },
-      "description": "List of topics/categories this tool belongs to",
-      "minItems": 1
+      "description": "List of topics/categories this tool belongs to"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "tool",
+        "database",
+        "paper"
+      ],
+      "description": "Category of the entry"
+    },
+    "interface": {
+      "type": [
+        "array",
+        "null"
+      ],
+      "items": {
+        "type": "string",
+        "enum": [
+          "CLI",
+          "TUI",
+          "gui",
+          "Nextflow",
+          "snakemake",
+          "Web Interface",
+          "null"
+        ]
+      },
+      "description": "interface type"
     }
   }
 }

@@ -1,0 +1,21 @@
+{
+  "name": "global-phylogenetic-analysis-of-the-rna-dependent-rna-polymerase-with-orvit-ort_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.3389/fviro.2022.981177",
+  "doi": "10.3389/fviro.2022.981177",
+  "bibtex": "@article{Cheng_2022, title={Global phylogenetic analysis of the RNA-dependent RNA polymerase with OrViT (OrthornaVirae Tree)}, volume={2}, ISSN={2673-818X}, url={http://dx.doi.org/10.3389/fviro.2022.981177}, DOI={10.3389/fviro.2022.981177}, journal={Frontiers in Virology}, publisher={Frontiers Media SA}, author={Cheng, Dong-Qiang and Kolundžija, Sandra and Lauro, Federico M.}, year={2022}, month=sep }",
+  "description": "Viruses of the kingdom Orthornavirae are the causative agents of many diseases in humans, animals and plants and play an important role in the ecology of the biosphere. Novel orthornaviral viral sequences are constantly being discovered from environmental datasets, but generating high-quality and comprehensive phylogenetic trees of Orthornavirae to resolve their taxonomic and phylogenetic relationships is still a challenge. To assist microbial ecologists and virologists with this task, we developed OrViT (OrthornaVirae Tree), a pipeline that integrates and updates published methods and bridges various public software to generate a global phylogenetic tree of the RNA-dependent RNA polymerase (RdRp) encoded by all orthornaviral genomes. The pipeline can infer the phylogenetic relationships between RdRp sequences extracted from the RefSeq viral database and the users’ own assembled contigs or protein datasets. The results from OrViT can be used for the taxonomic identification of novel viruses and suggest revisions of the existing phylogeny of RNA viruses. OrViT includes several Perl and Bash scripts assembled into a Makefile, making it portable between different Linux-based operating systems and easy to use. OrViT is freely available from <jats:uri>https://github.com/chengdongqiang/OrViT</jats:uri>",
+  "date": "2022-09-05",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "phylogeny",
+    "tool"
+  ],
+  "package_managers": null,
+  "title": "Global phylogenetic analysis of the RNA-dependent RNA polymerase with OrViT (OrthornaVirae Tree)",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

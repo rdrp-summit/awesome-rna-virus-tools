@@ -1,0 +1,21 @@
+{
+  "name": "Arthropods and the evolution of RNA viruses",
+  "url": "https://doi.org/10.1101/2021.05.30.446314",
+  "doi": "10.1101/2021.05.30.446314",
+  "bibtex": null,
+  "description": "Arthropods and the evolution of RNA viruses",
+  "date": null,
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

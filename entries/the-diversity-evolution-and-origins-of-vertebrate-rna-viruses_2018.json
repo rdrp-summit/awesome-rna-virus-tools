@@ -1,0 +1,21 @@
+{
+  "name": "the-diversity-evolution-and-origins-of-vertebrate-rna-viruses_2018",
+  "type": "paper",
+  "url": "https://doi.org/10.1016/j.coviro.2018.07.017",
+  "doi": "10.1016/j.coviro.2018.07.017",
+  "bibtex": "@article{Zhang_2018, title={The diversity, evolution and origins of vertebrate RNA viruses}, volume={31}, ISSN={1879-6257}, url={http://dx.doi.org/10.1016/j.coviro.2018.07.017}, DOI={10.1016/j.coviro.2018.07.017}, journal={Current Opinion in Virology}, publisher={Elsevier BV}, author={Zhang, Yong-Zhen and Wu, Wei-Chen and Shi, Mang and Holmes, Edward C}, year={2018}, month=aug, pages={9–16} }",
+  "description": "The diversity, evolution and origins of vertebrate RNA viruses",
+  "date": "2018-08-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "vertebrate",
+    "phylogeny"
+  ],
+  "package_managers": null,
+  "title": "The diversity, evolution and origins of vertebrate RNA viruses",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

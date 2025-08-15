@@ -1,0 +1,21 @@
+{
+  "name": "rdrp-scan-a-bioinformatic-resource-to-identify-and-annotate-divergent-rna-virus_2022",
+  "type": "database",
+  "url": "https://github.com/JustineCharon/RdRp-scan/",
+  "doi": "10.1093/ve/veac082",
+  "bibtex": "@article{Charon_2022, title={RdRp-scan: A bioinformatic resource to identify and annotate divergent RNA viruses in metagenomic sequence data}, volume={8}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veac082}, DOI={10.1093/ve/veac082}, number={2}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Charon, Justine and Buchmann, Jan P and Sadiq, Sabrina and Holmes, Edward C}, year={2022}, month=jul }",
+  "description": "A bioinformatic resource, including a curated dataset and HMM profiles, for identifying and annotating diverse RNA viruses in metagenomic data.",
+  "date": "2022-10-20",
+  "version": null,
+  "license": "CC BY 4.0",
+  "language": "English",
+  "topics": [
+    "database",
+    "pHMM"
+  ],
+  "package_managers": null,
+  "title": "RdRp-scan: A Bioinformatic Resource to Identify and Annotate Divergent RNA Viruses in Metagenomic Sequence Data",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

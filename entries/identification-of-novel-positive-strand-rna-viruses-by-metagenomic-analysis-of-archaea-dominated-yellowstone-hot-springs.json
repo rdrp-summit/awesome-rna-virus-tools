@@ -1,0 +1,21 @@
+{
+  "name": "Identification of novel positive-strand RNA viruses by metagenomic analysis of archaea-dominated Yellowstone hot springs",
+  "url": "https://doi.org/10.1128/jvi.07196-11",
+  "doi": "10.1128/JVI.07196-11",
+  "bibtex": null,
+  "description": "Identification of Novel Positive-Strand RNA Viruses by Metagenomic Analysis of Archaea-Dominated Yellowstone Hot Springs",
+  "date": "2012-05-15",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

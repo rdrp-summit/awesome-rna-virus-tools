@@ -1,0 +1,23 @@
+{
+  "name": "Accumulated metagenomic studies reveal recent migration, whole genome evolution, and undiscovered diversity of orthomyxoviruses",
+  "url": "https://doi.org/10.1128/jvi.01056-23",
+  "doi": "10.1128/jvi.01056-23",
+  "bibtex": null,
+  "description": "Accumulated metagenomic studies reveal recent migration, whole genome evolution, and undiscovered diversity of orthomyxoviruses",
+  "date": "2023-10-13",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics": [
+    "orthomyxoviridae"
+  ],
+  "pmid": "37830816",
+  "type": "paper",
+  "interface": "CLI"
+}

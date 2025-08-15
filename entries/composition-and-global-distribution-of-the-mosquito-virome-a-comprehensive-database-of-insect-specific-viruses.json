@@ -1,0 +1,21 @@
+{
+  "name": "Composition and global distribution of the mosquito virome - A comprehensive database of insect-specific viruses",
+  "url": "https://doi.org/10.1016/j.onehlt.2023.100490",
+  "doi": "10.1016/j.onehlt.2023.100490",
+  "bibtex": null,
+  "description": "Composition and global distribution of the mosquito virome - A comprehensive database of insect-specific viruses",
+  "date": "2023-06-01",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "database",
+  "interface": "CLI"
+}

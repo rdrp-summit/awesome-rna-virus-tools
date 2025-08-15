@@ -1,0 +1,20 @@
+{
+  "name": "high-diversity-of-unknown-picorna-like-viruses-in-the-sea_2003",
+  "type": "paper",
+  "url": "https://doi.org/10.1038/nature01886",
+  "doi": "10.1038/nature01886",
+  "bibtex": "@article{Culley_2003, title={High diversity of unknown picorna-like viruses in the sea}, volume={424}, ISSN={1476-4687}, url={http://dx.doi.org/10.1038/nature01886}, DOI={10.1038/nature01886}, number={6952}, journal={Nature}, publisher={Springer Science and Business Media LLC}, author={Culley, Alexander I. and Lang, Andrew S. and Suttle, Curtis A.}, year={2003}, month=aug, pages={1054–1057} }",
+  "description": "High diversity of unknown picorna-like viruses in the sea",
+  "date": "2003-08-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "marine"
+  ],
+  "package_managers": null,
+  "title": "High diversity of unknown picorna-like viruses in the sea",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

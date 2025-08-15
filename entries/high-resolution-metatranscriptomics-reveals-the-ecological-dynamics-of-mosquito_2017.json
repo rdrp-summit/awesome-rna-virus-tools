@@ -1,0 +1,20 @@
+{
+  "name": "high-resolution-metatranscriptomics-reveals-the-ecological-dynamics-of-mosquito_2017",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/JVI.00680-17",
+  "doi": "10.1128/JVI.00680-17",
+  "bibtex": "@article{Shi_2017, title={High-Resolution Metatranscriptomics Reveals the Ecological Dynamics of Mosquito-Associated RNA Viruses in Western Australia}, volume={91}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.00680-17}, DOI={10.1128/jvi.00680-17}, number={17}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Shi, Mang and Neville, Peter and Nicholson, Jay and Eden, John-Sebastian and Imrie, Allison and Holmes, Edward C.}, editor={Lyles, Douglas S.}, year={2017}, month=sep }",
+  "description": "Mosquitoes harbor a high diversity of RNA viruses, including many that impact human health. Despite a growing effort to describe the extent and nature of the mosquito virome, little is known about how these viruses persist, spread, and interact with both their hosts and other microbes. To address this issue we performed a metatranscriptomics analysis of 12 Western Australian mosquito populations structured by species and geographic location. Our results identified the complete genomes of 24 species of RNA viruses from a diverse range of viral families and orders, among which 19 are newly described. Comparisons of viromes revealed a striking difference between the two mosquito genera, with viromes of mosquitoes of theAedesgenus exhibiting substantially less diversity and lower abundances than those of mosquitoes of theCulexgenus, within which the viral abundance reached 16.87% of the total non-rRNA. In addition, there was little overlap in viral diversity between the two genera, although the viromes were very similar among the threeCulexspecies studied, suggesting that the host taxon plays a major role in structuring virus diversity. In contrast, we found no evidence that geographic location played a major role in shaping RNA virus diversity, and several viruses discovered here exhibited high similarity (95 to 98% nucleotide identity) to those from Indonesia and China. Finally, using abundance-level and phylogenetic relationships, we were able to distinguish potential mosquito viruses from those present in coinfecting bacteria, fungi, and protists. In sum, our metatranscriptomics approach provides important insights into the ecology of mosquito RNA viruses.Studies of virus ecology have generally focused on individual viral species. However, recent advances in bulk RNA sequencing make it possible to utilize metatranscriptomic approaches to reveal both complete virus diversity and the relative abundance of these viruses. We used such a metatranscriptomic approach to determine key aspects of the ecology of mosquito viruses in Western Australia. Our results show that RNA viruses are some of the most important components of the mosquito transcriptome, and we identified 19 new virus species from a diverse set of virus families. A key result was that host genetic background plays a more important role in shaping virus diversity than sampling location, withCulexspecies harboring more viruses at higher abundance than those fromAedesmosquitoes",
+  "date": "2017-09-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "mosquito"
+  ],
+  "package_managers": null,
+  "title": "High-Resolution Metatranscriptomics Reveals the Ecological Dynamics of Mosquito-Associated RNA Viruses in Western Australia",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

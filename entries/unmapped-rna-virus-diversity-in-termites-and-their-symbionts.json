@@ -1,0 +1,21 @@
+{
+  "name": "Unmapped RNA Virus Diversity in Termites and their Symbionts",
+  "url": "https://doi.org/10.3390/v12101145",
+  "doi": "10.3390/v12101145",
+  "bibtex": null,
+  "description": "Unmapped RNA Virus Diversity in Termites and Their Symbionts",
+  "date": "2020-10-09",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

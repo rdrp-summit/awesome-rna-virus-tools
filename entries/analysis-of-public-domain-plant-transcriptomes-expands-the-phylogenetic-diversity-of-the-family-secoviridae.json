@@ -1,0 +1,21 @@
+{
+  "name": "Analysis of public domain plant transcriptomes expands the phylogenetic diversity of the family Secoviridae",
+  "url": "https://doi.org/10.21203/rs.3.rs-1588061/v1",
+  "doi": "10.21203/rs.3.rs-1588061/v1",
+  "bibtex": null,
+  "description": "Analysis of public domain plant transcriptomes expands the phylogenetic diversity of the family Secoviridae",
+  "date": null,
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

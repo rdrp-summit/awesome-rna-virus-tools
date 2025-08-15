@@ -1,0 +1,21 @@
+{
+  "name": "divergent-hepaciviruses-delta-like-viruses-and-a-chu-like-virus-in-australian_2023",
+  "type": "paper",
+  "url": "https://doi.org/10.1093/ve/vead061",
+  "doi": "10.1093/ve/vead061",
+  "bibtex": "@article{Harvey_2023, title={Divergent hepaciviruses, delta-like viruses and a chu-like virus in Australian marsupial carnivores (dasyurids)}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/vead061}, DOI={10.1093/ve/vead061}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Harvey, Erin and Mifsud, Jonathon C.O and Holmes, Edward C and Mahar, Jackie E}, year={2023}, month=oct }",
+  "description": "   Although Australian marsupials are characterised by unique biology and geographic isolation, little is known about the viruses present in these iconic wildlife species. The Dasyuromorphia are an order of marsupial carnivores found only in Australia that include both the extinct Tasmanian tiger (Thylacine) and the highly threatened Tasmanian devil. Several other members of the order are similarly under threat of extinction due to habitat loss, hunting, disease, and competition and predation by introduced species such as feral cats. We utilised publicly available RNA-seq data from the NCBI Sequence Read Archive (SRA) database to document the viral diversity within four Dasyuromorph species. Accordingly, we identified 15 novel virus sequences from five DNA virus families (Adenoviridae, Anelloviridae, Gammaherpesvirinae, Papillomaviridae and Polyomaviridae) and three RNA virus taxa: the order Jingchuvirales, the genus Hepacivirus, and the delta-like virus group. Of particular note was the identification of a marsupial specific clade of delta-like viruses that may indicate an association of deltaviruses with marsupial species. In addition, we identified a highly divergent hepacivirus in a numbat liver transcriptome that falls outside of the larger mammalian clade. We also detect what may be the first Jingchuvirales virus in a mammalian host – a chu-like virus in Tasmanian devils – thereby expanding the host range beyond invertebrates and ectothermic vertebrates. As many of these Dasyuromorphia species are currently being used in translocation efforts to reseed populations across Australia, understanding their virome is of key importance to prevent the spread of viruses to naive populations",
+  "date": "2023-10-14",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "hepacivirus",
+    "marsupial"
+  ],
+  "package_managers": null,
+  "title": "Divergent hepaciviruses, delta-like viruses, and a chu-like virus in Australian marsupial carnivores (dasyurids)",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,20 @@
+{
+  "name": "viral-discovery-in-the-invasive-australian-cane-toad-rhinella-marina-using-met_2018",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/JVI.00768-18",
+  "doi": "10.1128/JVI.00768-18",
+  "bibtex": "@article{Russo_2018, title={Viral Discovery in the Invasive Australian Cane Toad (Rhinella marina) Using Metatranscriptomic and Genomic Approaches}, volume={92}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.00768-18}, DOI={10.1128/jvi.00768-18}, number={17}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Russo, Alice G. and Eden, John-Sebastian and Enosi Tuipulotu, Daniel and Shi, Mang and Selechnik, Daniel and Shine, Richard and Rollins, Lee Ann and Holmes, Edward C. and White, Peter A.}, editor={Pfeiffer, Julie K.}, year={2018}, month=sep }",
+  "description": "Cane toads are poisonous amphibians that were introduced to Australia in 1935 for insect control. Since then, their population has increased dramatically, and they now threaten many native Australian species. One potential method to control the population is to release a cane toad virus with high mortality rates, yet few cane toad viruses have been characterized. This study samples cane toads from different Australian locations and uses an RNA sequencing and computational approach to find new viruses. We report novel complete picornavirus and retrovirus sequences that were genetically similar to viruses infecting frogs, reptiles, and fish. Using data generated in other studies, we show that these viral sequences are present in cane toads from distinct Australian locations. Three sequences related to circoviruses were also found in the toad genome. The identification of new viral sequences will aid future studies that investigate their prevalence and potential as agents for biocontrol",
+  "date": "2018-09-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Amphibians"
+  ],
+  "package_managers": null,
+  "title": "Viral Discovery in the Invasive Australian Cane Toad (Rhinella marina) Using Metatranscriptomic and Genomic Approaches",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

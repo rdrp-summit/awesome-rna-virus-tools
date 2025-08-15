@@ -1,0 +1,20 @@
+{
+  "name": "a-world-of-viruses-nested-within-parasites-unraveling-viral-diversity-within-pa_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/spectrum.00138-22",
+  "doi": "10.1128/spectrum.00138-22",
+  "bibtex": "@article{Dheilly_2022, title={A World of Viruses Nested within Parasites: Unraveling Viral Diversity within Parasitic Flatworms (Platyhelminthes)}, volume={10}, ISSN={2165-0497}, url={http://dx.doi.org/10.1128/spectrum.00138-22}, DOI={10.1128/spectrum.00138-22}, number={3}, journal={Microbiology Spectrum}, publisher={American Society for Microbiology}, author={Dheilly, Nolwenn M. and Lucas, Pierrick and Blanchard, Yannick and Rosario, Karyna}, editor={He, Biao}, year={2022}, month=jun }",
+  "description": "Little is known about the diversity of parasite-associated viruses and how these viruses may impact parasite fitness, parasite-host interactions, and virus evolution. The discovery of over a hundred viruses associated with a range of free-living and parasitic flatworms, including parasites of economic and clinical relevance, allowed us to compare the viromes of flatworms with contrasting lifestyles",
+  "date": "2022-06-29",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "parasite"
+  ],
+  "package_managers": null,
+  "title": "A World of Viruses Nested within Parasites: Unraveling Viral Diversity within Parasitic Flatworms (Platyhelminthes)",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

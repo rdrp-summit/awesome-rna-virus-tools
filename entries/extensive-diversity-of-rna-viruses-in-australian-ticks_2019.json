@@ -1,0 +1,20 @@
+{
+  "name": "extensive-diversity-of-rna-viruses-in-australian-ticks_2019",
+  "type": "paper",
+  "url": "https://doi.org/10.1128/JVI.01358-18",
+  "doi": "10.1128/JVI.01358-18",
+  "bibtex": "@article{Harvey_2019, title={Extensive Diversity of RNA Viruses in Australian Ticks}, volume={93}, ISSN={1098-5514}, url={http://dx.doi.org/10.1128/JVI.01358-18}, DOI={10.1128/jvi.01358-18}, number={3}, journal={Journal of Virology}, publisher={American Society for Microbiology}, author={Harvey, Erin and Rose, Karrie and Eden, John-Sebastian and Lo, Nathan and Abeyasuriya, Thilanka and Shi, Mang and Doggett, Stephen L. and Holmes, Edward C.}, editor={García-Sastre, Adolfo}, year={2019}, month=feb }",
+  "description": "Each year a growing number of individuals along the east coast of Australia experience debilitating disease following tick bites. As there is no evidence for the presence of the causative agent of Lyme disease,Borrelia burgdorferisensu lato, in Australian ticks, the etiological basis of this disease syndrome remains controversial. To characterize the viruses associated with Australian ticks, particularly those that might be associated with mammalian infection, we performed unbiased RNA sequencing on 146 ticks collected across two locations along the coast of New South Wales, Australia. This revealed 19 novel RNA viruses from a diverse set of families. Notably, three of these viruses clustered with known mammalian viruses, including a novel coltivirus that was related to the human pathogen Colorado tick fever virus",
+  "date": "2019-02-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "arthropods"
+  ],
+  "package_managers": null,
+  "title": "Extensive Diversity of RNA Viruses in Australian Ticks",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

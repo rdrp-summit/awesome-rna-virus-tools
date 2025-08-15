@@ -1,0 +1,21 @@
+{
+  "name": "host-phylogeny-shapes-viral-transmission-networks-in-an-island-ecosystem_2023",
+  "type": "paper",
+  "url": "https://www.nature.com/articles/s41559-023-02192-9",
+  "doi": "10.1038/s41559-023-02192-9",
+  "bibtex": "@article{French_2023, title={Host phylogeny shapes viral transmission networks in an island ecosystem}, volume={7}, ISSN={2397-334X}, url={http://dx.doi.org/10.1038/s41559-023-02192-9}, DOI={10.1038/s41559-023-02192-9}, number={11}, journal={Nature Ecology &amp; Evolution}, publisher={Springer Science and Business Media LLC}, author={French, Rebecca K. and Anderson, Sandra H. and Cain, Kristal E. and Greene, Terry C. and Minor, Maria and Miskelly, Colin M. and Montoya, Jose M. and Wille, Michelle and Muller, Chris G. and Taylor, Michael W. and Digby, Andrew and Crane, Jodie and Davitt, Galen and Eason, Daryl and Hedman, Petrus and Jeynes, Bronnie and Latimer, Scott and Little, Sarah and Mitchell, Michael and Osborne, Jake and Philp, Brodie and Salton, Alyssa and Uddstrom, Lydia and Vercoe, Deidre and Webster, Alex and Holmes, Edward C.}, year={2023}, month=sep, pages={1834–1843} }",
+  "description": "Virus transmission between host species underpins disease emergence. Both host phylogenetic relatedness and aspects of their ecology, such as species interactions and predator–prey relationships, may govern rates and patterns of cross-species virus transmission and hence zoonotic risk. To address the impact of host phylogeny and ecology on virus diversity and evolution, we characterized the virome structure of a relatively isolated island ecological community in Fiordland, New Zealand, that are linked through a food web. We show that phylogenetic barriers that inhibited cross-species virus transmission occurred at the level of host phyla (between the Chordata, Arthropoda and Streptophyta) as well as at lower taxonomic levels. By contrast, host ecology, manifest as predator–prey interactions and diet, had a smaller influence on virome composition, especially at higher taxonomic levels. The virus–host community comprised a ‘small world’ network, in which hosts with a high diversity of viruses were more likely to acquire new viruses, and generalist viruses that infect multiple hosts were more likely to infect additional species compared to host specialist viruses. Such a highly connected ecological community increases the likelihood of cross-species virus transmission, particularly among closely related species, and suggests that host generalist viruses present the greatest risk of disease emergence",
+  "date": "2023-09-07",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "ecology",
+    "phylogeny"
+  ],
+  "package_managers": null,
+  "title": "Host phylogeny shapes viral transmission networks in an island ecosystem",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

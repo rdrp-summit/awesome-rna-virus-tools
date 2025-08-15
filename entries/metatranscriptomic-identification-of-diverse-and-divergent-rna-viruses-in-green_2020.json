@@ -1,0 +1,20 @@
+{
+  "name": "metatranscriptomic-identification-of-diverse-and-divergent-rna-viruses-in-green_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.3390/v12101180",
+  "doi": "10.3390/v12101180",
+  "bibtex": "@article{Charon_2020, title={Metatranscriptomic Identification of Diverse and Divergent RNA Viruses in Green and Chlorarachniophyte Algae Cultures}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12101180}, DOI={10.3390/v12101180}, number={10}, journal={Viruses}, publisher={MDPI AG}, author={Charon, Justine and Marcelino, Vanessa Rossetto and Wetherbee, Richard and Verbruggen, Heroen and Holmes, Edward C.}, year={2020}, month=oct, pages={1180} }",
+  "description": "Our knowledge of the diversity and evolution of the virosphere will likely increase dramatically with the study of microbial eukaryotes, including the microalgae within which few RNA viruses have been documented. By combining total RNA sequencing with sequence and structural-based homology detection, we identified 18 novel RNA viruses in cultured samples from two major groups of microbial algae: the chlorophytes and the chlorarachniophytes. Most of the RNA viruses identified in the green algae class Ulvophyceae were related to the Tombusviridae and Amalgaviridae viral families commonly associated with land plants. This suggests that the evolutionary history of these viruses extends to divergence events between algae and land plants. Seven Ostreobium sp-associated viruses exhibited sequence similarity to the mitoviruses most commonly found in fungi, compatible with horizontal virus transfer between algae and fungi. We also document, for the first time, RNA viruses associated with chlorarachniophytes, including the first negative-sense (bunya-like) RNA virus in microalgae, as well as a distant homolog of the plant virus Virgaviridae, potentially signifying viral inheritance from the secondary chloroplast endosymbiosis that marked the origin of the chlorarachniophytes. More broadly, these data suggest that the scarcity of RNA viruses in algae results from limited investigation rather than their absence",
+  "date": "2020-10-19",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "algae"
+  ],
+  "package_managers": null,
+  "title": "Metatranscriptomic Identification of Diverse and Divergent RNA Viruses in Green and Chlorarachniophyte Algae Cultures",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

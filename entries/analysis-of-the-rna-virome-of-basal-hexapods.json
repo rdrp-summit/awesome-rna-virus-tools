@@ -1,0 +1,21 @@
+{
+  "name": "Analysis of the RNA virome of basal hexapods",
+  "url": "https://doi.org/10.7717/peerj.8336",
+  "doi": "10.7717/peerj.8336",
+  "bibtex": null,
+  "description": "Analysis of the RNA virome of basal hexapods",
+  "date": "2020-01-09",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "a-catalog-of-tens-of-thousands-of-viruses-from-human-metagenomes-reveals-hidden_2021",
+  "type": "paper",
+  "url": "https://doi.org/10.1073/pnas.2023202118",
+  "doi": "10.1073/pnas.2023202118",
+  "bibtex": "@article{Tisza_2021, title={A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases}, volume={118}, ISSN={1091-6490}, url={http://dx.doi.org/10.1073/pnas.2023202118}, DOI={10.1073/pnas.2023202118}, number={23}, journal={Proceedings of the National Academy of Sciences}, publisher={Proceedings of the National Academy of Sciences}, author={Tisza, Michael J. and Buck, Christopher B.}, year={2021}, month=jun }",
+  "description": "Mechanisms of many human chronic diseases involve abnormal action of the immune system and/or altered metabolism. The microbiome, an important regulator of metabolic and immune-related phenotypes, has been shown to be associated with or participate in the development of a variety of chronic diseases. Viruses of bacteria (i.e., “phages”) are ubiquitous and mysterious, and several studies have shown that phages exert great control over the behavior—and misbehavior—of their host bacteria. This study uses techniques to discover and analyze over 45,000 viruses associated with human bodies. The abundance of over 2,000 specific phages is found to correlate with a variety of common chronic diseases",
+  "date": "2021-06-08",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "human"
+  ],
+  "package_managers": null,
+  "title": "A catalog of tens of thousands of viruses from human metagenomes reveals hidden associations with chronic diseases",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

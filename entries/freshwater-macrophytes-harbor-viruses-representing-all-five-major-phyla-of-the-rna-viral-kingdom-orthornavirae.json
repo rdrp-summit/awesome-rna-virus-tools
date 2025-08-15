@@ -1,0 +1,21 @@
+{
+  "name": "Freshwater macrophytes harbor viruses representing all five major phyla of the RNA viral kingdom Orthornavirae",
+  "url": "https://doi.org/10.7717/peerj.13875",
+  "doi": "10.7717/peerj.13875",
+  "bibtex": null,
+  "description": "Freshwater macrophytes harbor viruses representing all five major phyla of the RNA viral kingdom <i>Orthornavirae</i>",
+  "date": "2022-08-16",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

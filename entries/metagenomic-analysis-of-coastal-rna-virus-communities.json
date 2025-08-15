@@ -1,0 +1,21 @@
+{
+  "name": "Metagenomic analysis of coastal RNA virus communities",
+  "url": "https://doi.org/10.1126/science.1127404",
+  "doi": "10.1126/science.1127404",
+  "bibtex": null,
+  "description": "Metagenomic Analysis of Coastal RNA Virus Communities",
+  "date": "2006-06-23",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

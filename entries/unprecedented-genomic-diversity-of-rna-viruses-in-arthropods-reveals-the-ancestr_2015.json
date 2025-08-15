@@ -1,0 +1,21 @@
+{
+  "name": "unprecedented-genomic-diversity-of-rna-viruses-in-arthropods-reveals-the-ancestr_2015",
+  "type": "paper",
+  "url": "https://doi.org/10.7554/eLife.05378",
+  "doi": "10.7554/eLife.05378",
+  "bibtex": "@article{Li_2015, title={Unprecedented genomic diversity of RNA viruses in arthropods reveals the ancestry of negative-sense RNA viruses}, volume={4}, ISSN={2050-084X}, url={http://dx.doi.org/10.7554/eLife.05378}, DOI={10.7554/elife.05378}, journal={eLife}, publisher={eLife Sciences Publications, Ltd}, author={Li, Ci-Xiu and Shi, Mang and Tian, Jun-Hua and Lin, Xian-Dan and Kang, Yan-Jun and Chen, Liang-Jun and Qin, Xin-Cheng and Xu, Jianguo and Holmes, Edward C and Zhang, Yong-Zhen}, year={2015}, month=jan }",
+  "description": "Although arthropods are important viral vectors, the biodiversity of arthropod viruses, as well as the role that arthropods have played in viral origins and evolution, is unclear. Through RNA sequencing of 70 arthropod species we discovered 112 novel viruses that appear to be ancestral to much of the documented genetic diversity of negative-sense RNA viruses, a number of which are also present as endogenous genomic copies. With this greatly enriched diversity we revealed that arthropods contain viruses that fall basal to major virus groups, including the vertebrate-specific arenaviruses, filoviruses, hantaviruses, influenza viruses, lyssaviruses, and paramyxoviruses. We similarly documented a remarkable diversity of genome structures in arthropod viruses, including a putative circular form, that sheds new light on the evolution of genome organization. Hence, arthropods are a major reservoir of viral genetic diversity and have likely been central to viral evolution",
+  "date": "2015-01-29",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "-ssRNA",
+    "arthropods"
+  ],
+  "package_managers": null,
+  "title": "Unprecedented genomic diversity of RNA viruses in arthropods reveals the ancestry of negative-sense RNA viruses",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

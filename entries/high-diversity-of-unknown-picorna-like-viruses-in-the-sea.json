@@ -1,0 +1,21 @@
+{
+  "name": "High diversity of unknown picorna-like viruses in the sea",
+  "url": "https://doi.org/10.1038/nature01886",
+  "doi": "10.1038/nature01886",
+  "bibtex": null,
+  "description": "High diversity of unknown picorna-like viruses in the sea",
+  "date": "2003-08-01",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

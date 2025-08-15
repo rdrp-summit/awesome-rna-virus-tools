@@ -1,0 +1,20 @@
+{
+  "name": "red-fox-viromes-in-urban-and-rural-landscapes_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.1093/ve/veaa065",
+  "doi": "10.1093/ve/veaa065",
+  "bibtex": "@article{Campbell_2020, title={Red fox viromes in urban and rural landscapes}, volume={6}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veaa065}, DOI={10.1093/ve/veaa065}, number={2}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Campbell, Sarah J and Ashley, Wilbur and Gil-Fernandez, Margarita and Newsome, Thomas M and Di Giallonardo, Francesca and Ortiz-Baez, Ayda Susana and Mahar, Jackie E and Towerton, Alison L and Gillings, Michael and Holmes, Edward C and Carthey, Alexandra J R and Geoghegan, Jemma L}, year={2020}, month=jul }",
+  "description": "The Red fox (Vulpes vulpes) has established large populations in Australia’s urban and rural areas since its introduction following European settlement. The cryptic and highly adaptable nature of foxes allows them to invade cities and live among humans whilst remaining largely unnoticed. Urban living and access to anthropogenic food resources also influence fox ecology. Urban foxes grow larger, live at higher densities, and are more social than their rural counterparts. These ecological changes in urban red foxes are likely to impact the pathogens that they harbour, and foxes could pose a disease risk to humans and other species that share these urban spaces. To investigate this possibility, we used a meta-transcriptomic approach to characterise the virome of urban and rural foxes across the Greater Sydney region in Australia. Urban and rural foxes differed significantly in virome composition, with rural foxes harbouring a greater abundance of viruses compared to their urban counterparts. We identified ten potentially novel vertebrate-associated viruses in both urban and rural foxes, some of which are related to viruses associated with disease in domestic species and humans. These included members of the Astroviridae, Picobirnaviridae, Hepeviridae, and Picornaviridae as well as rabbit haemorrhagic disease virus-2. This study sheds light on the viruses carried by urban and rural foxes and emphasises the need for greater genomic surveillance of foxes and other invasive species at the human–wildlife interface",
+  "date": "2020-07-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Mammalia"
+  ],
+  "package_managers": null,
+  "title": "Red fox viromes in urban and rural landscapes",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

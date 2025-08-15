@@ -1,0 +1,20 @@
+{
+  "name": "metagenomic-discovery-and-co-infection-of-diverse-wobbly-possum-disease-viruses_2019",
+  "type": "paper",
+  "url": "https://doi.org/10.1186/s42522-019-0006-x",
+  "doi": "10.1186/s42522-019-0006-x",
+  "bibtex": "@article{Chang_2019, title={Metagenomic discovery and co-infection of diverse wobbly possum disease viruses and a novel hepacivirus in Australian brushtail possums}, volume={1}, ISSN={2524-4655}, url={http://dx.doi.org/10.1186/s42522-019-0006-x}, DOI={10.1186/s42522-019-0006-x}, number={1}, journal={One Health Outlook}, publisher={Springer Science and Business Media LLC}, author={Chang, Wei-Shan and Eden, John-Sebastian and Hartley, William J. and Shi, Mang and Rose, Karrie and Holmes, Edward C.}, year={2019}, month=dec }",
+  "description": "         Australian brushtail possums (Trichosurus vulpecula) are an introduced pest species in New Zealand, but native to Australia where they are protected for biodiversity conservation. Wobbly possum disease (WPD) is a fatal neurological disease of Australian brushtail possums described in New Zealand populations that has been associated with infection by the arterivirus (Arteriviridae) wobbly possum disease virus (WPDV-NZ). Clinically, WPD-infected possums present with chronic meningoencephalitis, choroiditis and multifocal neurological symptoms including ataxia, incoordination, and abnormal gait            We conducted a retrospective investigation to characterise WPD in native Australian brushtail possums, and used a bulk meta-transcriptomic approach (i.e. total RNA-sequencing) to investigate its potential viral aetiology. PCR assays were developed for case diagnosis and full genome recovery in the face of extensive genetic variation            We identified genetically distinct lineages of arteriviruses from archival tissues of WPD-infected possums in Australia, termed wobbly possum disease virus AU1 and AU2. Phylogenetically, WPDV-AU1 and WPDV-AU2 shared only ~ 70% nucleotide similarity to each other and the WPDV-NZ strain, suggestive of a relatively ancient divergence. Notably, we also identified a novel and divergent hepacivirus (Flaviviridae) - the first in a marsupial - in both WPD-infected and uninfected possums, indicative of virus co-infection        <jats:title>Conclusions</jats:title>    We have identified marsupial-specific lineages of arteriviruses in mainland Australia that are genetically distinct from that in New Zealand, in some cases co-infecting animals with a novel hepacivirus. Our study provides new insight into the hidden genetic diversity of arteriviruses, the capacity for virus co-infection, and highlights the utility of meta-transcriptomics for disease investigation in a One Health context   ",
+  "date": "2019-12-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Mammalia"
+  ],
+  "package_managers": null,
+  "title": "Metagenomic discovery and co-infection of diverse wobbly possum disease viruses and a novel hepacivirus in Australian brushtail possums",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

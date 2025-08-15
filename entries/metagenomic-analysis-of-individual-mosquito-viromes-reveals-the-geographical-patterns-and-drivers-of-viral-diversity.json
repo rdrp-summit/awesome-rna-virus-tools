@@ -1,0 +1,21 @@
+{
+  "name": "Metagenomic analysis of individual mosquito viromes reveals the geographical patterns and drivers of viral diversity",
+  "url": "https://www.nature.com/articles/s41559-024-02365-0",
+  "doi": null,
+  "bibtex": null,
+  "description": "Metagenomic analysis of individual mosquito viromes reveals the geographical patterns and drivers of viral diversity",
+  "date": null,
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "gui"
+}

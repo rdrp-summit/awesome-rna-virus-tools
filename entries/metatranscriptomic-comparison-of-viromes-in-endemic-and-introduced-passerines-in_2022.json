@@ -1,0 +1,20 @@
+{
+  "name": "metatranscriptomic-comparison-of-viromes-in-endemic-and-introduced-passerines-in_2022",
+  "type": "paper",
+  "url": "https://doi.org/10.3390/v14071364",
+  "doi": "10.3390/v14071364",
+  "bibtex": "@article{French_2022, title={Metatranscriptomic Comparison of Viromes in Endemic and Introduced Passerines in New Zealand}, volume={14}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v14071364}, DOI={10.3390/v14071364}, number={7}, journal={Viruses}, publisher={MDPI AG}, author={French, Rebecca K. and Filion, Antoine and Niebuhr, Chris N. and Holmes, Edward C.}, year={2022}, month=jun, pages={1364} }",
+  "description": "New Zealand/Aotearoa has many endemic passerine birds vulnerable to emerging infectious diseases. Yet little is known about viruses in passerines, and in some countries, including New Zealand, the virome of wild passerines has been only scarcely researched. Using metatranscriptomic sequencing we characterised the virome of New Zealand endemic and introduced species of passerine. Accordingly, we identified 34 possible avian viruses from cloacal swabs of 12 endemic and introduced bird species not showing signs of disease. These included a novel siadenovirus, iltovirus, and avastrovirus in the Eurasian blackbird (Turdus merula, an introduced species), song thrush (Turdus philomelos, introduced) and silvereye/tauhou (Zosterops lateralis, introduced), respectively. This is the first time novel viruses from these genera have been identified in New Zealand, likely reflecting prior undersampling. It also represents the first identification of an iltovirus and siadenovirus in blackbirds and thrushes globally. These three viruses were only found in introduced species and may pose a risk to endemic species if they were to jump species boundaries, particularly the iltoviruses and siadenoviruses that have a prior history of disease associations. Further virus study and surveillance are needed in New Zealand avifauna, particularly in Turdus populations and endemic species",
+  "date": "2022-06-23",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "avian"
+  ],
+  "package_managers": null,
+  "title": "Metatranscriptomic Comparison of Viromes in Endemic and Introduced Passerines in New Zealand",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

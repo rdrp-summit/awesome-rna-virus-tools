@@ -1,0 +1,20 @@
+{
+  "name": "novel-virus-discovery-and-genome-reconstruction-from-field-rna-samples-reveals-h_2013",
+  "type": "paper",
+  "url": "https://doi.org/10.1371/journal.pone.0080720",
+  "doi": "10.1371/journal.pone.0080720",
+  "bibtex": "@article{Cook_2013, title={Novel Virus Discovery and Genome Reconstruction from Field RNA Samples Reveals Highly Divergent Viruses in Dipteran Hosts}, volume={8}, ISSN={1932-6203}, url={http://dx.doi.org/10.1371/journal.pone.0080720}, DOI={10.1371/journal.pone.0080720}, number={11}, journal={PLoS ONE}, publisher={Public Library of Science (PLoS)}, author={Cook, Shelley and Chung, Betty Y.-W. and Bass, David and Moureau, Gregory and Tang, Shuoya and McAlister, Erica and Culverwell, C. Lorna and Glücksman, Edvard and Wang, Hui and Brown, T. David K. and Gould, Ernest A. and Harbach, Ralph E. and de Lamballerie, Xavier and Firth, Andrew E.}, editor={Attoui, Houssam}, year={2013}, month=nov, pages={e80720} }",
+  "description": "Novel Virus Discovery and Genome Reconstruction from Field RNA Samples Reveals Highly Divergent Viruses in Dipteran Hosts",
+  "date": "2013-11-18",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "diptera"
+  ],
+  "package_managers": null,
+  "title": "Novel virus discovery and genome reconstruction from field RNA samples reveals highly divergent viruses in dipteran hosts",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

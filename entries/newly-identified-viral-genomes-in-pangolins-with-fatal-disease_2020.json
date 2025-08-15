@@ -1,0 +1,20 @@
+{
+  "name": "newly-identified-viral-genomes-in-pangolins-with-fatal-disease_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.1093/ve/veaa020",
+  "doi": "10.1093/ve/veaa020",
+  "bibtex": "@article{Gao_2020, title={Newly identified viral genomes in pangolins with fatal disease}, volume={6}, ISSN={2057-1577}, url={http://dx.doi.org/10.1093/ve/veaa020}, DOI={10.1093/ve/veaa020}, number={1}, journal={Virus Evolution}, publisher={Oxford University Press (OUP)}, author={Gao, Wen-Hua and Lin, Xian-Dan and Chen, Yan-Mei and Xie, Chun-Gang and Tan, Zhi-Zhou and Zhou, Jia-Jun and Chen, Shuai and Holmes, Edward C and Zhang, Yong-Zhen}, year={2020}, month=jan }",
+  "description": "   Epizootic pathogens pose a major threat to many wildlife species, particularly in the context of rapidly changing environments. Pangolins (order Pholidota) are highly threatened mammals, in large part due to the trade in illegal wildlife. During July to August 2018 four sick wild pangolins (three Manis javanica and one Manis pentadactyla) exhibiting a variety of clinical symptoms were rescued by the Jinhua Wildlife Protection Station in Zhejiang province, China. Although three of these animals died, fortunately one recovered after 2 weeks of symptomatic treatment. Using meta-transcriptomics combined with reverse transcription polymerase chain reaction (RT-PCR), we identified two novel RNA viruses in two of the dead pangolins. Genomic analysis revealed that these viruses were most closely related to pestiviruses and coltiviruses, although still highly genetically distinct, with more than 48 and 25 per cent sequence divergence at the amino acid level, respectively. We named these Dongyang pangolin virus (DYPV) and Lishui pangolin virus (LSPV) based on the sampling site and hosts. Although coltiviruses (LSPV) are known to be transmitted by ticks, we found no evidence of LSPV in ticks sampled close to where the pangolins were collected. In addition, although DYPV was present in nymph ticks (Amblyomma javanense) collected from a diseased pangolin, they were not found in the local tick population. Epidemiological investigation revealed that both novel viruses might have been imported following the illegal international trade of pangolins. Hence, these data indicate that illegal wildlife trafficking not only threatens the status of pangolin populations, but may also spread epizootic pathogens",
+  "date": "2020-01-01",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Mammalia"
+  ],
+  "package_managers": null,
+  "title": "Newly identified viral genomes in pangolins with fatal disease",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

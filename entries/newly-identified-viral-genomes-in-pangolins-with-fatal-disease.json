@@ -1,0 +1,21 @@
+{
+  "name": "Newly identified viral genomes in pangolins with fatal disease",
+  "url": "https://doi.org/10.1093/ve/veaa020",
+  "doi": "10.1093/ve/veaa020",
+  "bibtex": null,
+  "description": "Newly identified viral genomes in pangolins with fatal disease",
+  "date": "2020-01-01",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

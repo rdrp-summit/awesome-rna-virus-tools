@@ -1,0 +1,24 @@
+{
+  "name": "Expansion of the global RNA virome reveals diverse clades of bacteriophages",
+  "url": "https://doi.org/10.1016/j.cell.2022.08.023",
+  "doi": "10.1016/j.cell.2022.08.023",
+  "bibtex": null,
+  "description": "Expansion of the global RNA virome reveals diverse clades of bacteriophages",
+  "date": "2022-09-28",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics": [
+    "phages",
+    "discovery"
+  ],
+  "pmid": "36174579",
+  "type": "paper",
+  "interface": "CLI"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "discovery-and-prevalence-of-divergent-rna-viruses-in-european-field-voles-and-ra_2019",
+  "type": "paper",
+  "url": "https://doi.org/10.3390/v12010047",
+  "doi": "10.3390/v12010047",
+  "bibtex": "@article{Tsoleridis_2019, title={Discovery and Prevalence of Divergent RNA Viruses in European Field Voles and Rabbits}, volume={12}, ISSN={1999-4915}, url={http://dx.doi.org/10.3390/v12010047}, DOI={10.3390/v12010047}, number={1}, journal={Viruses}, publisher={MDPI AG}, author={Tsoleridis, Theocharis and Chappell, Joseph G. and Monchatre-Leroy, Elodie and Umhang, Gérald and Shi, Mang and Bennett, Malcolm and Tarlinton, Rachael E. and McClure, C. Patrick and Holmes, Edward C. and Ball, Jonathan K.}, year={2019}, month=dec, pages={47} }",
+  "description": "The advent of unbiased metagenomic virus discovery has revolutionized studies of virus biodiversity and evolution. Despite this, our knowledge of the virosphere, including in mammalian species, remains limited. We used unbiased metagenomic sequencing to identify RNA viruses in European field voles and rabbits. Accordingly, we identified a number of novel RNA viruses including astrovirus, rotavirus A, picorna-like virus and a narmovirus (paramyxovirus). In addition, we identified a sobemovirus and a novel luteovirus that likely originated from the rabbit diet. These newly discovered viruses were often divergent from those previously described. The novel astrovirus was most closely related to a virus sampled from the rodent-eating European roller bird (Coracias garrulous). PCR screening revealed that the novel narmovirus in the UK field vole had a prevalence of approximately 4%, and shared common ancestry with other rodent narmoviruses sampled globally. Two novel rotavirus A sequences were detected in a UK field vole and a French rabbit, the latter with a prevalence of 5%. Finally, a highly divergent picorna-like virus found in the gut of the French rabbit virus was only ~35% similar to an arilivirus at the amino acid level, suggesting the presence of a novel viral genus within the Picornaviridae",
+  "date": "2019-12-31",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "Mammalia"
+  ],
+  "package_managers": null,
+  "title": "Discovery and Prevalence of Divergent RNA Viruses in European Field Voles and Rabbits",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

@@ -1,0 +1,21 @@
+{
+  "name": "doubling-of-the-known-set-of-rna-viruses-by-metagenomic-analysis-of-an-aquatic-v_2020",
+  "type": "paper",
+  "url": "https://doi.org/10.1038/s41564-020-0755-4",
+  "doi": "10.1038/s41564-020-0755-4",
+  "bibtex": "@article{Wolf_2020, title={Doubling of the known set of RNA viruses by metagenomic analysis of an aquatic virome}, volume={5}, ISSN={2058-5276}, url={http://dx.doi.org/10.1038/s41564-020-0755-4}, DOI={10.1038/s41564-020-0755-4}, number={10}, journal={Nature Microbiology}, publisher={Springer Science and Business Media LLC}, author={Wolf, Yuri I. and Silas, Sukrit and Wang, Yongjie and Wu, Shuang and Bocek, Michael and Kazlauskas, Darius and Krupovic, Mart and Fire, Andrew and Dolja, Valerian V. and Koonin, Eugene V.}, year={2020}, month=jul, pages={1262–1270} }",
+  "description": "RNA viruses in aquatic environments remain poorly studied. Here, we analysed the RNA virome from approximately 10 l water from Yangshan Deep-Water Harbour near the Yangtze River estuary in China and identified more than 4,500 distinct RNA viruses, doubling the previously known set of viruses. Phylogenomic analysis identified several major lineages, roughly, at the taxonomic ranks of class, order and family. The 719-member-strong Yangshan virus assemblage is the sister clade to the expansive class Alsuviricetes and consists of viruses with simple genomes that typically encode only RNA-dependent RNA polymerase (RdRP), capping enzyme and capsid protein. Several clades within the Yangshan assemblage independently evolved domain permutation in the RdRP. Another previously unknown clade shares ancestry with Potyviridae, the largest known plant virus family. The ‘Aquatic picorna-like viruses/Marnaviridae’ clade was greatly expanded, with more than 800 added viruses. Several RdRP-linked protein domains not previously detected in any RNA viruses were identified, such as the small ubiquitin-like modifier (SUMO) domain, phospholipase A2 and PrsW-family protease domain. Multiple viruses utilize alternative genetic codes implying protist (especially ciliate) hosts. The results reveal a vast RNA virome that includes many previously unknown groups. However, phylogenetic analysis of the RdRPs supports the previously established five-branch structure of the RNA virus evolutionary tree, with no additional phyla",
+  "date": "2020-07-20",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "marine",
+    "phylogeny"
+  ],
+  "package_managers": null,
+  "title": "Doubling of the known set of RNA viruses by metagenomic analysis of an aquatic virome",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}

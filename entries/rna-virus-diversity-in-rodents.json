@@ -1,0 +1,23 @@
+{
+  "name": "RNA virus diversity in rodents",
+  "url": "https://example.org",
+  "doi": null,
+  "bibtex": null,
+  "description": "RNA virus diversity in rodents",
+  "date": null,
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics": [
+    "review"
+  ],
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

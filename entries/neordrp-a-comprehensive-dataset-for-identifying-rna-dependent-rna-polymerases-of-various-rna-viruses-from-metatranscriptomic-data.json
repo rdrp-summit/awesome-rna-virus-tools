@@ -1,0 +1,24 @@
+{
+  "name": "NeoRdRp: A Comprehensive Dataset for Identifying RNA-dependent RNA Polymerases of Various RNA Viruses from Metatranscriptomic Data",
+  "url": "https://doi.org/10.1264/jsme2.me22001",
+  "doi": "10.1264/jsme2.ME22001",
+  "bibtex": null,
+  "description": "NeoRdRp: A Comprehensive Dataset for Identifying RNA-dependent RNA Polymerases of Various RNA Viruses from Metatranscriptomic Data",
+  "date": "2022-05-21",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics": [
+    "tool",
+    "pHMM"
+  ],
+  "pmid": "36002304",
+  "type": "paper",
+  "interface": "CLI"
+}

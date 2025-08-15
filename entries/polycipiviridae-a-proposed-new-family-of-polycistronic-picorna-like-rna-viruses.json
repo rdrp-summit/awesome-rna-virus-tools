@@ -1,0 +1,21 @@
+{
+  "name": "Polycipiviridae: a proposed new family of polycistronic picorna-like RNA viruses",
+  "url": "https://doi.org/10.1099/jgv.0.000902",
+  "doi": "10.1099/jgv.0.000902",
+  "bibtex": null,
+  "description": "Polycipiviridae: a proposed new family of polycistronic picorna-like RNA viruses",
+  "date": "2017-09-01",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": "source",
+  "installation_methods": null,
+  "platforms": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics":  null,
+  "pmid": null,
+  "type": "paper",
+  "interface": "CLI"
+}

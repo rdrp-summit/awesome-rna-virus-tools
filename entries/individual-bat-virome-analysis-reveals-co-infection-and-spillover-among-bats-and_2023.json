@@ -1,0 +1,21 @@
+{
+  "name": "individual-bat-virome-analysis-reveals-co-infection-and-spillover-among-bats-and_2023",
+  "type": "paper",
+  "url": "https://www.nature.com/articles/s41467-023-39835-1",
+  "doi": "10.1038/s41467-023-39835-1",
+  "bibtex": "@article{Wang_2023, title={Individual bat virome analysis reveals co-infection and spillover among bats and virus zoonotic potential}, volume={14}, ISSN={2041-1723}, url={http://dx.doi.org/10.1038/s41467-023-39835-1}, DOI={10.1038/s41467-023-39835-1}, number={1}, journal={Nature Communications}, publisher={Springer Science and Business Media LLC}, author={Wang, Jing and Pan, Yuan-fei and Yang, Li-fen and Yang, Wei-hong and Lv, Kexin and Luo, Chu-ming and Wang, Juan and Kuang, Guo-peng and Wu, Wei-chen and Gou, Qin-yu and Xin, Gen-yang and Li, Bo and Luo, Huan-le and Chen, Shoudeng and Shu, Yue-long and Guo, Deyin and Gao, Zi-Hou and Liang, Guodong and Li, Jun and Chen, Yao-qing and Holmes, Edward C. and Feng, Yun and Shi, Mang}, year={2023}, month=jul }",
+  "description": "Bats are reservoir hosts for many zoonotic viruses. Despite this, relatively little is known about the diversity and abundance of viruses within individual bats, and hence the frequency of virus co-infection and spillover among them. We characterize the mammal-associated viruses in 149 individual bats sampled from Yunnan province, China, using an unbiased meta-transcriptomics approach. This reveals a high frequency of virus co-infection (simultaneous infection of bat individuals by multiple viral species) and spillover among the animals studied, which may in turn facilitate virus recombination and reassortment. Of note, we identify five viral species that are likely to be pathogenic to humans or livestock, based on phylogenetic relatedness to known pathogens or in vitro receptor binding assays. This includes a novel recombinant SARS-like coronavirus that is closely related to both SARS-CoV and SARS-CoV-2. In vitro assays indicate that this recombinant virus can utilize the human ACE2 receptor such that it is likely to be of increased emergence risk. Our study highlights the common occurrence of co-infection and spillover of bat viruses and their implications for virus emergence",
+  "date": "2023-07-10",
+  "version": null,
+  "license": null,
+  "language": "English",
+  "topics": [
+    "bats",
+    "zoonosis"
+  ],
+  "package_managers": null,
+  "title": "Individual bat virome analysis reveals co-infection and spillover among bats and virus zoonotic potential",
+  "input_formats": null,
+  "output_formats": null,
+  "interface": null
+}
