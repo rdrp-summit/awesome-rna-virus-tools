@@ -1,0 +1,26 @@
+---
+import { getCollection } from "astro:content";
+import CatalogExplorer from "../components/CatalogExplorer.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import logoUrl from "../../rdrp_summit.png?url";
+
+const entries = await getCollection("catalog");
+const software = entries.filter(({ data }) => data.type !== "paper");
+const literature = entries.filter(({ data }) => data.type === "paper");
+---
+
+<BaseLayout>
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <h1>Awesome RNA Virus Tools</h1>
+        <div class="hero-stats" aria-label="Catalog summary">
+          <div><strong>{software.length}</strong><span>software & databases</span></div>
+          <div><strong>{literature.length}</strong><span>literature records</span></div>
+        </div>
+      </div>
+      <img class="hero-mark" src={logoUrl} alt="RdRp Summit emblem" />
+    </section>
+    <CatalogExplorer entries={entries} />
+  </main>
+</BaseLayout>

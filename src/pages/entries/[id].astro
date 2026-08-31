@@ -1,0 +1,57 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths() {
+  const entries = await getCollection("catalog");
+  return entries.map((entry) => ({ params: { id: entry.id }, props: { entry } }));
+}
+
+interface Props {
+  entry: CollectionEntry<"catalog">;
+}
+
+const { entry } = Astro.props;
+const { data } = entry;
+const base = `${import.meta.env.BASE_URL}/`.replace(/\/{2,}/g, "/");
+const interfaces = Array.isArray(data.interface)
+  ? data.interface
+  : data.interface
+    ? [data.interface]
+    : [];
+const sourceLabel = (() => {
+  try {
+    const sourceUrl = new URL(data.url);
+    const [owner, repository] = sourceUrl.pathname.split("/").filter(Boolean);
+    return sourceUrl.hostname === "github.com" && owner && repository
+      ? `${owner}/${repository.replace(/\.git$/, "")}`
+      : "Source Code";
+  } catch {
+    return "Source Code";
+  }
+})();
+---
+
+<BaseLayout title={`${data.title} | Awesome RNA Virus Tools`} description={data.description}>
+  <main class="content-page">
+    <a class="back-link" href={`${base}#catalog`}>Back to catalog</a>
+    <p class="eyebrow">{data.type}</p>
+    <h1>{data.title}</h1>
+    <p class="lead">{data.description}</p>
+
+    <dl class="detail-meta">
+      {data.date && <div><dt>Date</dt><dd>{data.date}</dd></div>}
+      {data.data_updated && <div><dt>Data updated</dt><dd>{data.data_updated}</dd></div>}
+      {data.language && <div><dt>Language</dt><dd>{data.language}</dd></div>}
+      {data.license && <div><dt>License</dt><dd>{data.license}</dd></div>}
+      {data.version && <div><dt>Version</dt><dd>{data.version}</dd></div>}
+      {interfaces.length > 0 && <div><dt>Interface</dt><dd>{interfaces.join(", ")}</dd></div>}
+      {data.doi && <div><dt>DOI</dt><dd><a href={`https://doi.org/${data.doi}`}>{data.doi}</a></dd></div>}
+      <div>
+        <dt>Source</dt>
+        <dd><a href={data.url} target="_blank" rel="noreferrer">{sourceLabel}</a></dd>
+      </div>
+      <div class="detail-topics"><dt>Topics</dt><dd>{data.topics.join(", ")}</dd></div>
+    </dl>
+  </main>
+</BaseLayout>

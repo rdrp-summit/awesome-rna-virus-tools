@@ -1,0 +1,36 @@
+{
+  "name": "Rfam Viral RNA Families",
+  "title": "Rfam viral RNA families: a curated collection of viral non-coding RNA structure families",
+  "url": "https://rfam.org/viruses",
+  "doi": "10.64898/2026.05.10.724034",
+  "bibtex": null,
+  "description": "Curated Rfam project providing covariance models and structure annotations for conserved viral RNA elements, including complete Coronaviridae, Hepacivirus, and Flaviviridae 5'/3' UTR family sets generated with R2DT, with Filoviridae and Rhabdoviridae families in progress.",
+  "date": "2026-05-10",
+  "data_updated": null,
+  "version": "Rfam 15.1",
+  "license": "CC0-1.0",
+  "language": null,
+  "package_managers": null,
+  "package_manager": null,
+  "input_formats": null,
+  "output_formats": [
+    "Stockholm",
+    "CM"
+  ],
+  "topics": [
+    "database",
+    "rna-families",
+    "viral-ncrna",
+    "structure"
+  ],
+  "type": "database",
+  "interface": [
+    "Web Interface",
+    "REST API"
+  ],
+  "workflow_managers": null,
+  "platforms": [
+    "Web"
+  ],
+  "installation_methods": null
+}

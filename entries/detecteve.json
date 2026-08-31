@@ -1,0 +1,44 @@
+{
+  "name": "detectEVE",
+  "title": "detectEVE: Fast, Sensitive and Precise Detection of Endogenous Viral Elements in Genomic Data",
+  "url": "https://github.com/thackl/detectEVE",
+  "doi": "10.1111/1755-0998.14083",
+  "bibtex": null,
+  "description": "Snakemake workflow for detecting non-retroviral endogenous viral elements from RNA and DNA viruses in genomic assemblies using similarity searches and confidence scoring.",
+  "date": "2025-02-12",
+  "version": "1.4.1",
+  "license": "MIT",
+  "language": "Python, R, Perl, Shell",
+  "package_managers": [
+    "conda"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "FASTA",
+    "NCBI WGS accessions"
+  ],
+  "output_formats": [
+    "TSV",
+    "FASTA",
+    "PDF"
+  ],
+  "topics": [
+    "endogenous-viral-elements",
+    "paleovirology",
+    "rna-viruses",
+    "genome-annotation"
+  ],
+  "type": "tool",
+  "interface": "CLI",
+  "workflow_managers": [
+    "Snakemake"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "installation_methods": [
+    "Conda",
+    "Mamba"
+  ]
+}

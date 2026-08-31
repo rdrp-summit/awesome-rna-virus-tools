@@ -1,0 +1,37 @@
+{
+  "name": "AliMarko",
+  "title": "AliMarko: a pipeline for virus sequence detection combining reference alignment and profile HMM search",
+  "url": "https://github.com/NJJeus/AliMarko",
+  "doi": null,
+  "bibtex": null,
+  "description": "Snakemake pipeline that filters host reads with Kraken2, maps deduplicated reads to a viral reference genome database with BWA, assembles unmapped reads with SPAdes, and screens contigs with profile HMMs, producing HTML reports with alignment, HMM match, and phylogenetic tree visualizations.",
+  "date": null,
+  "data_updated": "2025-10-17",
+  "version": "0.8",
+  "license": null,
+  "language": "Python",
+  "package_managers": null,
+  "package_manager": null,
+  "input_formats": [
+    "FASTQ"
+  ],
+  "output_formats": [
+    "HTML"
+  ],
+  "topics": [
+    "virus-discovery",
+    "metagenomics",
+    "profile-hmm",
+    "phylogenetics"
+  ],
+  "type": "tool",
+  "interface": "CLI",
+  "workflow_managers": [
+    "Snakemake"
+  ],
+  "platforms": null,
+  "installation_methods": [
+    "Conda",
+    "Docker"
+  ]
+}

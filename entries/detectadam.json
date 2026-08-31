@@ -1,0 +1,43 @@
+{
+  "name": "detectADAM",
+  "title": "detectADAM: Accession Driven Analysis and Mining",
+  "url": "https://github.com/LequimeLab/detectADAM",
+  "doi": null,
+  "bibtex": null,
+  "description": "Snakemake workflow that downloads or accepts sequencing reads, optionally masks host and endogenous viral sequences, assembles unmapped reads, and searches the resulting contigs for viral proteins.",
+  "date": "2025",
+  "version": null,
+  "license": "MIT",
+  "language": "Python",
+  "package_managers": [
+    "conda"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "SRA accessions",
+    "FASTQ",
+    "FASTA"
+  ],
+  "output_formats": [
+    "TSV",
+    "FASTA"
+  ],
+  "topics": [
+    "virus-discovery",
+    "sequence-read-archive",
+    "rna-viruses",
+    "metatranscriptomics"
+  ],
+  "type": "tool",
+  "interface": "CLI",
+  "workflow_managers": [
+    "Snakemake"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "installation_methods": [
+    "Conda",
+    "Mamba"
+  ]
+}

@@ -1,0 +1,10 @@
+[workspace]
+name = "awesome-rna-virus-tools"
+version = "0.1.0"
+description = "RNA virus tools catalog"
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[tasks]
+site-build = { cmd = "npm run build", description = "Check entries and build the Astro site" }
+site-dev = { cmd = "npm run dev", description = "Start the Astro development server" }

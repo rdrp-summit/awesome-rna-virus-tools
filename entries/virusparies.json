@@ -1,0 +1,40 @@
+{
+  "name": "Virusparies",
+  "title": "Virusparies: data visualisations for VirusHunterGatherer hittables",
+  "url": "https://github.com/SergejRuff/Virusparies",
+  "doi": null,
+  "bibtex": null,
+  "description": "R package for importing, filtering, and plotting VirusHunterGatherer hittables, producing boxplots, scatterplots, bar plots, violin plots, and graphical summary tables annotated with ICTV taxonomy.",
+  "date": null,
+  "data_updated": "2024-11-15",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "language": "R",
+  "package_managers": [
+    "CRAN"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "TSV"
+  ],
+  "output_formats": [
+    "PNG",
+    "PDF",
+    "CSV",
+    "TSV"
+  ],
+  "topics": [
+    "visualization",
+    "virus-discovery",
+    "r-package",
+    "taxonomy"
+  ],
+  "type": "tool",
+  "interface": "R package",
+  "workflow_managers": null,
+  "platforms": null,
+  "installation_methods": [
+    "CRAN",
+    "GitHub"
+  ]
+}

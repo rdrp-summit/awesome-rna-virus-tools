@@ -1,0 +1,32 @@
+{
+  "name": "Plant Virus Transmissions Database",
+  "title": "The plant virus transmissions database",
+  "url": "https://library.wur.nl/WebQuery/virus",
+  "doi": "10.1099/jgv.0.001957",
+  "bibtex": null,
+  "description": "Curated database of transmission modes and vectors for over 1,600 plant viruses compiled from more than 3,500 publications spanning a century, searchable by virus name, taxonomic position, mode of transmission, or vector.",
+  "date": "2024-03-05",
+  "data_updated": null,
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": null,
+  "input_formats": null,
+  "output_formats": null,
+  "topics": [
+    "database",
+    "plant-viruses",
+    "transmission",
+    "vectors"
+  ],
+  "type": "database",
+  "interface": [
+    "Web Interface"
+  ],
+  "workflow_managers": null,
+  "platforms": [
+    "Web"
+  ],
+  "installation_methods": null
+}

@@ -1,0 +1,416 @@
+---
+import { ArrowUpRight, Search, SlidersHorizontal, X } from "@lucide/astro";
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  entries: CollectionEntry<"catalog">[];
+}
+
+const { entries } = Astro.props;
+const base = `${import.meta.env.BASE_URL}/`.replace(/\/{2,}/g, "/");
+const workflowNames = ["nextflow", "snakemake", "wdl"];
+
+function normalizeList(values: (string | null | undefined)[]) {
+  return [...new Set(values.filter((value): value is string => Boolean(value)).map((value) => value.trim()))];
+}
+
+function githubRepository(url: string) {
+  try {
+    const parsedUrl = new URL(url);
+    const [owner, repository] = parsedUrl.pathname.split("/").filter(Boolean);
+    return parsedUrl.hostname === "github.com" && owner && repository
+      ? `${owner}/${repository.replace(/\.git$/, "")}`
+      : null;
+  } catch {
+    return null;
+  }
+}
+
+const catalogEntries = entries
+  .map(({ id, data }) => {
+    const interfaces = Array.isArray(data.interface)
+      ? data.interface
+      : data.interface
+        ? [data.interface]
+        : [];
+    const languages = normalizeList(
+      data.language?.split(",").map((language) =>
+        language.trim().toLowerCase() === "python" ? "Python" : language.trim(),
+      ) ?? [],
+    );
+    const packageManagers = normalizeList([
+      ...(data.package_managers ?? []),
+      data.package_manager,
+    ]);
+    const workflows = normalizeList([
+      ...(data.workflow_managers ?? []),
+      ...interfaces,
+      ...languages,
+    ]).filter((value) => workflowNames.includes(value.toLowerCase()));
+
+    return {
+      id,
+      name: data.title || data.name,
+      description: data.description,
+      type: data.type,
+      topics: data.topics,
+      languages,
+      license: data.license,
+      date: data.date,
+      year: data.date ? Number.parseInt(data.date.slice(0, 4), 10) : null,
+      interfaces,
+      packageManagers,
+      workflows,
+      githubRepository: githubRepository(data.url),
+      url: data.url,
+      detailUrl: `${base}entries/${id}/`,
+    };
+  })
+  .sort((first, second) => first.name.localeCompare(second.name));
+---
+
+<section class="catalog" id="catalog" aria-label="Catalog explorer">
+  <div class="catalog-controls">
+    <div class="search-field">
+      <Search size={20} aria-hidden="true" />
+      <label class="sr-only" for="catalog-search">Search entries</label>
+      <input
+        id="catalog-search"
+        type="search"
+        placeholder="Search names, topics, and descriptions"
+        autocomplete="off"
+      />
+      <button id="clear-search" class="clear-search" type="button" aria-label="Clear search" title="Clear search" hidden>
+        <X size={18} aria-hidden="true" />
+      </button>
+    </div>
+
+    <div class="segmented-control" aria-label="Entry type">
+      <button type="button" data-kind="software" aria-pressed="true">Software</button>
+      <button type="button" data-kind="literature" aria-pressed="false">Literature</button>
+    </div>
+    <label class="sort-control">
+      <span class="sr-only">Sort by</span>
+      <select id="sort-by">
+        <option value="relevance">Relevance</option>
+        <option value="name">Name A–Z</option>
+        <option value="year-desc">Year, newest first</option>
+        <option value="year-asc">Year, oldest first</option>
+        <option value="stars">GitHub stars</option>
+      </select>
+    </label>
+    <button id="filter-toggle" class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel">
+      <SlidersHorizontal size={18} aria-hidden="true" />
+      <span>Filters</span>
+      <span id="filter-count" class="filter-count" hidden></span>
+    </button>
+  </div>
+
+  <div id="catalog-workspace" class="catalog-workspace">
+    <aside id="filter-panel" class="filter-panel" aria-label="Catalog filters" hidden>
+      <div class="filter-panel-header">
+        <strong>Filters</strong>
+        <button id="filter-close" type="button" aria-label="Close filters" title="Close filters">
+          <X size={18} aria-hidden="true" />
+        </button>
+      </div>
+      <div class="filter-stack">
+        <label class="select-field">
+          <span>Topic</span>
+          <select data-filter-field="topics" data-filter-label="topics"></select>
+        </label>
+        <label class="select-field">
+          <span>Language</span>
+          <select data-filter-field="languages" data-filter-label="languages"></select>
+        </label>
+        <label class="select-field">
+          <span>Installation</span>
+          <select data-filter-field="packageManagers" data-filter-label="installation methods"></select>
+        </label>
+        <label class="select-field">
+          <span>Workflow</span>
+          <select data-filter-field="workflows" data-filter-label="workflows"></select>
+        </label>
+        <label class="select-field">
+          <span>Interface</span>
+          <select data-filter-field="interfaces" data-filter-label="interfaces"></select>
+        </label>
+        <label class="select-field">
+          <span>License</span>
+          <select data-filter-field="license" data-filter-label="licenses"></select>
+        </label>
+      </div>
+      <button id="reset-filters" class="reset-filters" type="button">Clear filters</button>
+    </aside>
+
+    <div class="catalog-results">
+      <div class="catalog-status">
+        <p id="result-count" class="result-count" aria-live="polite"></p>
+        <p id="sort-status" class="sort-status" aria-live="polite"></p>
+      </div>
+
+      <div class="catalog-list" id="catalog-list">
+        {
+          catalogEntries.map((entry) => (
+            <article class="catalog-item" data-entry-id={entry.id}>
+              <div class="catalog-item-main">
+                <div class="item-kicker">
+                  <span class={`kind kind-${entry.type}`}>{entry.type}</span>
+                  {entry.date && <time datetime={entry.date}>{entry.date.slice(0, 4)}</time>}
+                </div>
+                <h3><a href={entry.detailUrl}>{entry.name}</a></h3>
+                <p>{entry.description}</p>
+                <ul class="topic-list" aria-label="Topics">
+                  {entry.topics.slice(0, 4).map((topic) => <li>{topic}</li>)}
+                </ul>
+              </div>
+              <div class="catalog-item-meta">
+                {entry.languages.map((language) => <span>{language}</span>)}
+                {entry.interfaces.map((item) => <span>{item}</span>)}
+                {entry.license && <span>{entry.license}</span>}
+                <span data-stars-for={entry.id} hidden></span>
+                <a href={entry.url} target="_blank" rel="noreferrer">
+                  Source <ArrowUpRight size={16} aria-hidden="true" />
+                </a>
+              </div>
+            </article>
+          ))
+        }
+      </div>
+
+      <div id="empty-state" class="empty-state" hidden>
+        <h3>No close matches</h3>
+        <p>Try a broader search or clear some filters.</p>
+      </div>
+    </div>
+  </div>
+
+  <script is:inline id="catalog-data" type="application/json" set:html={JSON.stringify(catalogEntries)} />
+</section>
+
+<script>
+  import Fuse from "fuse.js";
+
+  interface SearchEntry {
+    id: string;
+    name: string;
+    description: string;
+    type: "tool" | "database" | "paper";
+    topics: string[];
+    languages: string[];
+    license: string | null | undefined;
+    year: number | null;
+    interfaces: string[];
+    packageManagers: string[];
+    workflows: string[];
+    githubRepository: string | null;
+  }
+
+  type FilterField = "topics" | "languages" | "packageManagers" | "workflows" | "interfaces" | "license";
+  type SortMode = "relevance" | "name" | "year-desc" | "year-asc" | "stars";
+
+  function requireElement<ElementType extends Element>(selector: string): ElementType {
+    const element = document.querySelector<ElementType>(selector);
+    if (!element) throw new Error(`Missing catalog element: ${selector}`);
+    return element;
+  }
+
+  const dataElement = requireElement<HTMLScriptElement>("#catalog-data");
+  const searchInput = requireElement<HTMLInputElement>("#catalog-search");
+  const clearButton = requireElement<HTMLButtonElement>("#clear-search");
+  const sortBy = requireElement<HTMLSelectElement>("#sort-by");
+  const resetButton = requireElement<HTMLButtonElement>("#reset-filters");
+  const filterToggle = requireElement<HTMLButtonElement>("#filter-toggle");
+  const filterClose = requireElement<HTMLButtonElement>("#filter-close");
+  const filterPanel = requireElement<HTMLElement>("#filter-panel");
+  const filterCount = requireElement<HTMLElement>("#filter-count");
+  const catalogWorkspace = requireElement<HTMLElement>("#catalog-workspace");
+  const sortStatus = requireElement<HTMLElement>("#sort-status");
+  const catalogList = requireElement<HTMLElement>("#catalog-list");
+  const resultCount = requireElement<HTMLElement>("#result-count");
+  const emptyState = requireElement<HTMLElement>("#empty-state");
+  const kindButtons = document.querySelectorAll<HTMLButtonElement>("[data-kind]");
+  const filterSelects = document.querySelectorAll<HTMLSelectElement>("[data-filter-field]");
+  const itemElements = document.querySelectorAll<HTMLElement>("[data-entry-id]");
+
+  const entries = JSON.parse(dataElement.textContent || "[]") as SearchEntry[];
+  const fuse = new Fuse(entries, {
+    keys: [
+      { name: "name", weight: 0.5 },
+      { name: "topics", weight: 0.25 },
+      { name: "description", weight: 0.15 },
+      { name: "languages", weight: 0.05 },
+      { name: "interfaces", weight: 0.05 },
+    ],
+    threshold: 0.32,
+    ignoreLocation: true,
+  });
+  let activeKind: "software" | "literature" = "software";
+  const starCounts = new Map<string, number>();
+
+  function activeEntries() {
+    return entries.filter((entry) => activeKind === "software" ? entry.type !== "paper" : entry.type === "paper");
+  }
+
+  function fieldValues(entry: SearchEntry, field: FilterField): string[] {
+    const value = entry[field];
+    return Array.isArray(value) ? value : value ? [value] : [];
+  }
+
+  function updateFilterValues() {
+    for (const select of filterSelects) {
+      const field = select.dataset.filterField as FilterField;
+      const previousValue = select.value;
+      const values = [...new Set(activeEntries().flatMap((entry) => fieldValues(entry, field)))].sort((first, second) =>
+        first.localeCompare(second, undefined, { sensitivity: "base" }),
+      );
+      const label = select.dataset.filterLabel ?? "values";
+      select.replaceChildren(new Option(`Any ${label}`, ""));
+      for (const value of values) select.add(new Option(value, value));
+      select.value = values.includes(previousValue) ? previousValue : "";
+    }
+    const starsOption = sortBy.querySelector<HTMLOptionElement>('option[value="stars"]');
+    if (starsOption) starsOption.disabled = activeKind === "literature";
+    if (activeKind === "literature" && sortBy.value === "stars") sortBy.value = "relevance";
+  }
+
+  function setFilterPanel(open: boolean) {
+    filterPanel.hidden = !open;
+    filterToggle.setAttribute("aria-expanded", String(open));
+    catalogWorkspace.dataset.filterOpen = String(open);
+  }
+
+  function cachedStars(repository: string) {
+    try {
+      const cached = JSON.parse(localStorage.getItem(`github-stars:${repository}`) || "null") as
+        | { count: number; fetchedAt: number }
+        | null;
+      return cached && Date.now() - cached.fetchedAt < 86_400_000 ? cached.count : null;
+    } catch {
+      return null;
+    }
+  }
+
+  async function loadGithubStars() {
+    const repositories = activeEntries().filter((entry) => entry.githubRepository);
+    sortBy.disabled = true;
+    sortStatus.textContent = "Loading GitHub stars…";
+    await Promise.all(repositories.map(async (entry) => {
+      const repository = entry.githubRepository as string;
+      const cached = cachedStars(repository);
+      if (cached !== null) {
+        starCounts.set(entry.id, cached);
+        return;
+      }
+      try {
+        const response = await fetch(`https://api.github.com/repos/${repository}`, {
+          headers: { Accept: "application/vnd.github+json" },
+        });
+        if (!response.ok) return;
+        const data = await response.json() as { stargazers_count?: number };
+        if (typeof data.stargazers_count !== "number") return;
+        starCounts.set(entry.id, data.stargazers_count);
+        localStorage.setItem(`github-stars:${repository}`, JSON.stringify({
+          count: data.stargazers_count,
+          fetchedAt: Date.now(),
+        }));
+      } catch {
+        // Entries without reachable GitHub metadata remain at the end of star sorting.
+      }
+    }));
+    sortBy.disabled = false;
+    sortStatus.textContent = `Stars available for ${starCounts.size} GitHub ${starCounts.size === 1 ? "repository" : "repositories"}.`;
+    for (const [id, count] of starCounts) {
+      const label = document.querySelector<HTMLElement>(`[data-stars-for="${CSS.escape(id)}"]`);
+      if (label) {
+        label.textContent = `★ ${count.toLocaleString()}`;
+        label.hidden = false;
+      }
+    }
+  }
+
+  function sortItems(searchRanks: Map<string, number>) {
+    const mode = sortBy.value as SortMode;
+    const sortedEntries = [...entries].sort((first, second) => {
+      if (mode === "year-desc" || mode === "year-asc") {
+        const direction = mode === "year-desc" ? -1 : 1;
+        const yearDifference = ((first.year ?? 0) - (second.year ?? 0)) * direction;
+        if (yearDifference) return yearDifference;
+      }
+      if (mode === "stars") {
+        const starDifference = (starCounts.get(second.id) ?? -1) - (starCounts.get(first.id) ?? -1);
+        if (starDifference) return starDifference;
+      }
+      if (mode === "relevance" && searchInput.value.trim()) {
+        const rankDifference = (searchRanks.get(first.id) ?? Number.MAX_SAFE_INTEGER)
+          - (searchRanks.get(second.id) ?? Number.MAX_SAFE_INTEGER);
+        if (rankDifference) return rankDifference;
+      }
+      return first.name.localeCompare(second.name);
+    });
+    const elementsById = new Map([...itemElements].map((element) => [element.dataset.entryId, element]));
+    for (const entry of sortedEntries) {
+      const element = elementsById.get(entry.id);
+      if (element) catalogList.append(element);
+    }
+  }
+
+  function updateCatalog() {
+    const query = searchInput.value.trim();
+    const selectedFilters = [...filterSelects]
+      .filter((select) => select.value)
+      .map((select) => ({ field: select.dataset.filterField as FilterField, value: select.value }));
+    const searchResults = query ? fuse.search(query) : entries.map((item) => ({ item }));
+    const searchMatches = new Set(searchResults.map(({ item }) => item.id));
+    const searchRanks = new Map(searchResults.map(({ item }, index) => [item.id, index]));
+    let visibleCount = 0;
+
+    for (const element of itemElements) {
+      const id = element.dataset.entryId || "";
+      const entry = entries.find((candidate) => candidate.id === id);
+      const matchesKind = activeKind === "software" ? entry?.type !== "paper" : entry?.type === "paper";
+      const matchesFilter = Boolean(entry && selectedFilters.every(({ field, value }) => fieldValues(entry, field).includes(value)));
+      const visible = Boolean(entry && matchesKind && matchesFilter && searchMatches.has(id));
+      element.hidden = !visible;
+      if (visible) visibleCount += 1;
+    }
+
+    resultCount.textContent = `${visibleCount} ${visibleCount === 1 ? "entry" : "entries"}`;
+    filterCount.textContent = String(selectedFilters.length);
+    filterCount.hidden = selectedFilters.length === 0;
+    emptyState.hidden = visibleCount !== 0;
+    clearButton.hidden = query.length === 0;
+    sortItems(searchRanks);
+  }
+
+  searchInput.addEventListener("input", updateCatalog);
+  for (const select of filterSelects) select.addEventListener("change", updateCatalog);
+  filterToggle.addEventListener("click", () => setFilterPanel(filterPanel.hidden));
+  filterClose.addEventListener("click", () => setFilterPanel(false));
+  sortBy.addEventListener("change", async () => {
+    if (sortBy.value === "stars" && starCounts.size === 0) await loadGithubStars();
+    updateCatalog();
+  });
+  resetButton.addEventListener("click", () => {
+    for (const select of filterSelects) select.value = "";
+    updateCatalog();
+  });
+  clearButton.addEventListener("click", () => {
+    searchInput.value = "";
+    searchInput.focus();
+    updateCatalog();
+  });
+  for (const button of kindButtons) {
+    button.addEventListener("click", () => {
+      activeKind = button.dataset.kind as typeof activeKind;
+      for (const candidate of kindButtons) {
+        candidate.setAttribute("aria-pressed", String(candidate === button));
+      }
+      updateFilterValues();
+      updateCatalog();
+    });
+  }
+
+  updateFilterValues();
+  updateCatalog();
+</script>

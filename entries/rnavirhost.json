@@ -1,0 +1,41 @@
+{
+  "name": "RNAVirHost",
+  "title": "RNAVirHost: a machine learning-based method for predicting hosts of RNA viruses through viral genomes",
+  "url": "https://github.com/GreyGuoweiChen/VirHost",
+  "doi": "10.1093/gigascience/giae059",
+  "bibtex": null,
+  "description": "Two-layer hierarchical classifier that predicts natural host groups for RNA viruses directly from complete genome sequences, combining viral taxonomy, genomic traits, and sequence homology with confidence-scored evidence labels.",
+  "date": "2024-08-22",
+  "data_updated": "2024-10-14",
+  "version": "1.0.5",
+  "license": "MIT",
+  "language": "Python",
+  "package_managers": [
+    "bioconda",
+    "pypi"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "FASTA"
+  ],
+  "output_formats": [
+    "CSV"
+  ],
+  "topics": [
+    "rna-viruses",
+    "host-prediction",
+    "machine-learning",
+    "taxonomy"
+  ],
+  "type": "tool",
+  "interface": "CLI",
+  "workflow_managers": null,
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "installation_methods": [
+    "Conda",
+    "pip"
+  ]
+}

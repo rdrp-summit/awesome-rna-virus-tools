@@ -1,0 +1,41 @@
+{
+  "name": "VITAP",
+  "title": "VITAP: a high precision tool for DNA and RNA viral classification based on meta-omic data",
+  "url": "https://github.com/DrKaiyangZheng/VITAP",
+  "doi": "10.1038/s41467-025-57500-7",
+  "bibtex": null,
+  "description": "Taxonomic assignment pipeline for DNA and RNA viral fragments that combines protein alignment, graph-based lineage selection, and confidence scores using updatable ICTV and UniRef90 references.",
+  "date": "2025-03-05",
+  "version": "1.12",
+  "license": "GPL-3.0-only",
+  "language": "Python",
+  "package_managers": [
+    "bioconda"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "FASTA"
+  ],
+  "output_formats": [
+    "TSV",
+    "FASTA",
+    "GFF"
+  ],
+  "topics": [
+    "taxonomy",
+    "classification",
+    "rna-viruses",
+    "viral-fragments"
+  ],
+  "type": "tool",
+  "interface": "CLI",
+  "workflow_managers": null,
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "installation_methods": [
+    "Conda",
+    "Mamba"
+  ]
+}

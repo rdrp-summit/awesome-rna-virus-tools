@@ -1,0 +1,44 @@
+{
+  "name": "Hecatomb",
+  "title": "Hecatomb: an integrated software platform for viral metagenomics",
+  "url": "https://github.com/shandley/hecatomb",
+  "doi": "10.1093/gigascience/giae020",
+  "bibtex": null,
+  "description": "Snaketool-based Snakemake pipeline that filters false-positive viral reads out of short- and long-read metagenomes to enrich true-positive viral sequences, with automated database and environment installation.",
+  "date": "2024",
+  "data_updated": "2025-09-16",
+  "version": "1.3.4",
+  "license": "MIT",
+  "language": "Python",
+  "package_managers": [
+    "bioconda",
+    "pypi"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "FASTQ"
+  ],
+  "output_formats": [
+    "TSV",
+    "FASTA"
+  ],
+  "topics": [
+    "virome",
+    "viral-metagenomics",
+    "metagenomics",
+    "snakemake"
+  ],
+  "type": "tool",
+  "interface": "CLI",
+  "workflow_managers": [
+    "Snakemake"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "installation_methods": [
+    "Conda",
+    "pip"
+  ]
+}

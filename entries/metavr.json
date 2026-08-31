@@ -1,0 +1,37 @@
+{
+  "name": "MetaVR",
+  "title": "Meta-virus resource (MetaVR): expanding the frontiers of viral diversity with 24 million uncultivated virus genomes",
+  "url": "https://meta-virome.org/",
+  "doi": "10.1093/nar/gkaf1283",
+  "bibtex": null,
+  "description": "Database of uncultivated virus genomes with web, bulk-download, and REST API access; records can be filtered by Baltimore class, including dsRNA and strand-specific ssRNA genome types.",
+  "date": "2025-11-28",
+  "version": null,
+  "license": null,
+  "language": null,
+  "package_managers": null,
+  "package_manager": null,
+  "input_formats": null,
+  "output_formats": [
+    "JSON",
+    "FASTA",
+    "TSV"
+  ],
+  "topics": [
+    "database",
+    "viral-genomes",
+    "rna-viruses",
+    "taxonomy",
+    "protein-structure"
+  ],
+  "type": "database",
+  "interface": [
+    "Web Interface",
+    "REST API"
+  ],
+  "workflow_managers": null,
+  "platforms": [
+    "Web"
+  ],
+  "installation_methods": null
+}

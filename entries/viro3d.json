@@ -1,0 +1,38 @@
+{
+  "name": "Viro3D",
+  "title": "Viro3D: a comprehensive database of virus protein structure predictions",
+  "url": "https://viro3d.cvr.gla.ac.uk/",
+  "doi": "10.1038/s44320-025-00147-9",
+  "bibtex": null,
+  "description": "Database of AlphaFold2-ColabFold and ESMFold predicted protein structures, sequence and structural clusters, and similarity networks for human and animal viruses, including extensive coverage of RNA-dependent RNA polymerases and viral fusion glycoproteins.",
+  "date": "2025-09-16",
+  "data_updated": "2025-07-03",
+  "version": null,
+  "license": "CC-BY-4.0",
+  "language": null,
+  "package_managers": null,
+  "package_manager": null,
+  "input_formats": null,
+  "output_formats": [
+    "PDB",
+    "JSON",
+    "CSV",
+    "A3M"
+  ],
+  "topics": [
+    "database",
+    "protein-structure",
+    "viral-proteins",
+    "riboviria"
+  ],
+  "type": "database",
+  "interface": [
+    "Web Interface",
+    "REST API"
+  ],
+  "workflow_managers": null,
+  "platforms": [
+    "Web"
+  ],
+  "installation_methods": null
+}

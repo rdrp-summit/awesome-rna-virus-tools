@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Contribute | Awesome RNA Virus Tools">
+  <main class="content-page">
+    <p class="eyebrow">Community catalog</p>
+    <h1>Contribute an entry</h1>
+    <p class="lead">
+      Additions and corrections remain pull-request driven. Each entry is a small JSON
+      file, so proposed changes stay reviewable and attributable.
+    </p>
+
+    <h2>Add or update an entry</h2>
+    <ol class="steps">
+      <li>Fork the repository and create a focused branch.</li>
+      <li>Add or edit one file in <code>entries/</code>, using a nearby entry of the same type as a guide.</li>
+      <li>Run <code>npm run build</code>. Astro checks the entry schema as part of the build.</li>
+      <li>Open a pull request describing the tool or literature record and its relevance to RNA virus research.</li>
+    </ol>
+
+    <h2>What belongs here</h2>
+    <p>
+      Publicly accessible software, databases, benchmarks, methods, and review literature
+      with a clear role in RNA virus research are in scope. Descriptions should be factual,
+      concise, and avoid promotional claims.
+    </p>
+  </main>
+</BaseLayout>

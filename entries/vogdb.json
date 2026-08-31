@@ -1,0 +1,37 @@
+{
+  "name": "VOGDB",
+  "title": "VOGDB: database of virus orthologous groups",
+  "url": "https://vogdb.org/",
+  "doi": "10.3390/v16081191",
+  "bibtex": null,
+  "description": "Multi-layer database that groups RefSeq viral proteins into orthologous groups using sequence similarity, profile alignments, and predicted-structure similarity, spanning prokaryotic and eukaryotic viruses including RNA viruses and RNA phages.",
+  "date": "2024-07-25",
+  "data_updated": "2026-07-15",
+  "version": "236",
+  "license": "CC-BY-4.0",
+  "language": null,
+  "package_managers": null,
+  "package_manager": null,
+  "input_formats": null,
+  "output_formats": [
+    "FASTA",
+    "TSV",
+    "HMM"
+  ],
+  "topics": [
+    "database",
+    "viral-genomes",
+    "orthologous-groups",
+    "taxonomy",
+    "protein-families"
+  ],
+  "type": "database",
+  "interface": [
+    "Web Interface"
+  ],
+  "workflow_managers": null,
+  "platforms": [
+    "Web"
+  ],
+  "installation_methods": null
+}

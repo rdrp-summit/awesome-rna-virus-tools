@@ -1,0 +1,40 @@
+{
+  "name": "SegFinder",
+  "title": "SegFinder: an automated tool for identifying complete RNA virus genome segments through co-occurrence in multiple sequenced samples",
+  "url": "https://github.com/Kongloner/SegFinder",
+  "doi": "10.1093/bib/bbaf358",
+  "bibtex": null,
+  "description": "Identifies complete segmented RNA virus genomes across metatranscriptomic libraries using segment co-occurrence and correlated abundance, including segments without recognizable homology.",
+  "date": "2025-07-24",
+  "version": null,
+  "license": "MIT",
+  "language": "Python, Shell, R, Perl",
+  "package_managers": [
+    "conda"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "FASTQ"
+  ],
+  "output_formats": [
+    "XLSX",
+    "FASTA",
+    "TSV"
+  ],
+  "topics": [
+    "segmented-rna-viruses",
+    "virus-discovery",
+    "metatranscriptomics",
+    "co-occurrence"
+  ],
+  "type": "tool",
+  "interface": "CLI",
+  "workflow_managers": null,
+  "platforms": [
+    "Linux"
+  ],
+  "installation_methods": [
+    "Conda",
+    "Singularity"
+  ]
+}

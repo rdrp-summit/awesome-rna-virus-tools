@@ -1,0 +1,52 @@
+{
+  "name": "RolyPoly",
+  "title": "RolyPoly: an RNA virus analysis toolkit",
+  "url": "https://github.com/UriNeri/rolypoly",
+  "doi": null,
+  "bibtex": null,
+  "description": "Modular RNA virus analysis toolkit covering read filtering, assembly, RdRp and nucleotide-based virus marker search, ICTV taxonomy assignment, RNA structure and ribozyme annotation, and contig binning, usable as a CLI or as a Python library.",
+  "date": null,
+  "data_updated": "2026-08-20",
+  "version": "0.7.18",
+  "license": "GPL-3.0",
+  "language": "Python",
+  "package_managers": [
+    "bioconda",
+    "pypi"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "FASTA",
+    "FASTQ"
+  ],
+  "output_formats": [
+    "FASTA",
+    "TSV",
+    "CSV",
+    "Parquet",
+    "JSONL"
+  ],
+  "topics": [
+    "rna-viruses",
+    "virus-discovery",
+    "annotation",
+    "taxonomy",
+    "toolkit"
+  ],
+  "type": "tool",
+  "interface": [
+    "CLI",
+    "Python library"
+  ],
+  "workflow_managers": null,
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "installation_methods": [
+    "Conda",
+    "Mamba",
+    "Pixi",
+    "pip"
+  ]
+}

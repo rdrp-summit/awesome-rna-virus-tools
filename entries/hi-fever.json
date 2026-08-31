@@ -1,0 +1,45 @@
+{
+  "name": "HI-FEVER",
+  "title": "HI-FEVER: a Nextflow pipeline for the high-throughput discovery and annotation of endogenous viral elements",
+  "url": "https://github.com/PaleovirologyLab/hi-fever",
+  "doi": "10.1093/bioinformatics/btaf610",
+  "bibtex": null,
+  "description": "Parallel Nextflow workflow for discovering and annotating endogenous viral elements in eukaryotic genomes from viral protein queries, including elements derived from non-retroviral RNA viruses.",
+  "date": "2025-11-08",
+  "version": "0.2",
+  "license": "MIT",
+  "language": "Nextflow, Python",
+  "package_managers": [
+    "conda"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "FASTA"
+  ],
+  "output_formats": [
+    "TSV",
+    "FASTA",
+    "SQLite"
+  ],
+  "topics": [
+    "endogenous-viral-elements",
+    "paleovirology",
+    "rna-viruses",
+    "annotation"
+  ],
+  "type": "tool",
+  "interface": "CLI",
+  "workflow_managers": [
+    "Nextflow"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "WSL"
+  ],
+  "installation_methods": [
+    "Conda",
+    "Pixi",
+    "Apptainer"
+  ]
+}

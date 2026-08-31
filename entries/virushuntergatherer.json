@@ -1,0 +1,41 @@
+{
+  "name": "VirusHunterGatherer",
+  "title": "VirusHunterGatherer: a two-stage Snakemake pipeline for data-driven virus discovery",
+  "url": "https://github.com/lauberlab/VirusHunterGatherer",
+  "doi": null,
+  "bibtex": null,
+  "description": "Snakemake workflow that performs profile HMM-based homology search for viral reads (Virushunter) followed by seed-based iterative genome assembly (Virusgatherer); ships with a dedicated RNA virus pHMM profile set alongside small and large DNA virus profile sets.",
+  "date": null,
+  "data_updated": "2026-08-11",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "language": "Perl",
+  "package_managers": null,
+  "package_manager": "source",
+  "input_formats": [
+    "FASTQ",
+    "SRA"
+  ],
+  "output_formats": [
+    "TSV",
+    "FASTA"
+  ],
+  "topics": [
+    "virus-discovery",
+    "metagenomics",
+    "rna-viruses",
+    "profile-hmm",
+    "snakemake"
+  ],
+  "type": "tool",
+  "interface": "CLI",
+  "workflow_managers": [
+    "Snakemake"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "installation_methods": [
+    "Conda"
+  ]
+}

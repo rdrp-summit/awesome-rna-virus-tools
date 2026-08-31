@@ -1,0 +1,45 @@
+{
+  "name": "RdRpCATCH",
+  "title": "RdRpCATCH: a unified resource for RNA virus discovery using viral RNA-dependent RNA polymerase profile Hidden Markov models",
+  "url": "https://github.com/dimitris-karapliafis/RdRpCATCH",
+  "doi": "10.1093/nargab/lqag076",
+  "bibtex": null,
+  "description": "Searches nucleotide or protein sequences against a unified collection of RNA-virus RdRp profile HMM databases and assigns Riboviria taxonomy with MMseqs2.",
+  "date": "2026",
+  "version": "1.0.2",
+  "license": "MIT",
+  "language": "Python",
+  "package_managers": [
+    "bioconda",
+    "pip"
+  ],
+  "package_manager": "source",
+  "input_formats": [
+    "FASTA"
+  ],
+  "output_formats": [
+    "TSV",
+    "FASTA",
+    "GFF"
+  ],
+  "topics": [
+    "pHMM",
+    "RdRp",
+    "rna-viruses",
+    "virus-discovery",
+    "taxonomy"
+  ],
+  "type": "tool",
+  "interface": [
+    "CLI",
+    "Web Interface"
+  ],
+  "workflow_managers": null,
+  "platforms": [
+    "Linux"
+  ],
+  "installation_methods": [
+    "Bioconda",
+    "pip"
+  ]
+}
